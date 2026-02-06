@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data of the World | Global Statistics Dashboard</title>
+    <meta name="application-name" content="Data of the World">
+    <meta name="description" content="Data of the World is an interactive dashboard for comparing GDP, HDI, population, democracy index, and other world statistics by country and year.">
+    <meta name="keywords" content="Data of the World, world statistics, global data visualization, GDP, HDI, population, democracy index, D3 dashboard">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Patryk Palej">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <link rel="canonical" href="https://dataofthe.world/">
+    <link rel="author" href="https://palej.dev/">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dataofthe.world/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Data of the World">
+    <meta property="og:title" content="Data of the World | Global Statistics Dashboard">
+    <meta property="og:description" content="Explore and compare global indicators with interactive scatterplots, timelines, and maps.">
+    <meta property="og:image" content="https://dataofthe.world/favicons/android-chrome-512x512.png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <meta property="og:image:type" content="image/png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Data of the World | Global Statistics Dashboard">
+    <meta name="twitter:description" content="Explore and compare global indicators with interactive scatterplots, timelines, and maps.">
+    <meta name="twitter:image" content="https://dataofthe.world/favicons/android-chrome-512x512.png">
+    <meta name="theme-color" content="#0c1222">
+    <meta name="msapplication-TileColor" content="#0c1222">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="stylesheet" href="/css/styles.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Data of the World",
+        "url": "https://dataofthe.world/",
+        "description": "An interactive dashboard for comparing GDP, HDI, population, democracy index, and other world statistics by country and year.",
+        "applicationCategory": "DataVisualization",
+        "operatingSystem": "Any",
+        "browserRequirements": "Requires JavaScript",
+        "author": {
+            "@type": "Person",
+            "name": "Patryk Palej",
+            "url": "https://palej.dev/"
+        },
+        "provider": {
+            "@type": "Person",
+            "name": "Patryk Palej",
+            "url": "https://palej.dev/"
+        },
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "screenshot": "https://dataofthe.world/favicons/android-chrome-512x512.png"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://dataofthe.world/"
+            }
+        ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "World Countries Statistics",
+        "description": "Global statistics including GDP, HDI, population, democracy index, and other indicators for countries worldwide.",
+        "url": "https://dataofthe.world/",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "creator": {
+            "@type": "Person",
+            "name": "Patryk Palej",
+            "url": "https://palej.dev/"
+        },
+        "distribution": {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://dataofthe.world/api/data"
+        },
+        "temporalCoverage": "1960/..",
+        "spatialCoverage": {
+            "@type": "Place",
+            "name": "World"
+        }
+    }
+    </script>
+    <!-- Matomo -->
+    <script>
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//matomo.palej.dev/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '4']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+</head>
+<body class="dark-mode">
+    <!-- App Loading Overlay -->
+    <div id="appLoader" class="app-loader">
+        <div class="app-loader-content">
+            <div class="app-loader-spinner">
+                <svg viewBox="0 0 50 50">
+                    <circle cx="25" cy="25" r="20" fill="none" stroke-width="4"></circle>
+                </svg>
+            </div>
+            <div class="app-loader-text">Loading</div>
+        </div>
+    </div>
+
+    <!-- Header with Navigation -->
+    <header>
+        <div class="header-content">
+            <div class="header-left">
+                <button id="hamburgerBtn" class="hamburger-btn" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <img src="/favicons/favicon-64x64.png" alt="World data globe logo" class="brand-mark">
+                <div class="brand-group">
+                    <h1 class="brand-logo">Data of the <span class="brand-accent">World</span></h1>
+                    <p class="brand-subtitle">Global Statistics Dashboard</p>
+                </div>
+            </div>
+
+            <!-- Navigation Tabs -->
+            <nav class="tabs" id="navTabs">
+                <button class="tab-btn active" data-tab="compare">Compare</button>
+                <button class="tab-btn" data-tab="timeline">Timeline</button>
+                <button class="tab-btn" data-tab="map">Map</button>
+                <button class="tab-btn" data-tab="raw-data">Raw Data</button>
+            </nav>
+
+            <div class="header-controls">
+                <div class="info-btn-wrapper">
+                    <button id="downloadDataBtn" class="control-btn" aria-label="Download all data">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                    </button>
+                    <div class="info-tooltip">
+                        Download all data
+                    </div>
+                </div>
+                <div class="info-btn-wrapper">
+                    <a href="/indicators" class="control-btn info-btn" aria-label="Indicators description">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <line x1="12" y1="16" x2="12" y2="12"></line>
+                            <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                        </svg>
+                    </a>
+                    <div class="info-tooltip">
+                        View indicators description
+                    </div>
+                </div>
+                <button id="themeToggle" class="control-btn">
+                    <svg id="themeIcon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Compare Tab -->
+        <div id="compare" class="tab-content active">
+            <div class="compare-container">
+                <div class="compare-controls-panel">
+                <div class="compare-axis-card">
+                    <label class="filter-label compare-plot-label">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="4 18 8 14 12 16 16 10 20 6"></polyline>
+                            <line x1="3" y1="22" x2="3" y2="6"></line>
+                            <line x1="3" y1="22" x2="21" y2="22"></line>
+                        </svg>
+                        Plot 1
+                    </label>
+                    <div class="axis-selector-group">
+                        <div class="axis-selectors-stack">
+                            <div class="axis-selector-row">
+                                <label>X:</label>
+                                <div class="searchable-select" id="xAxis1-container" data-select-id="xAxis1">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value" id="xAxis1-value">Select indicator...</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="xAxis1-options"></div>
+                                    </div>
+                                    <input type="hidden" id="xAxis1" name="xAxis1">
+                                </div>
+                            </div>
+                            <div class="axis-selector-row">
+                                <label>Y:</label>
+                                <div class="searchable-select" id="yAxis1-container" data-select-id="yAxis1">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value" id="yAxis1-value">Select indicator...</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="yAxis1-options"></div>
+                                    </div>
+                                    <input type="hidden" id="yAxis1" name="yAxis1">
+                                </div>
+                            </div>
+                        </div>
+                        <button type="button" class="axis-swap-btn" data-plot="1" aria-label="Swap X and Y axes" title="Swap axes">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M7 16V4M7 4L3 8M7 4l4 4M17 8v12M17 20l4-4M17 20l-4-4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="compare-year-card">
+                    <label class="filter-label compare-year-label">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                        </svg>
+                        Year
+                    </label>
+                    <div class="compare-year-content">
+                        <div class="year-selector compare-year-selector">
+                            <div class="year-selector-value">
+                                <input type="number" id="compareYearInput" class="year-selector-input">
+                                <svg class="year-edit-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                                </svg>
+                            </div>
+                            <div class="year-selector-slider">
+                                <span id="compareYearMin" class="year-selector-bound"></span>
+                                <input type="range" id="compareYearSlider" class="year-selector-range">
+                                <span id="compareYearMax" class="year-selector-bound"></span>
+                            </div>
+                        </div>
+                        <div class="year-mode-group compare-year-modes">
+                            <label class="radio-label">
+                                <input type="radio" name="compareYearMode" id="yearModeSlider" value="slider" class="control-radio" checked>
+                                <span>Select year</span>
+                            </label>
+                            <label class="radio-label">
+                                <input type="radio" name="compareYearMode" id="yearModeAll" value="all" class="control-radio">
+                                <span>All years data</span>
+                            </label>
+                            <label class="radio-label">
+                                <input type="radio" name="compareYearMode" id="yearModeAveraged" value="averaged" class="control-radio">
+                                <span>All years averaged</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="compare-axis-card plot-2-only">
+                    <label class="filter-label compare-plot-label">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="4 18 8 14 12 16 16 10 20 6"></polyline>
+                            <line x1="3" y1="22" x2="3" y2="6"></line>
+                            <line x1="3" y1="22" x2="21" y2="22"></line>
+                        </svg>
+                        Plot 2
+                    </label>
+                    <div class="axis-selector-group">
+                        <div class="axis-selectors-stack">
+                            <div class="axis-selector-row">
+                                <label>X:</label>
+                                <div class="searchable-select" id="xAxis2-container" data-select-id="xAxis2">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value" id="xAxis2-value">Select indicator...</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="xAxis2-options"></div>
+                                    </div>
+                                    <input type="hidden" id="xAxis2" name="xAxis2">
+                                </div>
+                            </div>
+                            <div class="axis-selector-row">
+                                <label>Y:</label>
+                                <div class="searchable-select" id="yAxis2-container" data-select-id="yAxis2">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value" id="yAxis2-value">Select indicator...</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="yAxis2-options"></div>
+                                    </div>
+                                    <input type="hidden" id="yAxis2" name="yAxis2">
+                                </div>
+                            </div>
+                        </div>
+                        <button type="button" class="axis-swap-btn" data-plot="2" aria-label="Swap X and Y axes" title="Swap axes">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M7 16V4M7 4L3 8M7 4l4 4M17 8v12M17 20l4-4M17 20l-4-4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="plots-container">
+                <!-- Plot 1 -->
+                <div class="plot-section">
+                    <div id="plot1" class="plot"></div>
+                </div>
+
+                <!-- Plot 2 -->
+                <div class="plot-section plot-2-only">
+                    <div id="plot2" class="plot"></div>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <!-- Timeline Tab -->
+        <div id="timeline" class="tab-content">
+            <div class="timeline-container">
+                <!-- Controls Panel -->
+                <div class="timeline-controls">
+                    <!-- Filter Grid -->
+                    <div class="filter-grid timeline-filter-grid">
+                        <!-- Countries Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path>
+                                    <line x1="4" y1="22" x2="4" y2="15"></line>
+                                </svg>
+                                Countries
+                            </label>
+                            <div class="multiselect-container" id="timelineCountryMultiselect">
+                                <div class="multiselect-input-wrapper">
+                                    <div class="multiselect-tags" id="timelineCountryTags"></div>
+                                    <svg class="multiselect-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="multiselect-dropdown" id="timelineCountryDropdown">
+                                    <div class="multiselect-search-wrapper">
+                                        <svg class="multiselect-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                        <input type="text" class="multiselect-search" id="timelineCountrySearch" placeholder="Search country...">
+                                    </div>
+                                    <div class="multiselect-actions">
+                                        <button type="button" class="multiselect-action-btn" id="timelineCountrySelectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                                            Select all
+                                        </button>
+                                        <button type="button" class="multiselect-action-btn multiselect-action-btn--danger" id="timelineCountryUnselectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect></svg>
+                                            Clear all
+                                        </button>
+                                    </div>
+                                    <div class="multiselect-options" id="timelineCountryOptions"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Indexes Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="18" y1="20" x2="18" y2="10"></line>
+                                    <line x1="12" y1="20" x2="12" y2="4"></line>
+                                    <line x1="6" y1="20" x2="6" y2="14"></line>
+                                </svg>
+                                Indicators
+                            </label>
+                            <div class="multiselect-container" id="timelineIndexesMultiselect">
+                                <div class="multiselect-input-wrapper">
+                                    <div class="multiselect-tags" id="timelineIndexesTags"></div>
+                                    <svg class="multiselect-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="multiselect-dropdown" id="timelineIndexesDropdown">
+                                    <div class="multiselect-search-wrapper">
+                                        <svg class="multiselect-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                        <input type="text" class="multiselect-search" id="timelineIndexesSearch" placeholder="Search indicator...">
+                                    </div>
+                                    <div class="multiselect-actions">
+                                        <button type="button" class="multiselect-action-btn" id="timelineIndexesSelectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                                            Select all
+                                        </button>
+                                        <button type="button" class="multiselect-action-btn multiselect-action-btn--danger" id="timelineIndexesUnselectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect></svg>
+                                            Clear all
+                                        </button>
+                                    </div>
+                                    <div class="multiselect-options" id="timelineIndexesOptions"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Plots Container -->
+                <div class="timeline-plots-wrapper">
+                    <div id="timelinePlots" class="timeline-plots-grid">
+                        <!-- Line plots will be rendered here -->
+                    </div>
+                    <div id="timelineNoData" class="timeline-no-data" style="display: none;">
+                        <p>No data available for selected filters</p>
+                    </div>
+                    <div id="timelineNoSelection" class="timeline-no-data" style="display: none;">
+                        <p>Select at least one country and one index to view time series data</p>
+                    </div>
+                    <div id="timelineLoading" class="timeline-loading" style="display: none;">
+                        <p>Loading data...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Map Tab -->
+        <div id="map" class="tab-content">
+            <div class="map-container">
+                <!-- Controls Panel -->
+                <div class="map-controls">
+                    <!-- Filter Grid -->
+                    <div class="filter-grid map-filter-grid">
+                        <!-- Year Filter Card -->
+                        <div class="filter-card filter-card-year">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg>
+                                Year
+                            </label>
+                            <div class="year-selector">
+                                <div class="year-selector-value">
+                                    <input type="number" id="mapYearInput" class="year-selector-input">
+                                    <svg class="year-edit-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                        <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                                    </svg>
+                                </div>
+                                <div class="year-selector-slider">
+                                    <span id="mapYearMin" class="year-selector-bound"></span>
+                                    <input type="range" id="mapYearSlider" class="year-selector-range">
+                                    <span id="mapYearMax" class="year-selector-bound"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Continent Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <line x1="2" y1="12" x2="22" y2="12"></line>
+                                    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+                                </svg>
+                                Continent
+                            </label>
+                            <div class="searchable-select" id="mapContinent-container" data-select-id="mapContinent">
+                                <div class="searchable-select-trigger">
+                                    <span class="searchable-select-value" id="mapContinent-value">All continents</span>
+                                    <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="searchable-select-dropdown">
+                                    <div class="searchable-select-options" id="mapContinent-options"></div>
+                                </div>
+                                <input type="hidden" id="mapContinent" name="mapContinent" value="all">
+                            </div>
+                        </div>
+
+                        <!-- Index Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="18" y1="20" x2="18" y2="10"></line>
+                                    <line x1="12" y1="20" x2="12" y2="4"></line>
+                                    <line x1="6" y1="20" x2="6" y2="14"></line>
+                                </svg>
+                                Indicator
+                            </label>
+                            <div class="searchable-select" id="mapIndex-container" data-select-id="mapIndex">
+                                <div class="searchable-select-trigger">
+                                    <span class="searchable-select-value" id="mapIndex-value">Select indicator...</span>
+                                    <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="searchable-select-dropdown">
+                                    <div class="searchable-select-search-wrapper">
+                                        <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                        <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                    </div>
+                                    <div class="searchable-select-options" id="mapIndex-options"></div>
+                                </div>
+                                <input type="hidden" id="mapIndex" name="mapIndex">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Map Visualization -->
+                <div class="map-wrapper">
+                    <div id="worldMap" class="world-map"></div>
+                    <div class="map-legend" id="mapLegend"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Raw Data Tab -->
+        <div id="raw-data" class="tab-content">
+            <div class="raw-data-container">
+                <!-- Controls Panel -->
+                <div class="raw-data-controls">
+                    <!-- Filter Grid -->
+                    <div class="filter-grid">
+                        <!-- Year Filter Card -->
+                        <div class="filter-card filter-card-year">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg>
+                                Year
+                            </label>
+                            <div class="year-selector">
+                                <div class="year-selector-value">
+                                    <input type="number" id="rawDataYearInput" class="year-selector-input">
+                                    <svg class="year-edit-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                        <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                                    </svg>
+                                </div>
+                                <div class="year-selector-slider">
+                                    <span id="rawDataYearMin" class="year-selector-bound"></span>
+                                    <input type="range" id="rawDataYearSlider" class="year-selector-range">
+                                    <span id="rawDataYearMax" class="year-selector-bound"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Countries Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path>
+                                    <line x1="4" y1="22" x2="4" y2="15"></line>
+                                </svg>
+                                Countries
+                            </label>
+                            <div class="multiselect-container" id="countryMultiselect">
+                                <div class="multiselect-input-wrapper">
+                                    <div class="multiselect-tags" id="countryTags"></div>
+                                    <svg class="multiselect-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="multiselect-dropdown" id="countryDropdown">
+                                    <div class="multiselect-search-wrapper">
+                                        <svg class="multiselect-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                        <input type="text" class="multiselect-search" id="countrySearch" placeholder="Search country...">
+                                    </div>
+                                    <div class="multiselect-actions">
+                                        <button type="button" class="multiselect-action-btn" id="countrySelectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                                            Select all
+                                        </button>
+                                        <button type="button" class="multiselect-action-btn multiselect-action-btn--danger" id="countryUnselectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect></svg>
+                                            Clear all
+                                        </button>
+                                    </div>
+                                    <div class="multiselect-options" id="countryOptions"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Indexes Filter Card -->
+                        <div class="filter-card">
+                            <label class="filter-label">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="18" y1="20" x2="18" y2="10"></line>
+                                    <line x1="12" y1="20" x2="12" y2="4"></line>
+                                    <line x1="6" y1="20" x2="6" y2="14"></line>
+                                </svg>
+                                Indicators
+                            </label>
+                            <div class="multiselect-container" id="indexesMultiselect">
+                                <div class="multiselect-input-wrapper">
+                                    <div class="multiselect-tags" id="indexesTags"></div>
+                                    <svg class="multiselect-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                </div>
+                                <div class="multiselect-dropdown" id="indexesDropdown">
+                                    <div class="multiselect-search-wrapper">
+                                        <svg class="multiselect-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                        <input type="text" class="multiselect-search" id="indexesSearch" placeholder="Search indicator...">
+                                    </div>
+                                    <div class="multiselect-actions">
+                                        <button type="button" class="multiselect-action-btn" id="indexesSelectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 11 12 14 22 4"></polyline><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                                            Select all
+                                        </button>
+                                        <button type="button" class="multiselect-action-btn multiselect-action-btn--danger" id="indexesUnselectAll">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect></svg>
+                                            Clear all
+                                        </button>
+                                    </div>
+                                    <div class="multiselect-options" id="indexesOptions"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Data Table -->
+                <div class="raw-data-table-wrapper">
+                    <table class="raw-data-table" id="rawDataTable">
+                        <thead>
+                            <tr id="rawDataTableHeader">
+                                <!-- Headers will be populated by JavaScript -->
+                            </tr>
+                        </thead>
+                        <tbody id="rawDataTableBody">
+                            <!-- Data rows will be populated by JavaScript -->
+                        </tbody>
+                    </table>
+                    <div id="rawDataNoData" class="raw-data-no-data" style="display: none;">
+                        <p>No data available for selected filters</p>
+                    </div>
+                    <div id="rawDataLoading" class="raw-data-loading" style="display: none;">
+                        <p>Loading data...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section footer-data-sources">
+                <span class="footer-heading">Data Sources:</span>
+                <a href="https://data.worldbank.org/" target="_blank" rel="noopener noreferrer" class="footer-source">World Bank</a>
+                <a href="https://ourworldindata.org/" target="_blank" rel="noopener noreferrer" class="footer-source">Our World in Data</a>
+                <a href="https://rsf.org/en/index" target="_blank" rel="noopener noreferrer" class="footer-source">Reporters Without Borders</a>
+            </div>
+            <div class="footer-section footer-author">
+                <span class="footer-made-by">Created by</span>
+                <a href="https://palej.dev/" target="_blank" rel="noopener noreferrer" class="footer-author-link">
+                    <svg class="footer-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="12" cy="7" r="4"></circle>
+                    </svg>
+                    Patryk Palej
+                </a>
+                <span class="footer-separator">|</span>
+                <a href="https://github.com/patrykpalej/data-of-the-world" target="_blank" rel="noopener noreferrer" class="footer-source-code">
+                    <svg class="footer-link-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    Source code
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="/js/app.js"></script>
+</body>
+</html>

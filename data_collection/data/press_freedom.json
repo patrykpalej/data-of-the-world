@@ -1,0 +1,11307 @@
+[
+  {
+    "country_code": "AFG",
+    "year": 2013,
+    "value": 62.64
+  },
+  {
+    "country_code": "AFG",
+    "year": 2014,
+    "value": 62.93
+  },
+  {
+    "country_code": "AFG",
+    "year": 2015,
+    "value": 62.56
+  },
+  {
+    "country_code": "AFG",
+    "year": 2016,
+    "value": 62.25
+  },
+  {
+    "country_code": "AFG",
+    "year": 2017,
+    "value": 60.54
+  },
+  {
+    "country_code": "AFG",
+    "year": 2018,
+    "value": 62.72
+  },
+  {
+    "country_code": "AFG",
+    "year": 2019,
+    "value": 63.45
+  },
+  {
+    "country_code": "AFG",
+    "year": 2020,
+    "value": 62.3
+  },
+  {
+    "country_code": "AFG",
+    "year": 2021,
+    "value": 59.81
+  },
+  {
+    "country_code": "AFG",
+    "year": 2022,
+    "value": 38.27
+  },
+  {
+    "country_code": "AFG",
+    "year": 2023,
+    "value": 39.75
+  },
+  {
+    "country_code": "AFG",
+    "year": 2024,
+    "value": 19.09
+  },
+  {
+    "country_code": "AFG",
+    "year": 2025,
+    "value": 17.88
+  },
+  {
+    "country_code": "AGO",
+    "year": 2013,
+    "value": 62.2
+  },
+  {
+    "country_code": "AGO",
+    "year": 2014,
+    "value": 63.5
+  },
+  {
+    "country_code": "AGO",
+    "year": 2015,
+    "value": 62.16
+  },
+  {
+    "country_code": "AGO",
+    "year": 2016,
+    "value": 60.11
+  },
+  {
+    "country_code": "AGO",
+    "year": 2017,
+    "value": 59.58
+  },
+  {
+    "country_code": "AGO",
+    "year": 2018,
+    "value": 61.65
+  },
+  {
+    "country_code": "AGO",
+    "year": 2019,
+    "value": 65.04
+  },
+  {
+    "country_code": "AGO",
+    "year": 2020,
+    "value": 66.08
+  },
+  {
+    "country_code": "AGO",
+    "year": 2021,
+    "value": 65.94
+  },
+  {
+    "country_code": "AGO",
+    "year": 2022,
+    "value": 57.17
+  },
+  {
+    "country_code": "AGO",
+    "year": 2023,
+    "value": 48.3
+  },
+  {
+    "country_code": "AGO",
+    "year": 2024,
+    "value": 52.44
+  },
+  {
+    "country_code": "AGO",
+    "year": 2025,
+    "value": 52.67
+  },
+  {
+    "country_code": "ALB",
+    "year": 2013,
+    "value": 69.12
+  },
+  {
+    "country_code": "ALB",
+    "year": 2014,
+    "value": 70.08
+  },
+  {
+    "country_code": "ALB",
+    "year": 2015,
+    "value": 71.23
+  },
+  {
+    "country_code": "ALB",
+    "year": 2016,
+    "value": 70.08
+  },
+  {
+    "country_code": "ALB",
+    "year": 2017,
+    "value": 70.08
+  },
+  {
+    "country_code": "ALB",
+    "year": 2018,
+    "value": 70.51
+  },
+  {
+    "country_code": "ALB",
+    "year": 2019,
+    "value": 70.16
+  },
+  {
+    "country_code": "ALB",
+    "year": 2020,
+    "value": 69.75
+  },
+  {
+    "country_code": "ALB",
+    "year": 2021,
+    "value": 69.41
+  },
+  {
+    "country_code": "ALB",
+    "year": 2022,
+    "value": 56.41
+  },
+  {
+    "country_code": "ALB",
+    "year": 2023,
+    "value": 57.86
+  },
+  {
+    "country_code": "ALB",
+    "year": 2024,
+    "value": 54.1
+  },
+  {
+    "country_code": "ALB",
+    "year": 2025,
+    "value": 58.18
+  },
+  {
+    "country_code": "AND",
+    "year": 2013,
+    "value": 93.18
+  },
+  {
+    "country_code": "AND",
+    "year": 2014,
+    "value": 93.18
+  },
+  {
+    "country_code": "AND",
+    "year": 2015,
+    "value": 80.13
+  },
+  {
+    "country_code": "AND",
+    "year": 2016,
+    "value": 80.13
+  },
+  {
+    "country_code": "AND",
+    "year": 2017,
+    "value": 78.97
+  },
+  {
+    "country_code": "AND",
+    "year": 2018,
+    "value": 77.79
+  },
+  {
+    "country_code": "AND",
+    "year": 2019,
+    "value": 75.37
+  },
+  {
+    "country_code": "AND",
+    "year": 2020,
+    "value": 76.77
+  },
+  {
+    "country_code": "AND",
+    "year": 2021,
+    "value": 76.68
+  },
+  {
+    "country_code": "AND",
+    "year": 2022,
+    "value": 68.79
+  },
+  {
+    "country_code": "AND",
+    "year": 2023,
+    "value": 75.05
+  },
+  {
+    "country_code": "AND",
+    "year": 2024,
+    "value": 61.44
+  },
+  {
+    "country_code": "AND",
+    "year": 2025,
+    "value": 63.3
+  },
+  {
+    "country_code": "ARE",
+    "year": 2013,
+    "value": 66.51
+  },
+  {
+    "country_code": "ARE",
+    "year": 2014,
+    "value": 63.97
+  },
+  {
+    "country_code": "ARE",
+    "year": 2015,
+    "value": 63.27
+  },
+  {
+    "country_code": "ARE",
+    "year": 2016,
+    "value": 63.27
+  },
+  {
+    "country_code": "ARE",
+    "year": 2017,
+    "value": 60.61
+  },
+  {
+    "country_code": "ARE",
+    "year": 2018,
+    "value": 59.14
+  },
+  {
+    "country_code": "ARE",
+    "year": 2019,
+    "value": 56.37
+  },
+  {
+    "country_code": "ARE",
+    "year": 2020,
+    "value": 57.31
+  },
+  {
+    "country_code": "ARE",
+    "year": 2021,
+    "value": 56.87
+  },
+  {
+    "country_code": "ARE",
+    "year": 2022,
+    "value": 44.46
+  },
+  {
+    "country_code": "ARE",
+    "year": 2023,
+    "value": 42.99
+  },
+  {
+    "country_code": "ARE",
+    "year": 2024,
+    "value": 30.62
+  },
+  {
+    "country_code": "ARE",
+    "year": 2025,
+    "value": 26.91
+  },
+  {
+    "country_code": "ARG",
+    "year": 2013,
+    "value": 74.33
+  },
+  {
+    "country_code": "ARG",
+    "year": 2014,
+    "value": 74.73
+  },
+  {
+    "country_code": "ARG",
+    "year": 2015,
+    "value": 73.89
+  },
+  {
+    "country_code": "ARG",
+    "year": 2016,
+    "value": 74.91
+  },
+  {
+    "country_code": "ARG",
+    "year": 2017,
+    "value": 74.93
+  },
+  {
+    "country_code": "ARG",
+    "year": 2018,
+    "value": 73.95
+  },
+  {
+    "country_code": "ARG",
+    "year": 2019,
+    "value": 71.7
+  },
+  {
+    "country_code": "ARG",
+    "year": 2020,
+    "value": 71.22
+  },
+  {
+    "country_code": "ARG",
+    "year": 2021,
+    "value": 71.01
+  },
+  {
+    "country_code": "ARG",
+    "year": 2022,
+    "value": 77.28
+  },
+  {
+    "country_code": "ARG",
+    "year": 2023,
+    "value": 73.36
+  },
+  {
+    "country_code": "ARG",
+    "year": 2024,
+    "value": 63.13
+  },
+  {
+    "country_code": "ARG",
+    "year": 2025,
+    "value": 56.14
+  },
+  {
+    "country_code": "ARM",
+    "year": 2013,
+    "value": 71.96
+  },
+  {
+    "country_code": "ARM",
+    "year": 2014,
+    "value": 70.93
+  },
+  {
+    "country_code": "ARM",
+    "year": 2015,
+    "value": 71.57
+  },
+  {
+    "country_code": "ARM",
+    "year": 2016,
+    "value": 71.21
+  },
+  {
+    "country_code": "ARM",
+    "year": 2017,
+    "value": 69.62
+  },
+  {
+    "country_code": "ARM",
+    "year": 2018,
+    "value": 70.01
+  },
+  {
+    "country_code": "ARM",
+    "year": 2019,
+    "value": 71.02
+  },
+  {
+    "country_code": "ARM",
+    "year": 2020,
+    "value": 71.4
+  },
+  {
+    "country_code": "ARM",
+    "year": 2021,
+    "value": 71.17
+  },
+  {
+    "country_code": "ARM",
+    "year": 2022,
+    "value": 68.97
+  },
+  {
+    "country_code": "ARM",
+    "year": 2023,
+    "value": 70.61
+  },
+  {
+    "country_code": "ARM",
+    "year": 2024,
+    "value": 71.6
+  },
+  {
+    "country_code": "ARM",
+    "year": 2025,
+    "value": 73.96
+  },
+  {
+    "country_code": "AUS",
+    "year": 2013,
+    "value": 84.76
+  },
+  {
+    "country_code": "AUS",
+    "year": 2014,
+    "value": 83.09
+  },
+  {
+    "country_code": "AUS",
+    "year": 2015,
+    "value": 82.97
+  },
+  {
+    "country_code": "AUS",
+    "year": 2016,
+    "value": 82.16
+  },
+  {
+    "country_code": "AUS",
+    "year": 2017,
+    "value": 83.98
+  },
+  {
+    "country_code": "AUS",
+    "year": 2018,
+    "value": 84.54
+  },
+  {
+    "country_code": "AUS",
+    "year": 2019,
+    "value": 83.45
+  },
+  {
+    "country_code": "AUS",
+    "year": 2020,
+    "value": 79.79
+  },
+  {
+    "country_code": "AUS",
+    "year": 2021,
+    "value": 80.21
+  },
+  {
+    "country_code": "AUS",
+    "year": 2022,
+    "value": 73.77
+  },
+  {
+    "country_code": "AUS",
+    "year": 2023,
+    "value": 78.24
+  },
+  {
+    "country_code": "AUS",
+    "year": 2024,
+    "value": 73.42
+  },
+  {
+    "country_code": "AUS",
+    "year": 2025,
+    "value": 75.15
+  },
+  {
+    "country_code": "AUT",
+    "year": 2013,
+    "value": 90.6
+  },
+  {
+    "country_code": "AUT",
+    "year": 2014,
+    "value": 89.99
+  },
+  {
+    "country_code": "AUT",
+    "year": 2015,
+    "value": 89.15
+  },
+  {
+    "country_code": "AUT",
+    "year": 2016,
+    "value": 86.82
+  },
+  {
+    "country_code": "AUT",
+    "year": 2017,
+    "value": 86.53
+  },
+  {
+    "country_code": "AUT",
+    "year": 2018,
+    "value": 85.96
+  },
+  {
+    "country_code": "AUT",
+    "year": 2019,
+    "value": 84.67
+  },
+  {
+    "country_code": "AUT",
+    "year": 2020,
+    "value": 84.22
+  },
+  {
+    "country_code": "AUT",
+    "year": 2021,
+    "value": 83.66
+  },
+  {
+    "country_code": "AUT",
+    "year": 2022,
+    "value": 76.74
+  },
+  {
+    "country_code": "AUT",
+    "year": 2023,
+    "value": 77.3
+  },
+  {
+    "country_code": "AUT",
+    "year": 2024,
+    "value": 74.69
+  },
+  {
+    "country_code": "AUT",
+    "year": 2025,
+    "value": 78.12
+  },
+  {
+    "country_code": "AZE",
+    "year": 2013,
+    "value": 52.27
+  },
+  {
+    "country_code": "AZE",
+    "year": 2014,
+    "value": 47.13
+  },
+  {
+    "country_code": "AZE",
+    "year": 2015,
+    "value": 41.59
+  },
+  {
+    "country_code": "AZE",
+    "year": 2016,
+    "value": 42.11
+  },
+  {
+    "country_code": "AZE",
+    "year": 2017,
+    "value": 43.6
+  },
+  {
+    "country_code": "AZE",
+    "year": 2018,
+    "value": 40.27
+  },
+  {
+    "country_code": "AZE",
+    "year": 2019,
+    "value": 40.87
+  },
+  {
+    "country_code": "AZE",
+    "year": 2020,
+    "value": 41.52
+  },
+  {
+    "country_code": "AZE",
+    "year": 2021,
+    "value": 41.23
+  },
+  {
+    "country_code": "AZE",
+    "year": 2022,
+    "value": 39.4
+  },
+  {
+    "country_code": "AZE",
+    "year": 2023,
+    "value": 39.93
+  },
+  {
+    "country_code": "AZE",
+    "year": 2024,
+    "value": 27.99
+  },
+  {
+    "country_code": "AZE",
+    "year": 2025,
+    "value": 25.47
+  },
+  {
+    "country_code": "BDI",
+    "year": 2013,
+    "value": 61.98
+  },
+  {
+    "country_code": "BDI",
+    "year": 2014,
+    "value": 59.5
+  },
+  {
+    "country_code": "BDI",
+    "year": 2015,
+    "value": 57.07
+  },
+  {
+    "country_code": "BDI",
+    "year": 2016,
+    "value": 45.9
+  },
+  {
+    "country_code": "BDI",
+    "year": 2017,
+    "value": 44.22
+  },
+  {
+    "country_code": "BDI",
+    "year": 2018,
+    "value": 44.74
+  },
+  {
+    "country_code": "BDI",
+    "year": 2019,
+    "value": 47.11
+  },
+  {
+    "country_code": "BDI",
+    "year": 2020,
+    "value": 44.67
+  },
+  {
+    "country_code": "BDI",
+    "year": 2021,
+    "value": 52.43
+  },
+  {
+    "country_code": "BDI",
+    "year": 2022,
+    "value": 55.74
+  },
+  {
+    "country_code": "BDI",
+    "year": 2023,
+    "value": 52.14
+  },
+  {
+    "country_code": "BDI",
+    "year": 2024,
+    "value": 51.78
+  },
+  {
+    "country_code": "BDI",
+    "year": 2025,
+    "value": 45.44
+  },
+  {
+    "country_code": "BEL",
+    "year": 2013,
+    "value": 87.06
+  },
+  {
+    "country_code": "BEL",
+    "year": 2014,
+    "value": 87.2
+  },
+  {
+    "country_code": "BEL",
+    "year": 2015,
+    "value": 88.02
+  },
+  {
+    "country_code": "BEL",
+    "year": 2016,
+    "value": 85.82
+  },
+  {
+    "country_code": "BEL",
+    "year": 2017,
+    "value": 87.25
+  },
+  {
+    "country_code": "BEL",
+    "year": 2018,
+    "value": 86.84
+  },
+  {
+    "country_code": "BEL",
+    "year": 2019,
+    "value": 87.93
+  },
+  {
+    "country_code": "BEL",
+    "year": 2020,
+    "value": 87.43
+  },
+  {
+    "country_code": "BEL",
+    "year": 2021,
+    "value": 88.31
+  },
+  {
+    "country_code": "BEL",
+    "year": 2022,
+    "value": 78.86
+  },
+  {
+    "country_code": "BEL",
+    "year": 2023,
+    "value": 76.47
+  },
+  {
+    "country_code": "BEL",
+    "year": 2024,
+    "value": 81.49
+  },
+  {
+    "country_code": "BEL",
+    "year": 2025,
+    "value": 80.12
+  },
+  {
+    "country_code": "BEN",
+    "year": 2013,
+    "value": 71.67
+  },
+  {
+    "country_code": "BEN",
+    "year": 2014,
+    "value": 71.17
+  },
+  {
+    "country_code": "BEN",
+    "year": 2015,
+    "value": 70.76
+  },
+  {
+    "country_code": "BEN",
+    "year": 2016,
+    "value": 71.03
+  },
+  {
+    "country_code": "BEN",
+    "year": 2017,
+    "value": 69.68
+  },
+  {
+    "country_code": "BEN",
+    "year": 2018,
+    "value": 69.84
+  },
+  {
+    "country_code": "BEN",
+    "year": 2019,
+    "value": 68.26
+  },
+  {
+    "country_code": "BEN",
+    "year": 2020,
+    "value": 64.89
+  },
+  {
+    "country_code": "BEN",
+    "year": 2021,
+    "value": 61.82
+  },
+  {
+    "country_code": "BEN",
+    "year": 2022,
+    "value": 48.39
+  },
+  {
+    "country_code": "BEN",
+    "year": 2023,
+    "value": 52.44
+  },
+  {
+    "country_code": "BEN",
+    "year": 2024,
+    "value": 56.73
+  },
+  {
+    "country_code": "BEN",
+    "year": 2025,
+    "value": 54.6
+  },
+  {
+    "country_code": "BFA",
+    "year": 2013,
+    "value": 76.3
+  },
+  {
+    "country_code": "BFA",
+    "year": 2014,
+    "value": 75.55
+  },
+  {
+    "country_code": "BFA",
+    "year": 2015,
+    "value": 76.21
+  },
+  {
+    "country_code": "BFA",
+    "year": 2016,
+    "value": 77.34
+  },
+  {
+    "country_code": "BFA",
+    "year": 2017,
+    "value": 76.15
+  },
+  {
+    "country_code": "BFA",
+    "year": 2018,
+    "value": 76.67
+  },
+  {
+    "country_code": "BFA",
+    "year": 2019,
+    "value": 75.47
+  },
+  {
+    "country_code": "BFA",
+    "year": 2020,
+    "value": 76.53
+  },
+  {
+    "country_code": "BFA",
+    "year": 2021,
+    "value": 76.83
+  },
+  {
+    "country_code": "BFA",
+    "year": 2022,
+    "value": 73.12
+  },
+  {
+    "country_code": "BFA",
+    "year": 2023,
+    "value": 67.64
+  },
+  {
+    "country_code": "BFA",
+    "year": 2024,
+    "value": 58.24
+  },
+  {
+    "country_code": "BFA",
+    "year": 2025,
+    "value": 52.25
+  },
+  {
+    "country_code": "BGD",
+    "year": 2013,
+    "value": 57.99
+  },
+  {
+    "country_code": "BGD",
+    "year": 2014,
+    "value": 57.42
+  },
+  {
+    "country_code": "BGD",
+    "year": 2015,
+    "value": 57.05
+  },
+  {
+    "country_code": "BGD",
+    "year": 2016,
+    "value": 54.06
+  },
+  {
+    "country_code": "BGD",
+    "year": 2017,
+    "value": 51.64
+  },
+  {
+    "country_code": "BGD",
+    "year": 2018,
+    "value": 51.38
+  },
+  {
+    "country_code": "BGD",
+    "year": 2019,
+    "value": 49.26
+  },
+  {
+    "country_code": "BGD",
+    "year": 2020,
+    "value": 50.63
+  },
+  {
+    "country_code": "BGD",
+    "year": 2021,
+    "value": 50.29
+  },
+  {
+    "country_code": "BGD",
+    "year": 2022,
+    "value": 36.63
+  },
+  {
+    "country_code": "BGD",
+    "year": 2023,
+    "value": 35.31
+  },
+  {
+    "country_code": "BGD",
+    "year": 2024,
+    "value": 27.64
+  },
+  {
+    "country_code": "BGD",
+    "year": 2025,
+    "value": 33.71
+  },
+  {
+    "country_code": "BGR",
+    "year": 2013,
+    "value": 71.42
+  },
+  {
+    "country_code": "BGR",
+    "year": 2014,
+    "value": 68.58
+  },
+  {
+    "country_code": "BGR",
+    "year": 2015,
+    "value": 67.09
+  },
+  {
+    "country_code": "BGR",
+    "year": 2016,
+    "value": 65.54
+  },
+  {
+    "country_code": "BGR",
+    "year": 2017,
+    "value": 64.99
+  },
+  {
+    "country_code": "BGR",
+    "year": 2018,
+    "value": 64.78
+  },
+  {
+    "country_code": "BGR",
+    "year": 2019,
+    "value": 64.89
+  },
+  {
+    "country_code": "BGR",
+    "year": 2020,
+    "value": 64.94
+  },
+  {
+    "country_code": "BGR",
+    "year": 2021,
+    "value": 62.71
+  },
+  {
+    "country_code": "BGR",
+    "year": 2022,
+    "value": 59.12
+  },
+  {
+    "country_code": "BGR",
+    "year": 2023,
+    "value": 62.98
+  },
+  {
+    "country_code": "BGR",
+    "year": 2024,
+    "value": 65.32
+  },
+  {
+    "country_code": "BGR",
+    "year": 2025,
+    "value": 60.78
+  },
+  {
+    "country_code": "BHR",
+    "year": 2013,
+    "value": 37.25
+  },
+  {
+    "country_code": "BHR",
+    "year": 2014,
+    "value": 41.74
+  },
+  {
+    "country_code": "BHR",
+    "year": 2015,
+    "value": 41.31
+  },
+  {
+    "country_code": "BHR",
+    "year": 2016,
+    "value": 45.14
+  },
+  {
+    "country_code": "BHR",
+    "year": 2017,
+    "value": 41.12
+  },
+  {
+    "country_code": "BHR",
+    "year": 2018,
+    "value": 39.15
+  },
+  {
+    "country_code": "BHR",
+    "year": 2019,
+    "value": 38.69
+  },
+  {
+    "country_code": "BHR",
+    "year": 2020,
+    "value": 39.87
+  },
+  {
+    "country_code": "BHR",
+    "year": 2021,
+    "value": 38.9
+  },
+  {
+    "country_code": "BHR",
+    "year": 2022,
+    "value": 30.97
+  },
+  {
+    "country_code": "BHR",
+    "year": 2023,
+    "value": 30.59
+  },
+  {
+    "country_code": "BHR",
+    "year": 2024,
+    "value": 23.21
+  },
+  {
+    "country_code": "BHR",
+    "year": 2025,
+    "value": 30.24
+  },
+  {
+    "country_code": "BIH",
+    "year": 2013,
+    "value": 73.14
+  },
+  {
+    "country_code": "BIH",
+    "year": 2014,
+    "value": 73.14
+  },
+  {
+    "country_code": "BIH",
+    "year": 2015,
+    "value": 72.49
+  },
+  {
+    "country_code": "BIH",
+    "year": 2016,
+    "value": 71.55
+  },
+  {
+    "country_code": "BIH",
+    "year": 2017,
+    "value": 72.17
+  },
+  {
+    "country_code": "BIH",
+    "year": 2018,
+    "value": 72.63
+  },
+  {
+    "country_code": "BIH",
+    "year": 2019,
+    "value": 70.98
+  },
+  {
+    "country_code": "BIH",
+    "year": 2020,
+    "value": 71.49
+  },
+  {
+    "country_code": "BIH",
+    "year": 2021,
+    "value": 71.66
+  },
+  {
+    "country_code": "BIH",
+    "year": 2022,
+    "value": 65.64
+  },
+  {
+    "country_code": "BIH",
+    "year": 2023,
+    "value": 65.43
+  },
+  {
+    "country_code": "BIH",
+    "year": 2024,
+    "value": 58.85
+  },
+  {
+    "country_code": "BIH",
+    "year": 2025,
+    "value": 56.33
+  },
+  {
+    "country_code": "BLR",
+    "year": 2013,
+    "value": 51.65
+  },
+  {
+    "country_code": "BLR",
+    "year": 2014,
+    "value": 52.18
+  },
+  {
+    "country_code": "BLR",
+    "year": 2015,
+    "value": 52.02
+  },
+  {
+    "country_code": "BLR",
+    "year": 2016,
+    "value": 45.68
+  },
+  {
+    "country_code": "BLR",
+    "year": 2017,
+    "value": 47.57
+  },
+  {
+    "country_code": "BLR",
+    "year": 2018,
+    "value": 47.41
+  },
+  {
+    "country_code": "BLR",
+    "year": 2019,
+    "value": 48.34
+  },
+  {
+    "country_code": "BLR",
+    "year": 2020,
+    "value": 50.25
+  },
+  {
+    "country_code": "BLR",
+    "year": 2021,
+    "value": 49.18
+  },
+  {
+    "country_code": "BLR",
+    "year": 2022,
+    "value": 39.62
+  },
+  {
+    "country_code": "BLR",
+    "year": 2023,
+    "value": 37.17
+  },
+  {
+    "country_code": "BLR",
+    "year": 2024,
+    "value": 26.8
+  },
+  {
+    "country_code": "BLR",
+    "year": 2025,
+    "value": 25.73
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2014,
+    "value": 82.95
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2015,
+    "value": 81.46
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2016,
+    "value": 79.39
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2017,
+    "value": 76.57
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2018,
+    "value": 75.45
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2019,
+    "value": 72.5
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2020,
+    "value": 72.5
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2021,
+    "value": 72.39
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2022,
+    "value": 70.67
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2023,
+    "value": 70.49
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2024,
+    "value": 66.85
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2025,
+    "value": 68.32
+  },
+  {
+    "country_code": "BOL",
+    "year": 2013,
+    "value": 67.2
+  },
+  {
+    "country_code": "BOL",
+    "year": 2014,
+    "value": 68.96
+  },
+  {
+    "country_code": "BOL",
+    "year": 2015,
+    "value": 68.71
+  },
+  {
+    "country_code": "BOL",
+    "year": 2016,
+    "value": 68.22
+  },
+  {
+    "country_code": "BOL",
+    "year": 2017,
+    "value": 66.12
+  },
+  {
+    "country_code": "BOL",
+    "year": 2018,
+    "value": 67.55
+  },
+  {
+    "country_code": "BOL",
+    "year": 2019,
+    "value": 64.62
+  },
+  {
+    "country_code": "BOL",
+    "year": 2020,
+    "value": 64.63
+  },
+  {
+    "country_code": "BOL",
+    "year": 2021,
+    "value": 64.53
+  },
+  {
+    "country_code": "BOL",
+    "year": 2022,
+    "value": 47.58
+  },
+  {
+    "country_code": "BOL",
+    "year": 2023,
+    "value": 51.09
+  },
+  {
+    "country_code": "BOL",
+    "year": 2024,
+    "value": 48.88
+  },
+  {
+    "country_code": "BOL",
+    "year": 2025,
+    "value": 54.09
+  },
+  {
+    "country_code": "BRA",
+    "year": 2013,
+    "value": 67.25
+  },
+  {
+    "country_code": "BRA",
+    "year": 2014,
+    "value": 65.97
+  },
+  {
+    "country_code": "BRA",
+    "year": 2015,
+    "value": 68.07
+  },
+  {
+    "country_code": "BRA",
+    "year": 2016,
+    "value": 67.38
+  },
+  {
+    "country_code": "BRA",
+    "year": 2017,
+    "value": 66.42
+  },
+  {
+    "country_code": "BRA",
+    "year": 2018,
+    "value": 68.8
+  },
+  {
+    "country_code": "BRA",
+    "year": 2019,
+    "value": 67.21
+  },
+  {
+    "country_code": "BRA",
+    "year": 2020,
+    "value": 65.95
+  },
+  {
+    "country_code": "BRA",
+    "year": 2021,
+    "value": 63.75
+  },
+  {
+    "country_code": "BRA",
+    "year": 2022,
+    "value": 55.36
+  },
+  {
+    "country_code": "BRA",
+    "year": 2023,
+    "value": 58.67
+  },
+  {
+    "country_code": "BRA",
+    "year": 2024,
+    "value": 58.59
+  },
+  {
+    "country_code": "BRA",
+    "year": 2025,
+    "value": 63.8
+  },
+  {
+    "country_code": "BRN",
+    "year": 2013,
+    "value": 64.55
+  },
+  {
+    "country_code": "BRN",
+    "year": 2014,
+    "value": 64.55
+  },
+  {
+    "country_code": "BRN",
+    "year": 2015,
+    "value": 63.24
+  },
+  {
+    "country_code": "BRN",
+    "year": 2016,
+    "value": 46.15
+  },
+  {
+    "country_code": "BRN",
+    "year": 2017,
+    "value": 46.28
+  },
+  {
+    "country_code": "BRN",
+    "year": 2018,
+    "value": 48.52
+  },
+  {
+    "country_code": "BRN",
+    "year": 2019,
+    "value": 48.52
+  },
+  {
+    "country_code": "BRN",
+    "year": 2020,
+    "value": 50.35
+  },
+  {
+    "country_code": "BRN",
+    "year": 2021,
+    "value": 50.09
+  },
+  {
+    "country_code": "BRN",
+    "year": 2022,
+    "value": 42.53
+  },
+  {
+    "country_code": "BRN",
+    "year": 2023,
+    "value": 44.2
+  },
+  {
+    "country_code": "BRN",
+    "year": 2024,
+    "value": 50.09
+  },
+  {
+    "country_code": "BRN",
+    "year": 2025,
+    "value": 53.47
+  },
+  {
+    "country_code": "BTN",
+    "year": 2013,
+    "value": 71.58
+  },
+  {
+    "country_code": "BTN",
+    "year": 2014,
+    "value": 69.27
+  },
+  {
+    "country_code": "BTN",
+    "year": 2015,
+    "value": 67.35
+  },
+  {
+    "country_code": "BTN",
+    "year": 2016,
+    "value": 69.27
+  },
+  {
+    "country_code": "BTN",
+    "year": 2017,
+    "value": 69.27
+  },
+  {
+    "country_code": "BTN",
+    "year": 2018,
+    "value": 69.27
+  },
+  {
+    "country_code": "BTN",
+    "year": 2019,
+    "value": 70.19
+  },
+  {
+    "country_code": "BTN",
+    "year": 2020,
+    "value": 71.1
+  },
+  {
+    "country_code": "BTN",
+    "year": 2021,
+    "value": 71.14
+  },
+  {
+    "country_code": "BTN",
+    "year": 2022,
+    "value": 76.46
+  },
+  {
+    "country_code": "BTN",
+    "year": 2023,
+    "value": 59.25
+  },
+  {
+    "country_code": "BTN",
+    "year": 2024,
+    "value": 37.29
+  },
+  {
+    "country_code": "BTN",
+    "year": 2025,
+    "value": 32.62
+  },
+  {
+    "country_code": "BWA",
+    "year": 2013,
+    "value": 77.09
+  },
+  {
+    "country_code": "BWA",
+    "year": 2014,
+    "value": 77.09
+  },
+  {
+    "country_code": "BWA",
+    "year": 2015,
+    "value": 77.09
+  },
+  {
+    "country_code": "BWA",
+    "year": 2016,
+    "value": 77.09
+  },
+  {
+    "country_code": "BWA",
+    "year": 2017,
+    "value": 75.07
+  },
+  {
+    "country_code": "BWA",
+    "year": 2018,
+    "value": 74.71
+  },
+  {
+    "country_code": "BWA",
+    "year": 2019,
+    "value": 74.91
+  },
+  {
+    "country_code": "BWA",
+    "year": 2020,
+    "value": 76.44
+  },
+  {
+    "country_code": "BWA",
+    "year": 2021,
+    "value": 76.75
+  },
+  {
+    "country_code": "BWA",
+    "year": 2022,
+    "value": 58.49
+  },
+  {
+    "country_code": "BWA",
+    "year": 2023,
+    "value": 64.61
+  },
+  {
+    "country_code": "BWA",
+    "year": 2024,
+    "value": 59.78
+  },
+  {
+    "country_code": "BWA",
+    "year": 2025,
+    "value": 57.64
+  },
+  {
+    "country_code": "CAF",
+    "year": 2013,
+    "value": 73.39
+  },
+  {
+    "country_code": "CAF",
+    "year": 2014,
+    "value": 66.87
+  },
+  {
+    "country_code": "CAF",
+    "year": 2015,
+    "value": 66.16
+  },
+  {
+    "country_code": "CAF",
+    "year": 2016,
+    "value": 66.4
+  },
+  {
+    "country_code": "CAF",
+    "year": 2017,
+    "value": 63.88
+  },
+  {
+    "country_code": "CAF",
+    "year": 2018,
+    "value": 64.75
+  },
+  {
+    "country_code": "CAF",
+    "year": 2019,
+    "value": 52.73
+  },
+  {
+    "country_code": "CAF",
+    "year": 2020,
+    "value": 57.13
+  },
+  {
+    "country_code": "CAF",
+    "year": 2021,
+    "value": 58.08
+  },
+  {
+    "country_code": "CAF",
+    "year": 2022,
+    "value": 56.96
+  },
+  {
+    "country_code": "CAF",
+    "year": 2023,
+    "value": 57.56
+  },
+  {
+    "country_code": "CAF",
+    "year": 2024,
+    "value": 60.12
+  },
+  {
+    "country_code": "CAF",
+    "year": 2025,
+    "value": 60.15
+  },
+  {
+    "country_code": "CAN",
+    "year": 2013,
+    "value": 87.31
+  },
+  {
+    "country_code": "CAN",
+    "year": 2014,
+    "value": 89.01
+  },
+  {
+    "country_code": "CAN",
+    "year": 2015,
+    "value": 89.01
+  },
+  {
+    "country_code": "CAN",
+    "year": 2016,
+    "value": 84.74
+  },
+  {
+    "country_code": "CAN",
+    "year": 2017,
+    "value": 83.47
+  },
+  {
+    "country_code": "CAN",
+    "year": 2018,
+    "value": 84.72
+  },
+  {
+    "country_code": "CAN",
+    "year": 2019,
+    "value": 84.31
+  },
+  {
+    "country_code": "CAN",
+    "year": 2020,
+    "value": 84.71
+  },
+  {
+    "country_code": "CAN",
+    "year": 2021,
+    "value": 84.75
+  },
+  {
+    "country_code": "CAN",
+    "year": 2022,
+    "value": 81.74
+  },
+  {
+    "country_code": "CAN",
+    "year": 2023,
+    "value": 83.53
+  },
+  {
+    "country_code": "CAN",
+    "year": 2024,
+    "value": 81.7
+  },
+  {
+    "country_code": "CAN",
+    "year": 2025,
+    "value": 78.75
+  },
+  {
+    "country_code": "CHE",
+    "year": 2013,
+    "value": 90.06
+  },
+  {
+    "country_code": "CHE",
+    "year": 2014,
+    "value": 89.53
+  },
+  {
+    "country_code": "CHE",
+    "year": 2015,
+    "value": 86.15
+  },
+  {
+    "country_code": "CHE",
+    "year": 2016,
+    "value": 88.24
+  },
+  {
+    "country_code": "CHE",
+    "year": 2017,
+    "value": 87.87
+  },
+  {
+    "country_code": "CHE",
+    "year": 2018,
+    "value": 88.73
+  },
+  {
+    "country_code": "CHE",
+    "year": 2019,
+    "value": 89.48
+  },
+  {
+    "country_code": "CHE",
+    "year": 2020,
+    "value": 89.38
+  },
+  {
+    "country_code": "CHE",
+    "year": 2021,
+    "value": 89.45
+  },
+  {
+    "country_code": "CHE",
+    "year": 2022,
+    "value": 82.72
+  },
+  {
+    "country_code": "CHE",
+    "year": 2023,
+    "value": 84.4
+  },
+  {
+    "country_code": "CHE",
+    "year": 2024,
+    "value": 84.01
+  },
+  {
+    "country_code": "CHE",
+    "year": 2025,
+    "value": 83.98
+  },
+  {
+    "country_code": "CHL",
+    "year": 2013,
+    "value": 73.76
+  },
+  {
+    "country_code": "CHL",
+    "year": 2014,
+    "value": 74.2
+  },
+  {
+    "country_code": "CHL",
+    "year": 2015,
+    "value": 77.0
+  },
+  {
+    "country_code": "CHL",
+    "year": 2016,
+    "value": 80.77
+  },
+  {
+    "country_code": "CHL",
+    "year": 2017,
+    "value": 79.47
+  },
+  {
+    "country_code": "CHL",
+    "year": 2018,
+    "value": 77.31
+  },
+  {
+    "country_code": "CHL",
+    "year": 2019,
+    "value": 74.35
+  },
+  {
+    "country_code": "CHL",
+    "year": 2020,
+    "value": 72.69
+  },
+  {
+    "country_code": "CHL",
+    "year": 2021,
+    "value": 72.11
+  },
+  {
+    "country_code": "CHL",
+    "year": 2022,
+    "value": 60.61
+  },
+  {
+    "country_code": "CHL",
+    "year": 2023,
+    "value": 60.09
+  },
+  {
+    "country_code": "CHL",
+    "year": 2024,
+    "value": 67.32
+  },
+  {
+    "country_code": "CHL",
+    "year": 2025,
+    "value": 62.25
+  },
+  {
+    "country_code": "CHN",
+    "year": 2013,
+    "value": 26.93
+  },
+  {
+    "country_code": "CHN",
+    "year": 2014,
+    "value": 27.09
+  },
+  {
+    "country_code": "CHN",
+    "year": 2015,
+    "value": 26.45
+  },
+  {
+    "country_code": "CHN",
+    "year": 2016,
+    "value": 19.04
+  },
+  {
+    "country_code": "CHN",
+    "year": 2017,
+    "value": 22.34
+  },
+  {
+    "country_code": "CHN",
+    "year": 2018,
+    "value": 21.71
+  },
+  {
+    "country_code": "CHN",
+    "year": 2019,
+    "value": 21.08
+  },
+  {
+    "country_code": "CHN",
+    "year": 2020,
+    "value": 21.52
+  },
+  {
+    "country_code": "CHN",
+    "year": 2021,
+    "value": 21.28
+  },
+  {
+    "country_code": "CHN",
+    "year": 2022,
+    "value": 25.17
+  },
+  {
+    "country_code": "CHN",
+    "year": 2023,
+    "value": 22.97
+  },
+  {
+    "country_code": "CHN",
+    "year": 2024,
+    "value": 23.36
+  },
+  {
+    "country_code": "CHN",
+    "year": 2025,
+    "value": 14.8
+  },
+  {
+    "country_code": "CIV",
+    "year": 2013,
+    "value": 70.23
+  },
+  {
+    "country_code": "CIV",
+    "year": 2014,
+    "value": 68.37
+  },
+  {
+    "country_code": "CIV",
+    "year": 2015,
+    "value": 69.55
+  },
+  {
+    "country_code": "CIV",
+    "year": 2016,
+    "value": 69.83
+  },
+  {
+    "country_code": "CIV",
+    "year": 2017,
+    "value": 69.58
+  },
+  {
+    "country_code": "CIV",
+    "year": 2018,
+    "value": 69.92
+  },
+  {
+    "country_code": "CIV",
+    "year": 2019,
+    "value": 70.48
+  },
+  {
+    "country_code": "CIV",
+    "year": 2020,
+    "value": 71.06
+  },
+  {
+    "country_code": "CIV",
+    "year": 2021,
+    "value": 71.13
+  },
+  {
+    "country_code": "CIV",
+    "year": 2022,
+    "value": 74.46
+  },
+  {
+    "country_code": "CIV",
+    "year": 2023,
+    "value": 68.83
+  },
+  {
+    "country_code": "CIV",
+    "year": 2024,
+    "value": 66.89
+  },
+  {
+    "country_code": "CIV",
+    "year": 2025,
+    "value": 63.69
+  },
+  {
+    "country_code": "CMR",
+    "year": 2013,
+    "value": 65.22
+  },
+  {
+    "country_code": "CMR",
+    "year": 2014,
+    "value": 61.87
+  },
+  {
+    "country_code": "CMR",
+    "year": 2015,
+    "value": 60.37
+  },
+  {
+    "country_code": "CMR",
+    "year": 2016,
+    "value": 59.47
+  },
+  {
+    "country_code": "CMR",
+    "year": 2017,
+    "value": 58.41
+  },
+  {
+    "country_code": "CMR",
+    "year": 2018,
+    "value": 59.08
+  },
+  {
+    "country_code": "CMR",
+    "year": 2019,
+    "value": 56.68
+  },
+  {
+    "country_code": "CMR",
+    "year": 2020,
+    "value": 56.72
+  },
+  {
+    "country_code": "CMR",
+    "year": 2021,
+    "value": 56.22
+  },
+  {
+    "country_code": "CMR",
+    "year": 2022,
+    "value": 49.1
+  },
+  {
+    "country_code": "CMR",
+    "year": 2023,
+    "value": 45.58
+  },
+  {
+    "country_code": "CMR",
+    "year": 2024,
+    "value": 44.95
+  },
+  {
+    "country_code": "CMR",
+    "year": 2025,
+    "value": 42.75
+  },
+  {
+    "country_code": "COD",
+    "year": 2013,
+    "value": 58.34
+  },
+  {
+    "country_code": "COD",
+    "year": 2014,
+    "value": 55.36
+  },
+  {
+    "country_code": "COD",
+    "year": 2015,
+    "value": 55.69
+  },
+  {
+    "country_code": "COD",
+    "year": 2016,
+    "value": 49.03
+  },
+  {
+    "country_code": "COD",
+    "year": 2017,
+    "value": 47.33
+  },
+  {
+    "country_code": "COD",
+    "year": 2018,
+    "value": 48.4
+  },
+  {
+    "country_code": "COD",
+    "year": 2019,
+    "value": 48.29
+  },
+  {
+    "country_code": "COD",
+    "year": 2020,
+    "value": 50.91
+  },
+  {
+    "country_code": "COD",
+    "year": 2021,
+    "value": 51.41
+  },
+  {
+    "country_code": "COD",
+    "year": 2022,
+    "value": 47.66
+  },
+  {
+    "country_code": "COD",
+    "year": 2023,
+    "value": 48.55
+  },
+  {
+    "country_code": "COD",
+    "year": 2024,
+    "value": 48.91
+  },
+  {
+    "country_code": "COD",
+    "year": 2025,
+    "value": 42.31
+  },
+  {
+    "country_code": "COG",
+    "year": 2013,
+    "value": 71.8
+  },
+  {
+    "country_code": "COG",
+    "year": 2014,
+    "value": 70.56
+  },
+  {
+    "country_code": "COG",
+    "year": 2015,
+    "value": 67.0
+  },
+  {
+    "country_code": "COG",
+    "year": 2016,
+    "value": 64.16
+  },
+  {
+    "country_code": "COG",
+    "year": 2017,
+    "value": 63.27
+  },
+  {
+    "country_code": "COG",
+    "year": 2018,
+    "value": 64.58
+  },
+  {
+    "country_code": "COG",
+    "year": 2019,
+    "value": 63.96
+  },
+  {
+    "country_code": "COG",
+    "year": 2020,
+    "value": 63.44
+  },
+  {
+    "country_code": "COG",
+    "year": 2021,
+    "value": 61.17
+  },
+  {
+    "country_code": "COG",
+    "year": 2022,
+    "value": 58.64
+  },
+  {
+    "country_code": "COG",
+    "year": 2023,
+    "value": 60.42
+  },
+  {
+    "country_code": "COG",
+    "year": 2024,
+    "value": 62.57
+  },
+  {
+    "country_code": "COG",
+    "year": 2025,
+    "value": 60.58
+  },
+  {
+    "country_code": "COL",
+    "year": 2013,
+    "value": 62.52
+  },
+  {
+    "country_code": "COL",
+    "year": 2014,
+    "value": 63.32
+  },
+  {
+    "country_code": "COL",
+    "year": 2015,
+    "value": 60.92
+  },
+  {
+    "country_code": "COL",
+    "year": 2016,
+    "value": 55.89
+  },
+  {
+    "country_code": "COL",
+    "year": 2017,
+    "value": 58.53
+  },
+  {
+    "country_code": "COL",
+    "year": 2018,
+    "value": 58.97
+  },
+  {
+    "country_code": "COL",
+    "year": 2019,
+    "value": 57.18
+  },
+  {
+    "country_code": "COL",
+    "year": 2020,
+    "value": 57.34
+  },
+  {
+    "country_code": "COL",
+    "year": 2021,
+    "value": 56.26
+  },
+  {
+    "country_code": "COL",
+    "year": 2022,
+    "value": 42.43
+  },
+  {
+    "country_code": "COL",
+    "year": 2023,
+    "value": 45.23
+  },
+  {
+    "country_code": "COL",
+    "year": 2024,
+    "value": 49.63
+  },
+  {
+    "country_code": "COL",
+    "year": 2025,
+    "value": 49.8
+  },
+  {
+    "country_code": "COM",
+    "year": 2013,
+    "value": 75.48
+  },
+  {
+    "country_code": "COM",
+    "year": 2014,
+    "value": 75.48
+  },
+  {
+    "country_code": "COM",
+    "year": 2015,
+    "value": 75.48
+  },
+  {
+    "country_code": "COM",
+    "year": 2016,
+    "value": 75.67
+  },
+  {
+    "country_code": "COM",
+    "year": 2017,
+    "value": 75.67
+  },
+  {
+    "country_code": "COM",
+    "year": 2018,
+    "value": 74.7
+  },
+  {
+    "country_code": "COM",
+    "year": 2019,
+    "value": 72.09
+  },
+  {
+    "country_code": "COM",
+    "year": 2020,
+    "value": 70.23
+  },
+  {
+    "country_code": "COM",
+    "year": 2021,
+    "value": 69.35
+  },
+  {
+    "country_code": "COM",
+    "year": 2022,
+    "value": 60.16
+  },
+  {
+    "country_code": "COM",
+    "year": 2023,
+    "value": 62.25
+  },
+  {
+    "country_code": "COM",
+    "year": 2024,
+    "value": 61.47
+  },
+  {
+    "country_code": "COM",
+    "year": 2025,
+    "value": 59.27
+  },
+  {
+    "country_code": "CPV",
+    "year": 2013,
+    "value": 85.67
+  },
+  {
+    "country_code": "CPV",
+    "year": 2014,
+    "value": 85.68
+  },
+  {
+    "country_code": "CPV",
+    "year": 2015,
+    "value": 79.31
+  },
+  {
+    "country_code": "CPV",
+    "year": 2016,
+    "value": 80.18
+  },
+  {
+    "country_code": "CPV",
+    "year": 2017,
+    "value": 81.98
+  },
+  {
+    "country_code": "CPV",
+    "year": 2018,
+    "value": 79.61
+  },
+  {
+    "country_code": "CPV",
+    "year": 2019,
+    "value": 80.19
+  },
+  {
+    "country_code": "CPV",
+    "year": 2020,
+    "value": 79.85
+  },
+  {
+    "country_code": "CPV",
+    "year": 2021,
+    "value": 79.91
+  },
+  {
+    "country_code": "CPV",
+    "year": 2022,
+    "value": 75.37
+  },
+  {
+    "country_code": "CPV",
+    "year": 2023,
+    "value": 75.72
+  },
+  {
+    "country_code": "CPV",
+    "year": 2024,
+    "value": 72.77
+  },
+  {
+    "country_code": "CPV",
+    "year": 2025,
+    "value": 74.98
+  },
+  {
+    "country_code": "CRI",
+    "year": 2013,
+    "value": 87.92
+  },
+  {
+    "country_code": "CRI",
+    "year": 2014,
+    "value": 87.77
+  },
+  {
+    "country_code": "CRI",
+    "year": 2015,
+    "value": 87.74
+  },
+  {
+    "country_code": "CRI",
+    "year": 2016,
+    "value": 88.9
+  },
+  {
+    "country_code": "CRI",
+    "year": 2017,
+    "value": 88.07
+  },
+  {
+    "country_code": "CRI",
+    "year": 2018,
+    "value": 85.99
+  },
+  {
+    "country_code": "CRI",
+    "year": 2019,
+    "value": 87.76
+  },
+  {
+    "country_code": "CRI",
+    "year": 2020,
+    "value": 89.47
+  },
+  {
+    "country_code": "CRI",
+    "year": 2021,
+    "value": 91.24
+  },
+  {
+    "country_code": "CRI",
+    "year": 2022,
+    "value": 85.92
+  },
+  {
+    "country_code": "CRI",
+    "year": 2023,
+    "value": 80.2
+  },
+  {
+    "country_code": "CRI",
+    "year": 2024,
+    "value": 76.13
+  },
+  {
+    "country_code": "CRI",
+    "year": 2025,
+    "value": 73.09
+  },
+  {
+    "country_code": "CUB",
+    "year": 2013,
+    "value": 28.36
+  },
+  {
+    "country_code": "CUB",
+    "year": 2014,
+    "value": 29.08
+  },
+  {
+    "country_code": "CUB",
+    "year": 2015,
+    "value": 29.79
+  },
+  {
+    "country_code": "CUB",
+    "year": 2016,
+    "value": 29.77
+  },
+  {
+    "country_code": "CUB",
+    "year": 2017,
+    "value": 28.25
+  },
+  {
+    "country_code": "CUB",
+    "year": 2018,
+    "value": 31.1
+  },
+  {
+    "country_code": "CUB",
+    "year": 2019,
+    "value": 36.19
+  },
+  {
+    "country_code": "CUB",
+    "year": 2020,
+    "value": 36.19
+  },
+  {
+    "country_code": "CUB",
+    "year": 2021,
+    "value": 36.06
+  },
+  {
+    "country_code": "CUB",
+    "year": 2022,
+    "value": 27.32
+  },
+  {
+    "country_code": "CUB",
+    "year": 2023,
+    "value": 29.0
+  },
+  {
+    "country_code": "CUB",
+    "year": 2024,
+    "value": 25.63
+  },
+  {
+    "country_code": "CUB",
+    "year": 2025,
+    "value": 26.03
+  },
+  {
+    "country_code": "CYP",
+    "year": 2013,
+    "value": 86.17
+  },
+  {
+    "country_code": "CYP",
+    "year": 2014,
+    "value": 85.55
+  },
+  {
+    "country_code": "CYP",
+    "year": 2015,
+    "value": 83.48
+  },
+  {
+    "country_code": "CYP",
+    "year": 2016,
+    "value": 81.74
+  },
+  {
+    "country_code": "CYP",
+    "year": 2017,
+    "value": 80.21
+  },
+  {
+    "country_code": "CYP",
+    "year": 2018,
+    "value": 80.15
+  },
+  {
+    "country_code": "CYP",
+    "year": 2019,
+    "value": 78.26
+  },
+  {
+    "country_code": "CYP",
+    "year": 2020,
+    "value": 79.55
+  },
+  {
+    "country_code": "CYP",
+    "year": 2021,
+    "value": 80.15
+  },
+  {
+    "country_code": "CYP",
+    "year": 2022,
+    "value": 65.97
+  },
+  {
+    "country_code": "CYP",
+    "year": 2023,
+    "value": 68.62
+  },
+  {
+    "country_code": "CYP",
+    "year": 2024,
+    "value": 63.14
+  },
+  {
+    "country_code": "CYP",
+    "year": 2025,
+    "value": 59.04
+  },
+  {
+    "country_code": "CZE",
+    "year": 2013,
+    "value": 89.83
+  },
+  {
+    "country_code": "CZE",
+    "year": 2014,
+    "value": 89.93
+  },
+  {
+    "country_code": "CZE",
+    "year": 2015,
+    "value": 88.38
+  },
+  {
+    "country_code": "CZE",
+    "year": 2016,
+    "value": 83.34
+  },
+  {
+    "country_code": "CZE",
+    "year": 2017,
+    "value": 83.09
+  },
+  {
+    "country_code": "CZE",
+    "year": 2018,
+    "value": 78.11
+  },
+  {
+    "country_code": "CZE",
+    "year": 2019,
+    "value": 75.11
+  },
+  {
+    "country_code": "CZE",
+    "year": 2020,
+    "value": 76.43
+  },
+  {
+    "country_code": "CZE",
+    "year": 2021,
+    "value": 76.62
+  },
+  {
+    "country_code": "CZE",
+    "year": 2022,
+    "value": 80.54
+  },
+  {
+    "country_code": "CZE",
+    "year": 2023,
+    "value": 83.58
+  },
+  {
+    "country_code": "CZE",
+    "year": 2024,
+    "value": 80.14
+  },
+  {
+    "country_code": "CZE",
+    "year": 2025,
+    "value": 83.96
+  },
+  {
+    "country_code": "DEU",
+    "year": 2013,
+    "value": 89.76
+  },
+  {
+    "country_code": "DEU",
+    "year": 2014,
+    "value": 89.77
+  },
+  {
+    "country_code": "DEU",
+    "year": 2015,
+    "value": 88.53
+  },
+  {
+    "country_code": "DEU",
+    "year": 2016,
+    "value": 85.2
+  },
+  {
+    "country_code": "DEU",
+    "year": 2017,
+    "value": 85.03
+  },
+  {
+    "country_code": "DEU",
+    "year": 2018,
+    "value": 85.61
+  },
+  {
+    "country_code": "DEU",
+    "year": 2019,
+    "value": 85.4
+  },
+  {
+    "country_code": "DEU",
+    "year": 2020,
+    "value": 87.84
+  },
+  {
+    "country_code": "DEU",
+    "year": 2021,
+    "value": 84.76
+  },
+  {
+    "country_code": "DEU",
+    "year": 2022,
+    "value": 82.04
+  },
+  {
+    "country_code": "DEU",
+    "year": 2023,
+    "value": 81.91
+  },
+  {
+    "country_code": "DEU",
+    "year": 2024,
+    "value": 83.84
+  },
+  {
+    "country_code": "DEU",
+    "year": 2025,
+    "value": 83.85
+  },
+  {
+    "country_code": "DJI",
+    "year": 2013,
+    "value": 32.6
+  },
+  {
+    "country_code": "DJI",
+    "year": 2014,
+    "value": 29.66
+  },
+  {
+    "country_code": "DJI",
+    "year": 2015,
+    "value": 28.96
+  },
+  {
+    "country_code": "DJI",
+    "year": 2016,
+    "value": 29.1
+  },
+  {
+    "country_code": "DJI",
+    "year": 2017,
+    "value": 29.46
+  },
+  {
+    "country_code": "DJI",
+    "year": 2018,
+    "value": 29.23
+  },
+  {
+    "country_code": "DJI",
+    "year": 2019,
+    "value": 28.64
+  },
+  {
+    "country_code": "DJI",
+    "year": 2020,
+    "value": 23.27
+  },
+  {
+    "country_code": "DJI",
+    "year": 2021,
+    "value": 21.38
+  },
+  {
+    "country_code": "DJI",
+    "year": 2022,
+    "value": 35.75
+  },
+  {
+    "country_code": "DJI",
+    "year": 2023,
+    "value": 35.87
+  },
+  {
+    "country_code": "DJI",
+    "year": 2024,
+    "value": 30.14
+  },
+  {
+    "country_code": "DJI",
+    "year": 2025,
+    "value": 25.36
+  },
+  {
+    "country_code": "DNK",
+    "year": 2013,
+    "value": 92.92
+  },
+  {
+    "country_code": "DNK",
+    "year": 2014,
+    "value": 92.57
+  },
+  {
+    "country_code": "DNK",
+    "year": 2015,
+    "value": 91.76
+  },
+  {
+    "country_code": "DNK",
+    "year": 2016,
+    "value": 91.11
+  },
+  {
+    "country_code": "DNK",
+    "year": 2017,
+    "value": 89.64
+  },
+  {
+    "country_code": "DNK",
+    "year": 2018,
+    "value": 86.01
+  },
+  {
+    "country_code": "DNK",
+    "year": 2019,
+    "value": 90.13
+  },
+  {
+    "country_code": "DNK",
+    "year": 2020,
+    "value": 91.87
+  },
+  {
+    "country_code": "DNK",
+    "year": 2021,
+    "value": 91.43
+  },
+  {
+    "country_code": "DNK",
+    "year": 2022,
+    "value": 90.27
+  },
+  {
+    "country_code": "DNK",
+    "year": 2023,
+    "value": 89.48
+  },
+  {
+    "country_code": "DNK",
+    "year": 2024,
+    "value": 89.6
+  },
+  {
+    "country_code": "DNK",
+    "year": 2025,
+    "value": 86.93
+  },
+  {
+    "country_code": "DOM",
+    "year": 2013,
+    "value": 71.66
+  },
+  {
+    "country_code": "DOM",
+    "year": 2014,
+    "value": 72.83
+  },
+  {
+    "country_code": "DOM",
+    "year": 2015,
+    "value": 72.69
+  },
+  {
+    "country_code": "DOM",
+    "year": 2016,
+    "value": 72.1
+  },
+  {
+    "country_code": "DOM",
+    "year": 2017,
+    "value": 73.24
+  },
+  {
+    "country_code": "DOM",
+    "year": 2018,
+    "value": 73.21
+  },
+  {
+    "country_code": "DOM",
+    "year": 2019,
+    "value": 72.1
+  },
+  {
+    "country_code": "DOM",
+    "year": 2020,
+    "value": 72.1
+  },
+  {
+    "country_code": "DOM",
+    "year": 2021,
+    "value": 74.4
+  },
+  {
+    "country_code": "DOM",
+    "year": 2022,
+    "value": 76.9
+  },
+  {
+    "country_code": "DOM",
+    "year": 2023,
+    "value": 71.88
+  },
+  {
+    "country_code": "DOM",
+    "year": 2024,
+    "value": 73.89
+  },
+  {
+    "country_code": "DOM",
+    "year": 2025,
+    "value": 69.87
+  },
+  {
+    "country_code": "DZA",
+    "year": 2013,
+    "value": 63.46
+  },
+  {
+    "country_code": "DZA",
+    "year": 2014,
+    "value": 63.74
+  },
+  {
+    "country_code": "DZA",
+    "year": 2015,
+    "value": 63.37
+  },
+  {
+    "country_code": "DZA",
+    "year": 2016,
+    "value": 58.31
+  },
+  {
+    "country_code": "DZA",
+    "year": 2017,
+    "value": 57.17
+  },
+  {
+    "country_code": "DZA",
+    "year": 2018,
+    "value": 56.87
+  },
+  {
+    "country_code": "DZA",
+    "year": 2019,
+    "value": 54.25
+  },
+  {
+    "country_code": "DZA",
+    "year": 2020,
+    "value": 54.48
+  },
+  {
+    "country_code": "DZA",
+    "year": 2021,
+    "value": 52.74
+  },
+  {
+    "country_code": "DZA",
+    "year": 2022,
+    "value": 45.53
+  },
+  {
+    "country_code": "DZA",
+    "year": 2023,
+    "value": 45.74
+  },
+  {
+    "country_code": "DZA",
+    "year": 2024,
+    "value": 41.98
+  },
+  {
+    "country_code": "DZA",
+    "year": 2025,
+    "value": 44.64
+  },
+  {
+    "country_code": "ECU",
+    "year": 2013,
+    "value": 65.31
+  },
+  {
+    "country_code": "ECU",
+    "year": 2014,
+    "value": 68.84
+  },
+  {
+    "country_code": "ECU",
+    "year": 2015,
+    "value": 66.35
+  },
+  {
+    "country_code": "ECU",
+    "year": 2016,
+    "value": 66.79
+  },
+  {
+    "country_code": "ECU",
+    "year": 2017,
+    "value": 66.36
+  },
+  {
+    "country_code": "ECU",
+    "year": 2018,
+    "value": 69.44
+  },
+  {
+    "country_code": "ECU",
+    "year": 2019,
+    "value": 68.12
+  },
+  {
+    "country_code": "ECU",
+    "year": 2020,
+    "value": 67.38
+  },
+  {
+    "country_code": "ECU",
+    "year": 2021,
+    "value": 67.17
+  },
+  {
+    "country_code": "ECU",
+    "year": 2022,
+    "value": 64.61
+  },
+  {
+    "country_code": "ECU",
+    "year": 2023,
+    "value": 60.51
+  },
+  {
+    "country_code": "ECU",
+    "year": 2024,
+    "value": 51.3
+  },
+  {
+    "country_code": "ECU",
+    "year": 2025,
+    "value": 53.76
+  },
+  {
+    "country_code": "EGY",
+    "year": 2013,
+    "value": 51.34
+  },
+  {
+    "country_code": "EGY",
+    "year": 2014,
+    "value": 48.11
+  },
+  {
+    "country_code": "EGY",
+    "year": 2015,
+    "value": 49.83
+  },
+  {
+    "country_code": "EGY",
+    "year": 2016,
+    "value": 45.55
+  },
+  {
+    "country_code": "EGY",
+    "year": 2017,
+    "value": 44.22
+  },
+  {
+    "country_code": "EGY",
+    "year": 2018,
+    "value": 43.28
+  },
+  {
+    "country_code": "EGY",
+    "year": 2019,
+    "value": 43.53
+  },
+  {
+    "country_code": "EGY",
+    "year": 2020,
+    "value": 43.18
+  },
+  {
+    "country_code": "EGY",
+    "year": 2021,
+    "value": 43.83
+  },
+  {
+    "country_code": "EGY",
+    "year": 2022,
+    "value": 30.23
+  },
+  {
+    "country_code": "EGY",
+    "year": 2023,
+    "value": 33.37
+  },
+  {
+    "country_code": "EGY",
+    "year": 2024,
+    "value": 25.1
+  },
+  {
+    "country_code": "EGY",
+    "year": 2025,
+    "value": 24.74
+  },
+  {
+    "country_code": "ERI",
+    "year": 2013,
+    "value": 15.17
+  },
+  {
+    "country_code": "ERI",
+    "year": 2014,
+    "value": 15.17
+  },
+  {
+    "country_code": "ERI",
+    "year": 2015,
+    "value": 15.14
+  },
+  {
+    "country_code": "ERI",
+    "year": 2016,
+    "value": 16.08
+  },
+  {
+    "country_code": "ERI",
+    "year": 2017,
+    "value": 15.76
+  },
+  {
+    "country_code": "ERI",
+    "year": 2018,
+    "value": 15.76
+  },
+  {
+    "country_code": "ERI",
+    "year": 2019,
+    "value": 19.74
+  },
+  {
+    "country_code": "ERI",
+    "year": 2020,
+    "value": 16.5
+  },
+  {
+    "country_code": "ERI",
+    "year": 2021,
+    "value": 18.55
+  },
+  {
+    "country_code": "ERI",
+    "year": 2022,
+    "value": 19.62
+  },
+  {
+    "country_code": "ERI",
+    "year": 2023,
+    "value": 27.86
+  },
+  {
+    "country_code": "ERI",
+    "year": 2024,
+    "value": 16.64
+  },
+  {
+    "country_code": "ERI",
+    "year": 2025,
+    "value": 11.32
+  },
+  {
+    "country_code": "ESP",
+    "year": 2013,
+    "value": 79.5
+  },
+  {
+    "country_code": "ESP",
+    "year": 2014,
+    "value": 79.37
+  },
+  {
+    "country_code": "ESP",
+    "year": 2015,
+    "value": 80.05
+  },
+  {
+    "country_code": "ESP",
+    "year": 2016,
+    "value": 80.08
+  },
+  {
+    "country_code": "ESP",
+    "year": 2017,
+    "value": 81.31
+  },
+  {
+    "country_code": "ESP",
+    "year": 2018,
+    "value": 79.49
+  },
+  {
+    "country_code": "ESP",
+    "year": 2019,
+    "value": 78.01
+  },
+  {
+    "country_code": "ESP",
+    "year": 2020,
+    "value": 77.84
+  },
+  {
+    "country_code": "ESP",
+    "year": 2021,
+    "value": 79.56
+  },
+  {
+    "country_code": "ESP",
+    "year": 2022,
+    "value": 76.71
+  },
+  {
+    "country_code": "ESP",
+    "year": 2023,
+    "value": 75.37
+  },
+  {
+    "country_code": "ESP",
+    "year": 2024,
+    "value": 76.01
+  },
+  {
+    "country_code": "ESP",
+    "year": 2025,
+    "value": 77.35
+  },
+  {
+    "country_code": "EST",
+    "year": 2013,
+    "value": 90.74
+  },
+  {
+    "country_code": "EST",
+    "year": 2014,
+    "value": 90.37
+  },
+  {
+    "country_code": "EST",
+    "year": 2015,
+    "value": 88.81
+  },
+  {
+    "country_code": "EST",
+    "year": 2016,
+    "value": 85.69
+  },
+  {
+    "country_code": "EST",
+    "year": 2017,
+    "value": 86.45
+  },
+  {
+    "country_code": "EST",
+    "year": 2018,
+    "value": 85.92
+  },
+  {
+    "country_code": "EST",
+    "year": 2019,
+    "value": 87.73
+  },
+  {
+    "country_code": "EST",
+    "year": 2020,
+    "value": 87.39
+  },
+  {
+    "country_code": "EST",
+    "year": 2021,
+    "value": 84.75
+  },
+  {
+    "country_code": "EST",
+    "year": 2022,
+    "value": 88.83
+  },
+  {
+    "country_code": "EST",
+    "year": 2023,
+    "value": 85.31
+  },
+  {
+    "country_code": "EST",
+    "year": 2024,
+    "value": 86.44
+  },
+  {
+    "country_code": "EST",
+    "year": 2025,
+    "value": 89.46
+  },
+  {
+    "country_code": "ETH",
+    "year": 2013,
+    "value": 60.43
+  },
+  {
+    "country_code": "ETH",
+    "year": 2014,
+    "value": 59.42
+  },
+  {
+    "country_code": "ETH",
+    "year": 2015,
+    "value": 58.17
+  },
+  {
+    "country_code": "ETH",
+    "year": 2016,
+    "value": 54.87
+  },
+  {
+    "country_code": "ETH",
+    "year": 2017,
+    "value": 49.66
+  },
+  {
+    "country_code": "ETH",
+    "year": 2018,
+    "value": 49.83
+  },
+  {
+    "country_code": "ETH",
+    "year": 2019,
+    "value": 64.89
+  },
+  {
+    "country_code": "ETH",
+    "year": 2020,
+    "value": 67.18
+  },
+  {
+    "country_code": "ETH",
+    "year": 2021,
+    "value": 66.37
+  },
+  {
+    "country_code": "ETH",
+    "year": 2022,
+    "value": 50.53
+  },
+  {
+    "country_code": "ETH",
+    "year": 2023,
+    "value": 47.7
+  },
+  {
+    "country_code": "ETH",
+    "year": 2024,
+    "value": 41.37
+  },
+  {
+    "country_code": "ETH",
+    "year": 2025,
+    "value": 36.92
+  },
+  {
+    "country_code": "FIN",
+    "year": 2013,
+    "value": 93.62
+  },
+  {
+    "country_code": "FIN",
+    "year": 2014,
+    "value": 93.6
+  },
+  {
+    "country_code": "FIN",
+    "year": 2015,
+    "value": 92.48
+  },
+  {
+    "country_code": "FIN",
+    "year": 2016,
+    "value": 91.41
+  },
+  {
+    "country_code": "FIN",
+    "year": 2017,
+    "value": 91.08
+  },
+  {
+    "country_code": "FIN",
+    "year": 2018,
+    "value": 89.74
+  },
+  {
+    "country_code": "FIN",
+    "year": 2019,
+    "value": 92.1
+  },
+  {
+    "country_code": "FIN",
+    "year": 2020,
+    "value": 92.07
+  },
+  {
+    "country_code": "FIN",
+    "year": 2021,
+    "value": 93.01
+  },
+  {
+    "country_code": "FIN",
+    "year": 2022,
+    "value": 88.42
+  },
+  {
+    "country_code": "FIN",
+    "year": 2023,
+    "value": 87.94
+  },
+  {
+    "country_code": "FIN",
+    "year": 2024,
+    "value": 86.55
+  },
+  {
+    "country_code": "FIN",
+    "year": 2025,
+    "value": 87.18
+  },
+  {
+    "country_code": "FJI",
+    "year": 2013,
+    "value": 67.31
+  },
+  {
+    "country_code": "FJI",
+    "year": 2014,
+    "value": 67.43
+  },
+  {
+    "country_code": "FJI",
+    "year": 2015,
+    "value": 68.72
+  },
+  {
+    "country_code": "FJI",
+    "year": 2016,
+    "value": 70.63
+  },
+  {
+    "country_code": "FJI",
+    "year": 2017,
+    "value": 71.36
+  },
+  {
+    "country_code": "FJI",
+    "year": 2018,
+    "value": 73.45
+  },
+  {
+    "country_code": "FJI",
+    "year": 2019,
+    "value": 72.82
+  },
+  {
+    "country_code": "FJI",
+    "year": 2020,
+    "value": 72.59
+  },
+  {
+    "country_code": "FJI",
+    "year": 2021,
+    "value": 72.08
+  },
+  {
+    "country_code": "FJI",
+    "year": 2022,
+    "value": 56.91
+  },
+  {
+    "country_code": "FJI",
+    "year": 2023,
+    "value": 59.27
+  },
+  {
+    "country_code": "FJI",
+    "year": 2024,
+    "value": 71.23
+  },
+  {
+    "country_code": "FJI",
+    "year": 2025,
+    "value": 71.2
+  },
+  {
+    "country_code": "FRA",
+    "year": 2013,
+    "value": 78.4
+  },
+  {
+    "country_code": "FRA",
+    "year": 2014,
+    "value": 78.11
+  },
+  {
+    "country_code": "FRA",
+    "year": 2015,
+    "value": 78.85
+  },
+  {
+    "country_code": "FRA",
+    "year": 2016,
+    "value": 76.17
+  },
+  {
+    "country_code": "FRA",
+    "year": 2017,
+    "value": 77.76
+  },
+  {
+    "country_code": "FRA",
+    "year": 2018,
+    "value": 78.13
+  },
+  {
+    "country_code": "FRA",
+    "year": 2019,
+    "value": 77.79
+  },
+  {
+    "country_code": "FRA",
+    "year": 2020,
+    "value": 77.08
+  },
+  {
+    "country_code": "FRA",
+    "year": 2021,
+    "value": 77.4
+  },
+  {
+    "country_code": "FRA",
+    "year": 2022,
+    "value": 78.53
+  },
+  {
+    "country_code": "FRA",
+    "year": 2023,
+    "value": 78.72
+  },
+  {
+    "country_code": "FRA",
+    "year": 2024,
+    "value": 78.65
+  },
+  {
+    "country_code": "FRA",
+    "year": 2025,
+    "value": 76.62
+  },
+  {
+    "country_code": "GAB",
+    "year": 2013,
+    "value": 71.31
+  },
+  {
+    "country_code": "GAB",
+    "year": 2014,
+    "value": 68.68
+  },
+  {
+    "country_code": "GAB",
+    "year": 2015,
+    "value": 68.62
+  },
+  {
+    "country_code": "GAB",
+    "year": 2016,
+    "value": 67.8
+  },
+  {
+    "country_code": "GAB",
+    "year": 2017,
+    "value": 65.17
+  },
+  {
+    "country_code": "GAB",
+    "year": 2018,
+    "value": 67.63
+  },
+  {
+    "country_code": "GAB",
+    "year": 2019,
+    "value": 64.4
+  },
+  {
+    "country_code": "GAB",
+    "year": 2020,
+    "value": 62.8
+  },
+  {
+    "country_code": "GAB",
+    "year": 2021,
+    "value": 61.4
+  },
+  {
+    "country_code": "GAB",
+    "year": 2022,
+    "value": 56.0
+  },
+  {
+    "country_code": "GAB",
+    "year": 2023,
+    "value": 58.12
+  },
+  {
+    "country_code": "GAB",
+    "year": 2024,
+    "value": 65.83
+  },
+  {
+    "country_code": "GAB",
+    "year": 2025,
+    "value": 70.65
+  },
+  {
+    "country_code": "GBR",
+    "year": 2013,
+    "value": 83.11
+  },
+  {
+    "country_code": "GBR",
+    "year": 2014,
+    "value": 80.07
+  },
+  {
+    "country_code": "GBR",
+    "year": 2015,
+    "value": 80.0
+  },
+  {
+    "country_code": "GBR",
+    "year": 2016,
+    "value": 78.3
+  },
+  {
+    "country_code": "GBR",
+    "year": 2017,
+    "value": 77.74
+  },
+  {
+    "country_code": "GBR",
+    "year": 2018,
+    "value": 76.75
+  },
+  {
+    "country_code": "GBR",
+    "year": 2019,
+    "value": 77.77
+  },
+  {
+    "country_code": "GBR",
+    "year": 2020,
+    "value": 77.07
+  },
+  {
+    "country_code": "GBR",
+    "year": 2021,
+    "value": 78.41
+  },
+  {
+    "country_code": "GBR",
+    "year": 2022,
+    "value": 78.71
+  },
+  {
+    "country_code": "GBR",
+    "year": 2023,
+    "value": 78.51
+  },
+  {
+    "country_code": "GBR",
+    "year": 2024,
+    "value": 77.51
+  },
+  {
+    "country_code": "GBR",
+    "year": 2025,
+    "value": 78.89
+  },
+  {
+    "country_code": "GEO",
+    "year": 2013,
+    "value": 69.91
+  },
+  {
+    "country_code": "GEO",
+    "year": 2014,
+    "value": 70.22
+  },
+  {
+    "country_code": "GEO",
+    "year": 2015,
+    "value": 72.3
+  },
+  {
+    "country_code": "GEO",
+    "year": 2016,
+    "value": 72.04
+  },
+  {
+    "country_code": "GEO",
+    "year": 2017,
+    "value": 72.24
+  },
+  {
+    "country_code": "GEO",
+    "year": 2018,
+    "value": 72.66
+  },
+  {
+    "country_code": "GEO",
+    "year": 2019,
+    "value": 71.02
+  },
+  {
+    "country_code": "GEO",
+    "year": 2020,
+    "value": 71.41
+  },
+  {
+    "country_code": "GEO",
+    "year": 2021,
+    "value": 71.36
+  },
+  {
+    "country_code": "GEO",
+    "year": 2022,
+    "value": 59.3
+  },
+  {
+    "country_code": "GEO",
+    "year": 2023,
+    "value": 61.69
+  },
+  {
+    "country_code": "GEO",
+    "year": 2024,
+    "value": 53.05
+  },
+  {
+    "country_code": "GEO",
+    "year": 2025,
+    "value": 50.53
+  },
+  {
+    "country_code": "GHA",
+    "year": 2013,
+    "value": 82.73
+  },
+  {
+    "country_code": "GHA",
+    "year": 2014,
+    "value": 83.71
+  },
+  {
+    "country_code": "GHA",
+    "year": 2015,
+    "value": 84.5
+  },
+  {
+    "country_code": "GHA",
+    "year": 2016,
+    "value": 82.05
+  },
+  {
+    "country_code": "GHA",
+    "year": 2017,
+    "value": 82.05
+  },
+  {
+    "country_code": "GHA",
+    "year": 2018,
+    "value": 81.59
+  },
+  {
+    "country_code": "GHA",
+    "year": 2019,
+    "value": 79.19
+  },
+  {
+    "country_code": "GHA",
+    "year": 2020,
+    "value": 77.74
+  },
+  {
+    "country_code": "GHA",
+    "year": 2021,
+    "value": 78.67
+  },
+  {
+    "country_code": "GHA",
+    "year": 2022,
+    "value": 67.43
+  },
+  {
+    "country_code": "GHA",
+    "year": 2023,
+    "value": 65.93
+  },
+  {
+    "country_code": "GHA",
+    "year": 2024,
+    "value": 67.71
+  },
+  {
+    "country_code": "GHA",
+    "year": 2025,
+    "value": 67.13
+  },
+  {
+    "country_code": "GIN",
+    "year": 2013,
+    "value": 71.51
+  },
+  {
+    "country_code": "GIN",
+    "year": 2014,
+    "value": 68.33
+  },
+  {
+    "country_code": "GIN",
+    "year": 2015,
+    "value": 67.44
+  },
+  {
+    "country_code": "GIN",
+    "year": 2016,
+    "value": 66.92
+  },
+  {
+    "country_code": "GIN",
+    "year": 2017,
+    "value": 66.85
+  },
+  {
+    "country_code": "GIN",
+    "year": 2018,
+    "value": 68.1
+  },
+  {
+    "country_code": "GIN",
+    "year": 2019,
+    "value": 66.51
+  },
+  {
+    "country_code": "GIN",
+    "year": 2020,
+    "value": 65.66
+  },
+  {
+    "country_code": "GIN",
+    "year": 2021,
+    "value": 64.58
+  },
+  {
+    "country_code": "GIN",
+    "year": 2022,
+    "value": 59.82
+  },
+  {
+    "country_code": "GIN",
+    "year": 2023,
+    "value": 59.51
+  },
+  {
+    "country_code": "GIN",
+    "year": 2024,
+    "value": 59.97
+  },
+  {
+    "country_code": "GIN",
+    "year": 2025,
+    "value": 52.53
+  },
+  {
+    "country_code": "GMB",
+    "year": 2013,
+    "value": 54.91
+  },
+  {
+    "country_code": "GMB",
+    "year": 2014,
+    "value": 53.58
+  },
+  {
+    "country_code": "GMB",
+    "year": 2015,
+    "value": 55.5
+  },
+  {
+    "country_code": "GMB",
+    "year": 2016,
+    "value": 53.47
+  },
+  {
+    "country_code": "GMB",
+    "year": 2017,
+    "value": 53.3
+  },
+  {
+    "country_code": "GMB",
+    "year": 2018,
+    "value": 61.64
+  },
+  {
+    "country_code": "GMB",
+    "year": 2019,
+    "value": 68.65
+  },
+  {
+    "country_code": "GMB",
+    "year": 2020,
+    "value": 69.38
+  },
+  {
+    "country_code": "GMB",
+    "year": 2021,
+    "value": 69.24
+  },
+  {
+    "country_code": "GMB",
+    "year": 2022,
+    "value": 69.25
+  },
+  {
+    "country_code": "GMB",
+    "year": 2023,
+    "value": 71.06
+  },
+  {
+    "country_code": "GMB",
+    "year": 2024,
+    "value": 65.53
+  },
+  {
+    "country_code": "GMB",
+    "year": 2025,
+    "value": 65.486
+  },
+  {
+    "country_code": "GNB",
+    "year": 2013,
+    "value": 71.06
+  },
+  {
+    "country_code": "GNB",
+    "year": 2014,
+    "value": 69.95
+  },
+  {
+    "country_code": "GNB",
+    "year": 2015,
+    "value": 71.3
+  },
+  {
+    "country_code": "GNB",
+    "year": 2016,
+    "value": 70.97
+  },
+  {
+    "country_code": "GNB",
+    "year": 2017,
+    "value": 69.91
+  },
+  {
+    "country_code": "GNB",
+    "year": 2018,
+    "value": 69.91
+  },
+  {
+    "country_code": "GNB",
+    "year": 2019,
+    "value": 69.05
+  },
+  {
+    "country_code": "GNB",
+    "year": 2020,
+    "value": 67.94
+  },
+  {
+    "country_code": "GNB",
+    "year": 2021,
+    "value": 67.32
+  },
+  {
+    "country_code": "GNB",
+    "year": 2022,
+    "value": 58.79
+  },
+  {
+    "country_code": "GNB",
+    "year": 2023,
+    "value": 61.57
+  },
+  {
+    "country_code": "GNB",
+    "year": 2024,
+    "value": 55.95
+  },
+  {
+    "country_code": "GNB",
+    "year": 2025,
+    "value": 51.36
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2013,
+    "value": 32.8
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2014,
+    "value": 32.05
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2015,
+    "value": 33.77
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2016,
+    "value": 33.53
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2017,
+    "value": 33.53
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2018,
+    "value": 33.53
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2019,
+    "value": 41.65
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2020,
+    "value": 43.62
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2021,
+    "value": 44.33
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2022,
+    "value": 43.96
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2023,
+    "value": 50.35
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2024,
+    "value": 46.49
+  },
+  {
+    "country_code": "GNQ",
+    "year": 2025,
+    "value": 48.68
+  },
+  {
+    "country_code": "GRC",
+    "year": 2013,
+    "value": 71.54
+  },
+  {
+    "country_code": "GRC",
+    "year": 2014,
+    "value": 68.67
+  },
+  {
+    "country_code": "GRC",
+    "year": 2015,
+    "value": 68.99
+  },
+  {
+    "country_code": "GRC",
+    "year": 2016,
+    "value": 69.65
+  },
+  {
+    "country_code": "GRC",
+    "year": 2017,
+    "value": 69.11
+  },
+  {
+    "country_code": "GRC",
+    "year": 2018,
+    "value": 70.81
+  },
+  {
+    "country_code": "GRC",
+    "year": 2019,
+    "value": 70.92
+  },
+  {
+    "country_code": "GRC",
+    "year": 2020,
+    "value": 71.2
+  },
+  {
+    "country_code": "GRC",
+    "year": 2021,
+    "value": 70.99
+  },
+  {
+    "country_code": "GRC",
+    "year": 2022,
+    "value": 55.52
+  },
+  {
+    "country_code": "GRC",
+    "year": 2023,
+    "value": 55.2
+  },
+  {
+    "country_code": "GRC",
+    "year": 2024,
+    "value": 57.15
+  },
+  {
+    "country_code": "GRC",
+    "year": 2025,
+    "value": 55.37
+  },
+  {
+    "country_code": "GTM",
+    "year": 2013,
+    "value": 70.61
+  },
+  {
+    "country_code": "GTM",
+    "year": 2014,
+    "value": 63.39
+  },
+  {
+    "country_code": "GTM",
+    "year": 2015,
+    "value": 62.08
+  },
+  {
+    "country_code": "GTM",
+    "year": 2016,
+    "value": 61.97
+  },
+  {
+    "country_code": "GTM",
+    "year": 2017,
+    "value": 60.67
+  },
+  {
+    "country_code": "GTM",
+    "year": 2018,
+    "value": 63.83
+  },
+  {
+    "country_code": "GTM",
+    "year": 2019,
+    "value": 64.06
+  },
+  {
+    "country_code": "GTM",
+    "year": 2020,
+    "value": 64.26
+  },
+  {
+    "country_code": "GTM",
+    "year": 2021,
+    "value": 61.55
+  },
+  {
+    "country_code": "GTM",
+    "year": 2022,
+    "value": 47.94
+  },
+  {
+    "country_code": "GTM",
+    "year": 2023,
+    "value": 48.12
+  },
+  {
+    "country_code": "GTM",
+    "year": 2024,
+    "value": 42.28
+  },
+  {
+    "country_code": "GTM",
+    "year": 2025,
+    "value": 40.32
+  },
+  {
+    "country_code": "GUY",
+    "year": 2013,
+    "value": 72.92
+  },
+  {
+    "country_code": "GUY",
+    "year": 2014,
+    "value": 72.92
+  },
+  {
+    "country_code": "GUY",
+    "year": 2015,
+    "value": 72.79
+  },
+  {
+    "country_code": "GUY",
+    "year": 2016,
+    "value": 72.93
+  },
+  {
+    "country_code": "GUY",
+    "year": 2017,
+    "value": 73.2
+  },
+  {
+    "country_code": "GUY",
+    "year": 2018,
+    "value": 73.75
+  },
+  {
+    "country_code": "GUY",
+    "year": 2019,
+    "value": 73.37
+  },
+  {
+    "country_code": "GUY",
+    "year": 2020,
+    "value": 73.37
+  },
+  {
+    "country_code": "GUY",
+    "year": 2021,
+    "value": 74.39
+  },
+  {
+    "country_code": "GUY",
+    "year": 2022,
+    "value": 76.41
+  },
+  {
+    "country_code": "GUY",
+    "year": 2023,
+    "value": 67.5
+  },
+  {
+    "country_code": "GUY",
+    "year": 2024,
+    "value": 60.1
+  },
+  {
+    "country_code": "GUY",
+    "year": 2025,
+    "value": 60.12
+  },
+  {
+    "country_code": "HND",
+    "year": 2013,
+    "value": 63.08
+  },
+  {
+    "country_code": "HND",
+    "year": 2014,
+    "value": 62.86
+  },
+  {
+    "country_code": "HND",
+    "year": 2015,
+    "value": 60.73
+  },
+  {
+    "country_code": "HND",
+    "year": 2016,
+    "value": 55.38
+  },
+  {
+    "country_code": "HND",
+    "year": 2017,
+    "value": 56.25
+  },
+  {
+    "country_code": "HND",
+    "year": 2018,
+    "value": 54.77
+  },
+  {
+    "country_code": "HND",
+    "year": 2019,
+    "value": 51.47
+  },
+  {
+    "country_code": "HND",
+    "year": 2020,
+    "value": 51.8
+  },
+  {
+    "country_code": "HND",
+    "year": 2021,
+    "value": 50.65
+  },
+  {
+    "country_code": "HND",
+    "year": 2022,
+    "value": 34.61
+  },
+  {
+    "country_code": "HND",
+    "year": 2023,
+    "value": 32.65
+  },
+  {
+    "country_code": "HND",
+    "year": 2024,
+    "value": 38.18
+  },
+  {
+    "country_code": "HND",
+    "year": 2025,
+    "value": 38.51
+  },
+  {
+    "country_code": "HRV",
+    "year": 2013,
+    "value": 73.39
+  },
+  {
+    "country_code": "HRV",
+    "year": 2014,
+    "value": 73.18
+  },
+  {
+    "country_code": "HRV",
+    "year": 2015,
+    "value": 73.88
+  },
+  {
+    "country_code": "HRV",
+    "year": 2016,
+    "value": 72.09
+  },
+  {
+    "country_code": "HRV",
+    "year": 2017,
+    "value": 70.41
+  },
+  {
+    "country_code": "HRV",
+    "year": 2018,
+    "value": 71.06
+  },
+  {
+    "country_code": "HRV",
+    "year": 2019,
+    "value": 70.97
+  },
+  {
+    "country_code": "HRV",
+    "year": 2020,
+    "value": 71.49
+  },
+  {
+    "country_code": "HRV",
+    "year": 2021,
+    "value": 72.05
+  },
+  {
+    "country_code": "HRV",
+    "year": 2022,
+    "value": 70.42
+  },
+  {
+    "country_code": "HRV",
+    "year": 2023,
+    "value": 71.95
+  },
+  {
+    "country_code": "HRV",
+    "year": 2024,
+    "value": 68.79
+  },
+  {
+    "country_code": "HRV",
+    "year": 2025,
+    "value": 64.2
+  },
+  {
+    "country_code": "HTI",
+    "year": 2013,
+    "value": 75.91
+  },
+  {
+    "country_code": "HTI",
+    "year": 2014,
+    "value": 76.47
+  },
+  {
+    "country_code": "HTI",
+    "year": 2015,
+    "value": 74.92
+  },
+  {
+    "country_code": "HTI",
+    "year": 2016,
+    "value": 75.34
+  },
+  {
+    "country_code": "HTI",
+    "year": 2017,
+    "value": 73.64
+  },
+  {
+    "country_code": "HTI",
+    "year": 2018,
+    "value": 73.18
+  },
+  {
+    "country_code": "HTI",
+    "year": 2019,
+    "value": 71.0
+  },
+  {
+    "country_code": "HTI",
+    "year": 2020,
+    "value": 69.8
+  },
+  {
+    "country_code": "HTI",
+    "year": 2021,
+    "value": 68.88
+  },
+  {
+    "country_code": "HTI",
+    "year": 2022,
+    "value": 64.55
+  },
+  {
+    "country_code": "HTI",
+    "year": 2023,
+    "value": 57.38
+  },
+  {
+    "country_code": "HTI",
+    "year": 2024,
+    "value": 55.92
+  },
+  {
+    "country_code": "HTI",
+    "year": 2025,
+    "value": 51.061
+  },
+  {
+    "country_code": "HUN",
+    "year": 2013,
+    "value": 73.91
+  },
+  {
+    "country_code": "HUN",
+    "year": 2014,
+    "value": 73.27
+  },
+  {
+    "country_code": "HUN",
+    "year": 2015,
+    "value": 72.56
+  },
+  {
+    "country_code": "HUN",
+    "year": 2016,
+    "value": 71.83
+  },
+  {
+    "country_code": "HUN",
+    "year": 2017,
+    "value": 70.99
+  },
+  {
+    "country_code": "HUN",
+    "year": 2018,
+    "value": 70.89
+  },
+  {
+    "country_code": "HUN",
+    "year": 2019,
+    "value": 69.56
+  },
+  {
+    "country_code": "HUN",
+    "year": 2020,
+    "value": 69.16
+  },
+  {
+    "country_code": "HUN",
+    "year": 2021,
+    "value": 68.24
+  },
+  {
+    "country_code": "HUN",
+    "year": 2022,
+    "value": 59.8
+  },
+  {
+    "country_code": "HUN",
+    "year": 2023,
+    "value": 62.96
+  },
+  {
+    "country_code": "HUN",
+    "year": 2024,
+    "value": 62.98
+  },
+  {
+    "country_code": "HUN",
+    "year": 2025,
+    "value": 62.82
+  },
+  {
+    "country_code": "IDN",
+    "year": 2013,
+    "value": 58.95
+  },
+  {
+    "country_code": "IDN",
+    "year": 2014,
+    "value": 61.85
+  },
+  {
+    "country_code": "IDN",
+    "year": 2015,
+    "value": 59.25
+  },
+  {
+    "country_code": "IDN",
+    "year": 2016,
+    "value": 58.28
+  },
+  {
+    "country_code": "IDN",
+    "year": 2017,
+    "value": 60.07
+  },
+  {
+    "country_code": "IDN",
+    "year": 2018,
+    "value": 60.32
+  },
+  {
+    "country_code": "IDN",
+    "year": 2019,
+    "value": 63.23
+  },
+  {
+    "country_code": "IDN",
+    "year": 2020,
+    "value": 63.18
+  },
+  {
+    "country_code": "IDN",
+    "year": 2021,
+    "value": 62.6
+  },
+  {
+    "country_code": "IDN",
+    "year": 2022,
+    "value": 49.27
+  },
+  {
+    "country_code": "IDN",
+    "year": 2023,
+    "value": 54.83
+  },
+  {
+    "country_code": "IDN",
+    "year": 2024,
+    "value": 51.15
+  },
+  {
+    "country_code": "IDN",
+    "year": 2025,
+    "value": 44.13
+  },
+  {
+    "country_code": "IND",
+    "year": 2013,
+    "value": 58.78
+  },
+  {
+    "country_code": "IND",
+    "year": 2014,
+    "value": 59.66
+  },
+  {
+    "country_code": "IND",
+    "year": 2015,
+    "value": 59.51
+  },
+  {
+    "country_code": "IND",
+    "year": 2016,
+    "value": 56.83
+  },
+  {
+    "country_code": "IND",
+    "year": 2017,
+    "value": 57.06
+  },
+  {
+    "country_code": "IND",
+    "year": 2018,
+    "value": 56.76
+  },
+  {
+    "country_code": "IND",
+    "year": 2019,
+    "value": 54.33
+  },
+  {
+    "country_code": "IND",
+    "year": 2020,
+    "value": 54.67
+  },
+  {
+    "country_code": "IND",
+    "year": 2021,
+    "value": 53.44
+  },
+  {
+    "country_code": "IND",
+    "year": 2022,
+    "value": 41.0
+  },
+  {
+    "country_code": "IND",
+    "year": 2023,
+    "value": 36.62
+  },
+  {
+    "country_code": "IND",
+    "year": 2024,
+    "value": 31.28
+  },
+  {
+    "country_code": "IND",
+    "year": 2025,
+    "value": 32.96
+  },
+  {
+    "country_code": "IRL",
+    "year": 2013,
+    "value": 89.94
+  },
+  {
+    "country_code": "IRL",
+    "year": 2014,
+    "value": 89.13
+  },
+  {
+    "country_code": "IRL",
+    "year": 2015,
+    "value": 88.8
+  },
+  {
+    "country_code": "IRL",
+    "year": 2016,
+    "value": 87.6
+  },
+  {
+    "country_code": "IRL",
+    "year": 2017,
+    "value": 85.92
+  },
+  {
+    "country_code": "IRL",
+    "year": 2018,
+    "value": 85.41
+  },
+  {
+    "country_code": "IRL",
+    "year": 2019,
+    "value": 85.0
+  },
+  {
+    "country_code": "IRL",
+    "year": 2020,
+    "value": 87.4
+  },
+  {
+    "country_code": "IRL",
+    "year": 2021,
+    "value": 88.09
+  },
+  {
+    "country_code": "IRL",
+    "year": 2022,
+    "value": 88.3
+  },
+  {
+    "country_code": "IRL",
+    "year": 2023,
+    "value": 89.91
+  },
+  {
+    "country_code": "IRL",
+    "year": 2024,
+    "value": 85.59
+  },
+  {
+    "country_code": "IRL",
+    "year": 2025,
+    "value": 86.92
+  },
+  {
+    "country_code": "IRN",
+    "year": 2013,
+    "value": 26.6
+  },
+  {
+    "country_code": "IRN",
+    "year": 2014,
+    "value": 27.71
+  },
+  {
+    "country_code": "IRN",
+    "year": 2015,
+    "value": 27.68
+  },
+  {
+    "country_code": "IRN",
+    "year": 2016,
+    "value": 33.48
+  },
+  {
+    "country_code": "IRN",
+    "year": 2017,
+    "value": 34.88
+  },
+  {
+    "country_code": "IRN",
+    "year": 2018,
+    "value": 39.29
+  },
+  {
+    "country_code": "IRN",
+    "year": 2019,
+    "value": 35.59
+  },
+  {
+    "country_code": "IRN",
+    "year": 2020,
+    "value": 35.19
+  },
+  {
+    "country_code": "IRN",
+    "year": 2021,
+    "value": 27.3
+  },
+  {
+    "country_code": "IRN",
+    "year": 2022,
+    "value": 23.22
+  },
+  {
+    "country_code": "IRN",
+    "year": 2023,
+    "value": 24.81
+  },
+  {
+    "country_code": "IRN",
+    "year": 2024,
+    "value": 21.3
+  },
+  {
+    "country_code": "IRN",
+    "year": 2025,
+    "value": 16.22
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2013,
+    "value": 55.33
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2014,
+    "value": 54.56
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2015,
+    "value": 52.24
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2016,
+    "value": 45.65
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2017,
+    "value": 45.97
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2018,
+    "value": 43.44
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2019,
+    "value": 47.4
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2020,
+    "value": 44.63
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2021,
+    "value": 44.43
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2022,
+    "value": 28.59
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2023,
+    "value": 32.94
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2024,
+    "value": 25.48
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2025,
+    "value": 30.69
+  },
+  {
+    "country_code": "ISL",
+    "year": 2013,
+    "value": 91.51
+  },
+  {
+    "country_code": "ISL",
+    "year": 2014,
+    "value": 91.5
+  },
+  {
+    "country_code": "ISL",
+    "year": 2015,
+    "value": 86.13
+  },
+  {
+    "country_code": "ISL",
+    "year": 2016,
+    "value": 84.7
+  },
+  {
+    "country_code": "ISL",
+    "year": 2017,
+    "value": 86.97
+  },
+  {
+    "country_code": "ISL",
+    "year": 2018,
+    "value": 85.9
+  },
+  {
+    "country_code": "ISL",
+    "year": 2019,
+    "value": 85.29
+  },
+  {
+    "country_code": "ISL",
+    "year": 2020,
+    "value": 84.88
+  },
+  {
+    "country_code": "ISL",
+    "year": 2021,
+    "value": 84.63
+  },
+  {
+    "country_code": "ISL",
+    "year": 2022,
+    "value": 82.69
+  },
+  {
+    "country_code": "ISL",
+    "year": 2023,
+    "value": 83.19
+  },
+  {
+    "country_code": "ISL",
+    "year": 2024,
+    "value": 80.13
+  },
+  {
+    "country_code": "ISL",
+    "year": 2025,
+    "value": 81.36
+  },
+  {
+    "country_code": "ISR",
+    "year": 2013,
+    "value": 67.03
+  },
+  {
+    "country_code": "ISR",
+    "year": 2014,
+    "value": 68.81
+  },
+  {
+    "country_code": "ISR",
+    "year": 2015,
+    "value": 67.91
+  },
+  {
+    "country_code": "ISR",
+    "year": 2016,
+    "value": 67.42
+  },
+  {
+    "country_code": "ISR",
+    "year": 2017,
+    "value": 68.99
+  },
+  {
+    "country_code": "ISR",
+    "year": 2018,
+    "value": 69.74
+  },
+  {
+    "country_code": "ISR",
+    "year": 2019,
+    "value": 69.2
+  },
+  {
+    "country_code": "ISR",
+    "year": 2020,
+    "value": 69.16
+  },
+  {
+    "country_code": "ISR",
+    "year": 2021,
+    "value": 69.1
+  },
+  {
+    "country_code": "ISR",
+    "year": 2022,
+    "value": 59.62
+  },
+  {
+    "country_code": "ISR",
+    "year": 2023,
+    "value": 57.57
+  },
+  {
+    "country_code": "ISR",
+    "year": 2024,
+    "value": 53.23
+  },
+  {
+    "country_code": "ISR",
+    "year": 2025,
+    "value": 51.055
+  },
+  {
+    "country_code": "ITA",
+    "year": 2013,
+    "value": 73.89
+  },
+  {
+    "country_code": "ITA",
+    "year": 2014,
+    "value": 76.25
+  },
+  {
+    "country_code": "ITA",
+    "year": 2015,
+    "value": 72.06
+  },
+  {
+    "country_code": "ITA",
+    "year": 2016,
+    "value": 71.07
+  },
+  {
+    "country_code": "ITA",
+    "year": 2017,
+    "value": 73.74
+  },
+  {
+    "country_code": "ITA",
+    "year": 2018,
+    "value": 75.88
+  },
+  {
+    "country_code": "ITA",
+    "year": 2019,
+    "value": 75.02
+  },
+  {
+    "country_code": "ITA",
+    "year": 2020,
+    "value": 76.31
+  },
+  {
+    "country_code": "ITA",
+    "year": 2021,
+    "value": 76.61
+  },
+  {
+    "country_code": "ITA",
+    "year": 2022,
+    "value": 68.16
+  },
+  {
+    "country_code": "ITA",
+    "year": 2023,
+    "value": 72.05
+  },
+  {
+    "country_code": "ITA",
+    "year": 2024,
+    "value": 69.8
+  },
+  {
+    "country_code": "ITA",
+    "year": 2025,
+    "value": 68.01
+  },
+  {
+    "country_code": "JAM",
+    "year": 2013,
+    "value": 90.12
+  },
+  {
+    "country_code": "JAM",
+    "year": 2014,
+    "value": 89.1
+  },
+  {
+    "country_code": "JAM",
+    "year": 2015,
+    "value": 88.82
+  },
+  {
+    "country_code": "JAM",
+    "year": 2016,
+    "value": 87.55
+  },
+  {
+    "country_code": "JAM",
+    "year": 2017,
+    "value": 87.27
+  },
+  {
+    "country_code": "JAM",
+    "year": 2018,
+    "value": 88.67
+  },
+  {
+    "country_code": "JAM",
+    "year": 2019,
+    "value": 88.87
+  },
+  {
+    "country_code": "JAM",
+    "year": 2020,
+    "value": 89.49
+  },
+  {
+    "country_code": "JAM",
+    "year": 2021,
+    "value": 90.04
+  },
+  {
+    "country_code": "JAM",
+    "year": 2022,
+    "value": 83.35
+  },
+  {
+    "country_code": "JAM",
+    "year": 2023,
+    "value": 75.89
+  },
+  {
+    "country_code": "JAM",
+    "year": 2024,
+    "value": 77.3
+  },
+  {
+    "country_code": "JAM",
+    "year": 2025,
+    "value": 75.83
+  },
+  {
+    "country_code": "JOR",
+    "year": 2013,
+    "value": 61.53
+  },
+  {
+    "country_code": "JOR",
+    "year": 2014,
+    "value": 59.58
+  },
+  {
+    "country_code": "JOR",
+    "year": 2015,
+    "value": 57.93
+  },
+  {
+    "country_code": "JOR",
+    "year": 2016,
+    "value": 55.51
+  },
+  {
+    "country_code": "JOR",
+    "year": 2017,
+    "value": 56.76
+  },
+  {
+    "country_code": "JOR",
+    "year": 2018,
+    "value": 58.29
+  },
+  {
+    "country_code": "JOR",
+    "year": 2019,
+    "value": 56.89
+  },
+  {
+    "country_code": "JOR",
+    "year": 2020,
+    "value": 57.92
+  },
+  {
+    "country_code": "JOR",
+    "year": 2021,
+    "value": 57.11
+  },
+  {
+    "country_code": "JOR",
+    "year": 2022,
+    "value": 48.66
+  },
+  {
+    "country_code": "JOR",
+    "year": 2023,
+    "value": 42.79
+  },
+  {
+    "country_code": "JOR",
+    "year": 2024,
+    "value": 44.3
+  },
+  {
+    "country_code": "JOR",
+    "year": 2025,
+    "value": 35.25
+  },
+  {
+    "country_code": "JPN",
+    "year": 2013,
+    "value": 74.83
+  },
+  {
+    "country_code": "JPN",
+    "year": 2014,
+    "value": 73.98
+  },
+  {
+    "country_code": "JPN",
+    "year": 2015,
+    "value": 73.05
+  },
+  {
+    "country_code": "JPN",
+    "year": 2016,
+    "value": 71.33
+  },
+  {
+    "country_code": "JPN",
+    "year": 2017,
+    "value": 70.56
+  },
+  {
+    "country_code": "JPN",
+    "year": 2018,
+    "value": 71.36
+  },
+  {
+    "country_code": "JPN",
+    "year": 2019,
+    "value": 70.64
+  },
+  {
+    "country_code": "JPN",
+    "year": 2020,
+    "value": 71.14
+  },
+  {
+    "country_code": "JPN",
+    "year": 2021,
+    "value": 71.12
+  },
+  {
+    "country_code": "JPN",
+    "year": 2022,
+    "value": 64.37
+  },
+  {
+    "country_code": "JPN",
+    "year": 2023,
+    "value": 63.95
+  },
+  {
+    "country_code": "JPN",
+    "year": 2024,
+    "value": 62.12
+  },
+  {
+    "country_code": "JPN",
+    "year": 2025,
+    "value": 63.14
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2013,
+    "value": 44.92
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2014,
+    "value": 45.06
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2015,
+    "value": 46.54
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2016,
+    "value": 45.45
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2017,
+    "value": 45.99
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2018,
+    "value": 45.59
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2019,
+    "value": 47.18
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2020,
+    "value": 45.89
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2021,
+    "value": 49.72
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2022,
+    "value": 48.28
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2023,
+    "value": 45.87
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2024,
+    "value": 41.11
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2025,
+    "value": 39.34
+  },
+  {
+    "country_code": "KEN",
+    "year": 2013,
+    "value": 72.2
+  },
+  {
+    "country_code": "KEN",
+    "year": 2014,
+    "value": 69.3
+  },
+  {
+    "country_code": "KEN",
+    "year": 2015,
+    "value": 67.93
+  },
+  {
+    "country_code": "KEN",
+    "year": 2016,
+    "value": 68.84
+  },
+  {
+    "country_code": "KEN",
+    "year": 2017,
+    "value": 68.8
+  },
+  {
+    "country_code": "KEN",
+    "year": 2018,
+    "value": 69.18
+  },
+  {
+    "country_code": "KEN",
+    "year": 2019,
+    "value": 67.56
+  },
+  {
+    "country_code": "KEN",
+    "year": 2020,
+    "value": 66.28
+  },
+  {
+    "country_code": "KEN",
+    "year": 2021,
+    "value": 66.35
+  },
+  {
+    "country_code": "KEN",
+    "year": 2022,
+    "value": 64.59
+  },
+  {
+    "country_code": "KEN",
+    "year": 2023,
+    "value": 51.15
+  },
+  {
+    "country_code": "KEN",
+    "year": 2024,
+    "value": 53.22
+  },
+  {
+    "country_code": "KEN",
+    "year": 2025,
+    "value": 49.41
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2013,
+    "value": 67.8
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2014,
+    "value": 68.76
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2015,
+    "value": 69.31
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2016,
+    "value": 69.84
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2017,
+    "value": 69.08
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2018,
+    "value": 69.0
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2019,
+    "value": 70.08
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2020,
+    "value": 69.81
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2021,
+    "value": 69.63
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2022,
+    "value": 64.25
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2023,
+    "value": 49.91
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2024,
+    "value": 49.11
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2025,
+    "value": 37.46
+  },
+  {
+    "country_code": "KHM",
+    "year": 2013,
+    "value": 58.19
+  },
+  {
+    "country_code": "KHM",
+    "year": 2014,
+    "value": 59.03
+  },
+  {
+    "country_code": "KHM",
+    "year": 2015,
+    "value": 59.01
+  },
+  {
+    "country_code": "KHM",
+    "year": 2016,
+    "value": 59.3
+  },
+  {
+    "country_code": "KHM",
+    "year": 2017,
+    "value": 57.93
+  },
+  {
+    "country_code": "KHM",
+    "year": 2018,
+    "value": 54.1
+  },
+  {
+    "country_code": "KHM",
+    "year": 2019,
+    "value": 54.1
+  },
+  {
+    "country_code": "KHM",
+    "year": 2020,
+    "value": 54.54
+  },
+  {
+    "country_code": "KHM",
+    "year": 2021,
+    "value": 53.16
+  },
+  {
+    "country_code": "KHM",
+    "year": 2022,
+    "value": 43.48
+  },
+  {
+    "country_code": "KHM",
+    "year": 2023,
+    "value": 42.02
+  },
+  {
+    "country_code": "KHM",
+    "year": 2024,
+    "value": 34.28
+  },
+  {
+    "country_code": "KHM",
+    "year": 2025,
+    "value": 28.18
+  },
+  {
+    "country_code": "KOR",
+    "year": 2013,
+    "value": 75.52
+  },
+  {
+    "country_code": "KOR",
+    "year": 2014,
+    "value": 74.34
+  },
+  {
+    "country_code": "KOR",
+    "year": 2015,
+    "value": 73.45
+  },
+  {
+    "country_code": "KOR",
+    "year": 2016,
+    "value": 71.42
+  },
+  {
+    "country_code": "KOR",
+    "year": 2017,
+    "value": 72.39
+  },
+  {
+    "country_code": "KOR",
+    "year": 2018,
+    "value": 76.49
+  },
+  {
+    "country_code": "KOR",
+    "year": 2019,
+    "value": 75.06
+  },
+  {
+    "country_code": "KOR",
+    "year": 2020,
+    "value": 76.3
+  },
+  {
+    "country_code": "KOR",
+    "year": 2021,
+    "value": 76.57
+  },
+  {
+    "country_code": "KOR",
+    "year": 2022,
+    "value": 72.11
+  },
+  {
+    "country_code": "KOR",
+    "year": 2023,
+    "value": 70.83
+  },
+  {
+    "country_code": "KOR",
+    "year": 2024,
+    "value": 64.87
+  },
+  {
+    "country_code": "KOR",
+    "year": 2025,
+    "value": 64.06
+  },
+  {
+    "country_code": "KWT",
+    "year": 2013,
+    "value": 71.72
+  },
+  {
+    "country_code": "KWT",
+    "year": 2014,
+    "value": 69.29
+  },
+  {
+    "country_code": "KWT",
+    "year": 2015,
+    "value": 69.16
+  },
+  {
+    "country_code": "KWT",
+    "year": 2016,
+    "value": 67.41
+  },
+  {
+    "country_code": "KWT",
+    "year": 2017,
+    "value": 66.39
+  },
+  {
+    "country_code": "KWT",
+    "year": 2018,
+    "value": 68.09
+  },
+  {
+    "country_code": "KWT",
+    "year": 2019,
+    "value": 66.14
+  },
+  {
+    "country_code": "KWT",
+    "year": 2020,
+    "value": 65.7
+  },
+  {
+    "country_code": "KWT",
+    "year": 2021,
+    "value": 65.64
+  },
+  {
+    "country_code": "KWT",
+    "year": 2022,
+    "value": 37.87
+  },
+  {
+    "country_code": "KWT",
+    "year": 2023,
+    "value": 38.84
+  },
+  {
+    "country_code": "KWT",
+    "year": 2024,
+    "value": 44.66
+  },
+  {
+    "country_code": "KWT",
+    "year": 2025,
+    "value": 44.06
+  },
+  {
+    "country_code": "LAO",
+    "year": 2013,
+    "value": 32.01
+  },
+  {
+    "country_code": "LAO",
+    "year": 2014,
+    "value": 28.78
+  },
+  {
+    "country_code": "LAO",
+    "year": 2015,
+    "value": 28.75
+  },
+  {
+    "country_code": "LAO",
+    "year": 2016,
+    "value": 28.42
+  },
+  {
+    "country_code": "LAO",
+    "year": 2017,
+    "value": 33.59
+  },
+  {
+    "country_code": "LAO",
+    "year": 2018,
+    "value": 33.59
+  },
+  {
+    "country_code": "LAO",
+    "year": 2019,
+    "value": 35.51
+  },
+  {
+    "country_code": "LAO",
+    "year": 2020,
+    "value": 35.72
+  },
+  {
+    "country_code": "LAO",
+    "year": 2021,
+    "value": 29.44
+  },
+  {
+    "country_code": "LAO",
+    "year": 2022,
+    "value": 36.64
+  },
+  {
+    "country_code": "LAO",
+    "year": 2023,
+    "value": 36.66
+  },
+  {
+    "country_code": "LAO",
+    "year": 2024,
+    "value": 33.76
+  },
+  {
+    "country_code": "LAO",
+    "year": 2025,
+    "value": 33.22
+  },
+  {
+    "country_code": "LBN",
+    "year": 2013,
+    "value": 69.85
+  },
+  {
+    "country_code": "LBN",
+    "year": 2014,
+    "value": 68.11
+  },
+  {
+    "country_code": "LBN",
+    "year": 2015,
+    "value": 68.19
+  },
+  {
+    "country_code": "LBN",
+    "year": 2016,
+    "value": 68.05
+  },
+  {
+    "country_code": "LBN",
+    "year": 2017,
+    "value": 66.99
+  },
+  {
+    "country_code": "LBN",
+    "year": 2018,
+    "value": 68.85
+  },
+  {
+    "country_code": "LBN",
+    "year": 2019,
+    "value": 67.56
+  },
+  {
+    "country_code": "LBN",
+    "year": 2020,
+    "value": 66.81
+  },
+  {
+    "country_code": "LBN",
+    "year": 2021,
+    "value": 65.07
+  },
+  {
+    "country_code": "LBN",
+    "year": 2022,
+    "value": 46.58
+  },
+  {
+    "country_code": "LBN",
+    "year": 2023,
+    "value": 50.46
+  },
+  {
+    "country_code": "LBN",
+    "year": 2024,
+    "value": 41.91
+  },
+  {
+    "country_code": "LBN",
+    "year": 2025,
+    "value": 42.62
+  },
+  {
+    "country_code": "LBR",
+    "year": 2013,
+    "value": 70.11
+  },
+  {
+    "country_code": "LBR",
+    "year": 2014,
+    "value": 69.35
+  },
+  {
+    "country_code": "LBR",
+    "year": 2015,
+    "value": 69.22
+  },
+  {
+    "country_code": "LBR",
+    "year": 2016,
+    "value": 69.29
+  },
+  {
+    "country_code": "LBR",
+    "year": 2017,
+    "value": 68.88
+  },
+  {
+    "country_code": "LBR",
+    "year": 2018,
+    "value": 69.67
+  },
+  {
+    "country_code": "LBR",
+    "year": 2019,
+    "value": 68.51
+  },
+  {
+    "country_code": "LBR",
+    "year": 2020,
+    "value": 67.75
+  },
+  {
+    "country_code": "LBR",
+    "year": 2021,
+    "value": 66.64
+  },
+  {
+    "country_code": "LBR",
+    "year": 2022,
+    "value": 62.77
+  },
+  {
+    "country_code": "LBR",
+    "year": 2023,
+    "value": 64.34
+  },
+  {
+    "country_code": "LBR",
+    "year": 2024,
+    "value": 65.13
+  },
+  {
+    "country_code": "LBR",
+    "year": 2025,
+    "value": 66.61
+  },
+  {
+    "country_code": "LBY",
+    "year": 2013,
+    "value": 62.14
+  },
+  {
+    "country_code": "LBY",
+    "year": 2014,
+    "value": 60.16
+  },
+  {
+    "country_code": "LBY",
+    "year": 2015,
+    "value": 54.01
+  },
+  {
+    "country_code": "LBY",
+    "year": 2016,
+    "value": 42.11
+  },
+  {
+    "country_code": "LBY",
+    "year": 2017,
+    "value": 43.19
+  },
+  {
+    "country_code": "LBY",
+    "year": 2018,
+    "value": 43.21
+  },
+  {
+    "country_code": "LBY",
+    "year": 2019,
+    "value": 44.23
+  },
+  {
+    "country_code": "LBY",
+    "year": 2020,
+    "value": 44.23
+  },
+  {
+    "country_code": "LBY",
+    "year": 2021,
+    "value": 44.27
+  },
+  {
+    "country_code": "LBY",
+    "year": 2022,
+    "value": 43.16
+  },
+  {
+    "country_code": "LBY",
+    "year": 2023,
+    "value": 40.22
+  },
+  {
+    "country_code": "LBY",
+    "year": 2024,
+    "value": 40.59
+  },
+  {
+    "country_code": "LBY",
+    "year": 2025,
+    "value": 40.42
+  },
+  {
+    "country_code": "LIE",
+    "year": 2013,
+    "value": 92.65
+  },
+  {
+    "country_code": "LIE",
+    "year": 2014,
+    "value": 92.98
+  },
+  {
+    "country_code": "LIE",
+    "year": 2015,
+    "value": 82.33
+  },
+  {
+    "country_code": "LIE",
+    "year": 2016,
+    "value": 81.64
+  },
+  {
+    "country_code": "LIE",
+    "year": 2017,
+    "value": 79.69
+  },
+  {
+    "country_code": "LIE",
+    "year": 2018,
+    "value": 79.51
+  },
+  {
+    "country_code": "LIE",
+    "year": 2019,
+    "value": 79.51
+  },
+  {
+    "country_code": "LIE",
+    "year": 2020,
+    "value": 80.48
+  },
+  {
+    "country_code": "LIE",
+    "year": 2021,
+    "value": 80.51
+  },
+  {
+    "country_code": "LIE",
+    "year": 2022,
+    "value": 84.03
+  },
+  {
+    "country_code": "LIE",
+    "year": 2023,
+    "value": 84.47
+  },
+  {
+    "country_code": "LIE",
+    "year": 2024,
+    "value": 81.52
+  },
+  {
+    "country_code": "LIE",
+    "year": 2025,
+    "value": 83.42
+  },
+  {
+    "country_code": "LKA",
+    "year": 2013,
+    "value": 43.41
+  },
+  {
+    "country_code": "LKA",
+    "year": 2014,
+    "value": 40.87
+  },
+  {
+    "country_code": "LKA",
+    "year": 2015,
+    "value": 39.72
+  },
+  {
+    "country_code": "LKA",
+    "year": 2016,
+    "value": 55.04
+  },
+  {
+    "country_code": "LKA",
+    "year": 2017,
+    "value": 55.66
+  },
+  {
+    "country_code": "LKA",
+    "year": 2018,
+    "value": 58.63
+  },
+  {
+    "country_code": "LKA",
+    "year": 2019,
+    "value": 60.39
+  },
+  {
+    "country_code": "LKA",
+    "year": 2020,
+    "value": 58.06
+  },
+  {
+    "country_code": "LKA",
+    "year": 2021,
+    "value": 57.8
+  },
+  {
+    "country_code": "LKA",
+    "year": 2022,
+    "value": 42.13
+  },
+  {
+    "country_code": "LKA",
+    "year": 2023,
+    "value": 45.85
+  },
+  {
+    "country_code": "LKA",
+    "year": 2024,
+    "value": 35.21
+  },
+  {
+    "country_code": "LKA",
+    "year": 2025,
+    "value": 39.93
+  },
+  {
+    "country_code": "LSO",
+    "year": 2013,
+    "value": 71.64
+  },
+  {
+    "country_code": "LSO",
+    "year": 2014,
+    "value": 71.64
+  },
+  {
+    "country_code": "LSO",
+    "year": 2015,
+    "value": 71.64
+  },
+  {
+    "country_code": "LSO",
+    "year": 2016,
+    "value": 71.22
+  },
+  {
+    "country_code": "LSO",
+    "year": 2017,
+    "value": 71.22
+  },
+  {
+    "country_code": "LSO",
+    "year": 2018,
+    "value": 71.22
+  },
+  {
+    "country_code": "LSO",
+    "year": 2019,
+    "value": 70.26
+  },
+  {
+    "country_code": "LSO",
+    "year": 2020,
+    "value": 69.55
+  },
+  {
+    "country_code": "LSO",
+    "year": 2021,
+    "value": 68.39
+  },
+  {
+    "country_code": "LSO",
+    "year": 2022,
+    "value": 59.39
+  },
+  {
+    "country_code": "LSO",
+    "year": 2023,
+    "value": 64.29
+  },
+  {
+    "country_code": "LSO",
+    "year": 2024,
+    "value": 48.92
+  },
+  {
+    "country_code": "LSO",
+    "year": 2025,
+    "value": 52.07
+  },
+  {
+    "country_code": "LTU",
+    "year": 2013,
+    "value": 81.76
+  },
+  {
+    "country_code": "LTU",
+    "year": 2014,
+    "value": 80.8
+  },
+  {
+    "country_code": "LTU",
+    "year": 2015,
+    "value": 81.2
+  },
+  {
+    "country_code": "LTU",
+    "year": 2016,
+    "value": 80.05
+  },
+  {
+    "country_code": "LTU",
+    "year": 2017,
+    "value": 78.63
+  },
+  {
+    "country_code": "LTU",
+    "year": 2018,
+    "value": 77.8
+  },
+  {
+    "country_code": "LTU",
+    "year": 2019,
+    "value": 77.94
+  },
+  {
+    "country_code": "LTU",
+    "year": 2020,
+    "value": 78.81
+  },
+  {
+    "country_code": "LTU",
+    "year": 2021,
+    "value": 79.85
+  },
+  {
+    "country_code": "LTU",
+    "year": 2022,
+    "value": 84.14
+  },
+  {
+    "country_code": "LTU",
+    "year": 2023,
+    "value": 86.79
+  },
+  {
+    "country_code": "LTU",
+    "year": 2024,
+    "value": 81.73
+  },
+  {
+    "country_code": "LTU",
+    "year": 2025,
+    "value": 82.27
+  },
+  {
+    "country_code": "LUX",
+    "year": 2013,
+    "value": 93.32
+  },
+  {
+    "country_code": "LUX",
+    "year": 2014,
+    "value": 93.3
+  },
+  {
+    "country_code": "LUX",
+    "year": 2015,
+    "value": 86.39
+  },
+  {
+    "country_code": "LUX",
+    "year": 2016,
+    "value": 85.57
+  },
+  {
+    "country_code": "LUX",
+    "year": 2017,
+    "value": 85.28
+  },
+  {
+    "country_code": "LUX",
+    "year": 2018,
+    "value": 85.28
+  },
+  {
+    "country_code": "LUX",
+    "year": 2019,
+    "value": 84.34
+  },
+  {
+    "country_code": "LUX",
+    "year": 2020,
+    "value": 84.54
+  },
+  {
+    "country_code": "LUX",
+    "year": 2021,
+    "value": 82.44
+  },
+  {
+    "country_code": "LUX",
+    "year": 2022,
+    "value": 79.81
+  },
+  {
+    "country_code": "LUX",
+    "year": 2023,
+    "value": 81.98
+  },
+  {
+    "country_code": "LUX",
+    "year": 2024,
+    "value": 83.8
+  },
+  {
+    "country_code": "LUX",
+    "year": 2025,
+    "value": 83.04
+  },
+  {
+    "country_code": "LVA",
+    "year": 2013,
+    "value": 77.11
+  },
+  {
+    "country_code": "LVA",
+    "year": 2014,
+    "value": 78.9
+  },
+  {
+    "country_code": "LVA",
+    "year": 2015,
+    "value": 81.88
+  },
+  {
+    "country_code": "LVA",
+    "year": 2016,
+    "value": 82.62
+  },
+  {
+    "country_code": "LVA",
+    "year": 2017,
+    "value": 81.38
+  },
+  {
+    "country_code": "LVA",
+    "year": 2018,
+    "value": 80.37
+  },
+  {
+    "country_code": "LVA",
+    "year": 2019,
+    "value": 80.47
+  },
+  {
+    "country_code": "LVA",
+    "year": 2020,
+    "value": 81.44
+  },
+  {
+    "country_code": "LVA",
+    "year": 2021,
+    "value": 80.74
+  },
+  {
+    "country_code": "LVA",
+    "year": 2022,
+    "value": 79.17
+  },
+  {
+    "country_code": "LVA",
+    "year": 2023,
+    "value": 83.27
+  },
+  {
+    "country_code": "LVA",
+    "year": 2024,
+    "value": 82.9
+  },
+  {
+    "country_code": "LVA",
+    "year": 2025,
+    "value": 81.82
+  },
+  {
+    "country_code": "MAR",
+    "year": 2013,
+    "value": 60.96
+  },
+  {
+    "country_code": "MAR",
+    "year": 2014,
+    "value": 60.28
+  },
+  {
+    "country_code": "MAR",
+    "year": 2015,
+    "value": 60.81
+  },
+  {
+    "country_code": "MAR",
+    "year": 2016,
+    "value": 57.36
+  },
+  {
+    "country_code": "MAR",
+    "year": 2017,
+    "value": 57.58
+  },
+  {
+    "country_code": "MAR",
+    "year": 2018,
+    "value": 56.87
+  },
+  {
+    "country_code": "MAR",
+    "year": 2019,
+    "value": 56.02
+  },
+  {
+    "country_code": "MAR",
+    "year": 2020,
+    "value": 57.12
+  },
+  {
+    "country_code": "MAR",
+    "year": 2021,
+    "value": 56.06
+  },
+  {
+    "country_code": "MAR",
+    "year": 2022,
+    "value": 45.42
+  },
+  {
+    "country_code": "MAR",
+    "year": 2023,
+    "value": 43.69
+  },
+  {
+    "country_code": "MAR",
+    "year": 2024,
+    "value": 45.97
+  },
+  {
+    "country_code": "MAR",
+    "year": 2025,
+    "value": 48.04
+  },
+  {
+    "country_code": "MDA",
+    "year": 2013,
+    "value": 73.99
+  },
+  {
+    "country_code": "MDA",
+    "year": 2014,
+    "value": 74.65
+  },
+  {
+    "country_code": "MDA",
+    "year": 2015,
+    "value": 72.15
+  },
+  {
+    "country_code": "MDA",
+    "year": 2016,
+    "value": 71.17
+  },
+  {
+    "country_code": "MDA",
+    "year": 2017,
+    "value": 69.59
+  },
+  {
+    "country_code": "MDA",
+    "year": 2018,
+    "value": 69.99
+  },
+  {
+    "country_code": "MDA",
+    "year": 2019,
+    "value": 68.79
+  },
+  {
+    "country_code": "MDA",
+    "year": 2020,
+    "value": 68.84
+  },
+  {
+    "country_code": "MDA",
+    "year": 2021,
+    "value": 68.39
+  },
+  {
+    "country_code": "MDA",
+    "year": 2022,
+    "value": 73.47
+  },
+  {
+    "country_code": "MDA",
+    "year": 2023,
+    "value": 77.62
+  },
+  {
+    "country_code": "MDA",
+    "year": 2024,
+    "value": 74.86
+  },
+  {
+    "country_code": "MDA",
+    "year": 2025,
+    "value": 73.36
+  },
+  {
+    "country_code": "MDG",
+    "year": 2013,
+    "value": 71.38
+  },
+  {
+    "country_code": "MDG",
+    "year": 2014,
+    "value": 70.62
+  },
+  {
+    "country_code": "MDG",
+    "year": 2015,
+    "value": 72.57
+  },
+  {
+    "country_code": "MDG",
+    "year": 2016,
+    "value": 72.96
+  },
+  {
+    "country_code": "MDG",
+    "year": 2017,
+    "value": 73.29
+  },
+  {
+    "country_code": "MDG",
+    "year": 2018,
+    "value": 73.8
+  },
+  {
+    "country_code": "MDG",
+    "year": 2019,
+    "value": 72.24
+  },
+  {
+    "country_code": "MDG",
+    "year": 2020,
+    "value": 72.32
+  },
+  {
+    "country_code": "MDG",
+    "year": 2021,
+    "value": 71.76
+  },
+  {
+    "country_code": "MDG",
+    "year": 2022,
+    "value": 58.02
+  },
+  {
+    "country_code": "MDG",
+    "year": 2023,
+    "value": 56.66
+  },
+  {
+    "country_code": "MDG",
+    "year": 2024,
+    "value": 54.07
+  },
+  {
+    "country_code": "MDG",
+    "year": 2025,
+    "value": 50.8
+  },
+  {
+    "country_code": "MDV",
+    "year": 2013,
+    "value": 68.9
+  },
+  {
+    "country_code": "MDV",
+    "year": 2014,
+    "value": 66.89
+  },
+  {
+    "country_code": "MDV",
+    "year": 2015,
+    "value": 65.68
+  },
+  {
+    "country_code": "MDV",
+    "year": 2016,
+    "value": 65.83
+  },
+  {
+    "country_code": "MDV",
+    "year": 2017,
+    "value": 60.7
+  },
+  {
+    "country_code": "MDV",
+    "year": 2018,
+    "value": 62.05
+  },
+  {
+    "country_code": "MDV",
+    "year": 2019,
+    "value": 67.84
+  },
+  {
+    "country_code": "MDV",
+    "year": 2020,
+    "value": 70.07
+  },
+  {
+    "country_code": "MDV",
+    "year": 2021,
+    "value": 70.87
+  },
+  {
+    "country_code": "MDV",
+    "year": 2022,
+    "value": 59.55
+  },
+  {
+    "country_code": "MDV",
+    "year": 2023,
+    "value": 56.93
+  },
+  {
+    "country_code": "MDV",
+    "year": 2024,
+    "value": 52.36
+  },
+  {
+    "country_code": "MDV",
+    "year": 2025,
+    "value": 52.46
+  },
+  {
+    "country_code": "MEX",
+    "year": 2013,
+    "value": 54.7
+  },
+  {
+    "country_code": "MEX",
+    "year": 2014,
+    "value": 54.96
+  },
+  {
+    "country_code": "MEX",
+    "year": 2015,
+    "value": 56.31
+  },
+  {
+    "country_code": "MEX",
+    "year": 2016,
+    "value": 50.67
+  },
+  {
+    "country_code": "MEX",
+    "year": 2017,
+    "value": 51.03
+  },
+  {
+    "country_code": "MEX",
+    "year": 2018,
+    "value": 51.09
+  },
+  {
+    "country_code": "MEX",
+    "year": 2019,
+    "value": 53.22
+  },
+  {
+    "country_code": "MEX",
+    "year": 2020,
+    "value": 54.55
+  },
+  {
+    "country_code": "MEX",
+    "year": 2021,
+    "value": 53.29
+  },
+  {
+    "country_code": "MEX",
+    "year": 2022,
+    "value": 47.57
+  },
+  {
+    "country_code": "MEX",
+    "year": 2023,
+    "value": 47.98
+  },
+  {
+    "country_code": "MEX",
+    "year": 2024,
+    "value": 49.01
+  },
+  {
+    "country_code": "MEX",
+    "year": 2025,
+    "value": 45.55
+  },
+  {
+    "country_code": "MKD",
+    "year": 2013,
+    "value": 65.73
+  },
+  {
+    "country_code": "MKD",
+    "year": 2014,
+    "value": 63.57
+  },
+  {
+    "country_code": "MKD",
+    "year": 2015,
+    "value": 63.74
+  },
+  {
+    "country_code": "MKD",
+    "year": 2016,
+    "value": 63.91
+  },
+  {
+    "country_code": "MKD",
+    "year": 2017,
+    "value": 64.26
+  },
+  {
+    "country_code": "MKD",
+    "year": 2018,
+    "value": 67.57
+  },
+  {
+    "country_code": "MKD",
+    "year": 2019,
+    "value": 68.34
+  },
+  {
+    "country_code": "MKD",
+    "year": 2020,
+    "value": 68.72
+  },
+  {
+    "country_code": "MKD",
+    "year": 2021,
+    "value": 68.33
+  },
+  {
+    "country_code": "MKD",
+    "year": 2022,
+    "value": 68.44
+  },
+  {
+    "country_code": "MKD",
+    "year": 2023,
+    "value": 74.35
+  },
+  {
+    "country_code": "MKD",
+    "year": 2024,
+    "value": 73.78
+  },
+  {
+    "country_code": "MKD",
+    "year": 2025,
+    "value": 70.44
+  },
+  {
+    "country_code": "MLI",
+    "year": 2013,
+    "value": 69.97
+  },
+  {
+    "country_code": "MLI",
+    "year": 2014,
+    "value": 63.71
+  },
+  {
+    "country_code": "MLI",
+    "year": 2015,
+    "value": 63.67
+  },
+  {
+    "country_code": "MLI",
+    "year": 2016,
+    "value": 60.17
+  },
+  {
+    "country_code": "MLI",
+    "year": 2017,
+    "value": 61.73
+  },
+  {
+    "country_code": "MLI",
+    "year": 2018,
+    "value": 63.85
+  },
+  {
+    "country_code": "MLI",
+    "year": 2019,
+    "value": 64.77
+  },
+  {
+    "country_code": "MLI",
+    "year": 2020,
+    "value": 65.88
+  },
+  {
+    "country_code": "MLI",
+    "year": 2021,
+    "value": 66.5
+  },
+  {
+    "country_code": "MLI",
+    "year": 2022,
+    "value": 54.48
+  },
+  {
+    "country_code": "MLI",
+    "year": 2023,
+    "value": 52.29
+  },
+  {
+    "country_code": "MLI",
+    "year": 2024,
+    "value": 50.56
+  },
+  {
+    "country_code": "MLI",
+    "year": 2025,
+    "value": 48.23
+  },
+  {
+    "country_code": "MLT",
+    "year": 2013,
+    "value": 76.7
+  },
+  {
+    "country_code": "MLT",
+    "year": 2014,
+    "value": 76.16
+  },
+  {
+    "country_code": "MLT",
+    "year": 2015,
+    "value": 75.84
+  },
+  {
+    "country_code": "MLT",
+    "year": 2016,
+    "value": 76.16
+  },
+  {
+    "country_code": "MLT",
+    "year": 2017,
+    "value": 75.24
+  },
+  {
+    "country_code": "MLT",
+    "year": 2018,
+    "value": 72.56
+  },
+  {
+    "country_code": "MLT",
+    "year": 2019,
+    "value": 70.26
+  },
+  {
+    "country_code": "MLT",
+    "year": 2020,
+    "value": 69.84
+  },
+  {
+    "country_code": "MLT",
+    "year": 2021,
+    "value": 69.54
+  },
+  {
+    "country_code": "MLT",
+    "year": 2022,
+    "value": 61.55
+  },
+  {
+    "country_code": "MLT",
+    "year": 2023,
+    "value": 59.76
+  },
+  {
+    "country_code": "MLT",
+    "year": 2024,
+    "value": 60.96
+  },
+  {
+    "country_code": "MLT",
+    "year": 2025,
+    "value": 62.96
+  },
+  {
+    "country_code": "MMR",
+    "year": 2013,
+    "value": 55.29
+  },
+  {
+    "country_code": "MMR",
+    "year": 2014,
+    "value": 58.57
+  },
+  {
+    "country_code": "MMR",
+    "year": 2015,
+    "value": 57.92
+  },
+  {
+    "country_code": "MMR",
+    "year": 2016,
+    "value": 54.52
+  },
+  {
+    "country_code": "MMR",
+    "year": 2017,
+    "value": 58.18
+  },
+  {
+    "country_code": "MMR",
+    "year": 2018,
+    "value": 56.85
+  },
+  {
+    "country_code": "MMR",
+    "year": 2019,
+    "value": 55.08
+  },
+  {
+    "country_code": "MMR",
+    "year": 2020,
+    "value": 55.23
+  },
+  {
+    "country_code": "MMR",
+    "year": 2021,
+    "value": 53.86
+  },
+  {
+    "country_code": "MMR",
+    "year": 2022,
+    "value": 25.03
+  },
+  {
+    "country_code": "MMR",
+    "year": 2023,
+    "value": 28.26
+  },
+  {
+    "country_code": "MMR",
+    "year": 2024,
+    "value": 24.41
+  },
+  {
+    "country_code": "MMR",
+    "year": 2025,
+    "value": 25.32
+  },
+  {
+    "country_code": "MNE",
+    "year": 2013,
+    "value": 67.03
+  },
+  {
+    "country_code": "MNE",
+    "year": 2014,
+    "value": 65.22
+  },
+  {
+    "country_code": "MNE",
+    "year": 2015,
+    "value": 65.37
+  },
+  {
+    "country_code": "MNE",
+    "year": 2016,
+    "value": 67.21
+  },
+  {
+    "country_code": "MNE",
+    "year": 2017,
+    "value": 66.35
+  },
+  {
+    "country_code": "MNE",
+    "year": 2018,
+    "value": 68.79
+  },
+  {
+    "country_code": "MNE",
+    "year": 2019,
+    "value": 67.26
+  },
+  {
+    "country_code": "MNE",
+    "year": 2020,
+    "value": 66.17
+  },
+  {
+    "country_code": "MNE",
+    "year": 2021,
+    "value": 65.67
+  },
+  {
+    "country_code": "MNE",
+    "year": 2022,
+    "value": 66.54
+  },
+  {
+    "country_code": "MNE",
+    "year": 2023,
+    "value": 74.28
+  },
+  {
+    "country_code": "MNE",
+    "year": 2024,
+    "value": 73.21
+  },
+  {
+    "country_code": "MNE",
+    "year": 2025,
+    "value": 72.83
+  },
+  {
+    "country_code": "MNG",
+    "year": 2013,
+    "value": 70.07
+  },
+  {
+    "country_code": "MNG",
+    "year": 2014,
+    "value": 69.7
+  },
+  {
+    "country_code": "MNG",
+    "year": 2015,
+    "value": 74.75
+  },
+  {
+    "country_code": "MNG",
+    "year": 2016,
+    "value": 72.39
+  },
+  {
+    "country_code": "MNG",
+    "year": 2017,
+    "value": 71.05
+  },
+  {
+    "country_code": "MNG",
+    "year": 2018,
+    "value": 70.95
+  },
+  {
+    "country_code": "MNG",
+    "year": 2019,
+    "value": 70.49
+  },
+  {
+    "country_code": "MNG",
+    "year": 2020,
+    "value": 70.39
+  },
+  {
+    "country_code": "MNG",
+    "year": 2021,
+    "value": 71.03
+  },
+  {
+    "country_code": "MNG",
+    "year": 2022,
+    "value": 59.17
+  },
+  {
+    "country_code": "MNG",
+    "year": 2023,
+    "value": 59.33
+  },
+  {
+    "country_code": "MNG",
+    "year": 2024,
+    "value": 51.34
+  },
+  {
+    "country_code": "MNG",
+    "year": 2025,
+    "value": 52.57
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2013,
+    "value": 71.99
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2014,
+    "value": 70.74
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2015,
+    "value": 70.02
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2016,
+    "value": 69.75
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2017,
+    "value": 68.95
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2018,
+    "value": 68.88
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2019,
+    "value": 67.34
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2020,
+    "value": 66.21
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2021,
+    "value": 64.61
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2022,
+    "value": 49.89
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2023,
+    "value": 56.13
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2024,
+    "value": 52.42
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2025,
+    "value": 52.63
+  },
+  {
+    "country_code": "MRT",
+    "year": 2013,
+    "value": 73.24
+  },
+  {
+    "country_code": "MRT",
+    "year": 2014,
+    "value": 73.47
+  },
+  {
+    "country_code": "MRT",
+    "year": 2015,
+    "value": 74.73
+  },
+  {
+    "country_code": "MRT",
+    "year": 2016,
+    "value": 75.97
+  },
+  {
+    "country_code": "MRT",
+    "year": 2017,
+    "value": 73.51
+  },
+  {
+    "country_code": "MRT",
+    "year": 2018,
+    "value": 70.91
+  },
+  {
+    "country_code": "MRT",
+    "year": 2019,
+    "value": 68.35
+  },
+  {
+    "country_code": "MRT",
+    "year": 2020,
+    "value": 67.46
+  },
+  {
+    "country_code": "MRT",
+    "year": 2021,
+    "value": 67.75
+  },
+  {
+    "country_code": "MRT",
+    "year": 2022,
+    "value": 58.1
+  },
+  {
+    "country_code": "MRT",
+    "year": 2023,
+    "value": 59.45
+  },
+  {
+    "country_code": "MRT",
+    "year": 2024,
+    "value": 74.2
+  },
+  {
+    "country_code": "MRT",
+    "year": 2025,
+    "value": 67.52
+  },
+  {
+    "country_code": "MUS",
+    "year": 2013,
+    "value": 73.53
+  },
+  {
+    "country_code": "MUS",
+    "year": 2014,
+    "value": 72.31
+  },
+  {
+    "country_code": "MUS",
+    "year": 2015,
+    "value": 72.31
+  },
+  {
+    "country_code": "MUS",
+    "year": 2016,
+    "value": 72.31
+  },
+  {
+    "country_code": "MUS",
+    "year": 2017,
+    "value": 73.33
+  },
+  {
+    "country_code": "MUS",
+    "year": 2018,
+    "value": 73.55
+  },
+  {
+    "country_code": "MUS",
+    "year": 2019,
+    "value": 71.54
+  },
+  {
+    "country_code": "MUS",
+    "year": 2020,
+    "value": 72.0
+  },
+  {
+    "country_code": "MUS",
+    "year": 2021,
+    "value": 71.26
+  },
+  {
+    "country_code": "MUS",
+    "year": 2022,
+    "value": 66.07
+  },
+  {
+    "country_code": "MUS",
+    "year": 2023,
+    "value": 65.56
+  },
+  {
+    "country_code": "MUS",
+    "year": 2024,
+    "value": 65.55
+  },
+  {
+    "country_code": "MUS",
+    "year": 2025,
+    "value": 67.31
+  },
+  {
+    "country_code": "MWI",
+    "year": 2013,
+    "value": 71.82
+  },
+  {
+    "country_code": "MWI",
+    "year": 2014,
+    "value": 71.71
+  },
+  {
+    "country_code": "MWI",
+    "year": 2015,
+    "value": 73.59
+  },
+  {
+    "country_code": "MWI",
+    "year": 2016,
+    "value": 71.88
+  },
+  {
+    "country_code": "MWI",
+    "year": 2017,
+    "value": 71.03
+  },
+  {
+    "country_code": "MWI",
+    "year": 2018,
+    "value": 72.57
+  },
+  {
+    "country_code": "MWI",
+    "year": 2019,
+    "value": 70.64
+  },
+  {
+    "country_code": "MWI",
+    "year": 2020,
+    "value": 70.68
+  },
+  {
+    "country_code": "MWI",
+    "year": 2021,
+    "value": 71.2
+  },
+  {
+    "country_code": "MWI",
+    "year": 2022,
+    "value": 61.4
+  },
+  {
+    "country_code": "MWI",
+    "year": 2023,
+    "value": 60.34
+  },
+  {
+    "country_code": "MWI",
+    "year": 2024,
+    "value": 64.46
+  },
+  {
+    "country_code": "MWI",
+    "year": 2025,
+    "value": 59.2
+  },
+  {
+    "country_code": "MYS",
+    "year": 2013,
+    "value": 57.27
+  },
+  {
+    "country_code": "MYS",
+    "year": 2014,
+    "value": 57.27
+  },
+  {
+    "country_code": "MYS",
+    "year": 2015,
+    "value": 56.71
+  },
+  {
+    "country_code": "MYS",
+    "year": 2016,
+    "value": 53.43
+  },
+  {
+    "country_code": "MYS",
+    "year": 2017,
+    "value": 53.11
+  },
+  {
+    "country_code": "MYS",
+    "year": 2018,
+    "value": 52.59
+  },
+  {
+    "country_code": "MYS",
+    "year": 2019,
+    "value": 63.26
+  },
+  {
+    "country_code": "MYS",
+    "year": 2020,
+    "value": 66.88
+  },
+  {
+    "country_code": "MYS",
+    "year": 2021,
+    "value": 60.53
+  },
+  {
+    "country_code": "MYS",
+    "year": 2022,
+    "value": 51.55
+  },
+  {
+    "country_code": "MYS",
+    "year": 2023,
+    "value": 62.83
+  },
+  {
+    "country_code": "MYS",
+    "year": 2024,
+    "value": 52.07
+  },
+  {
+    "country_code": "MYS",
+    "year": 2025,
+    "value": 56.09
+  },
+  {
+    "country_code": "NAM",
+    "year": 2013,
+    "value": 87.5
+  },
+  {
+    "country_code": "NAM",
+    "year": 2014,
+    "value": 87.5
+  },
+  {
+    "country_code": "NAM",
+    "year": 2015,
+    "value": 87.5
+  },
+  {
+    "country_code": "NAM",
+    "year": 2016,
+    "value": 84.85
+  },
+  {
+    "country_code": "NAM",
+    "year": 2017,
+    "value": 82.92
+  },
+  {
+    "country_code": "NAM",
+    "year": 2018,
+    "value": 79.76
+  },
+  {
+    "country_code": "NAM",
+    "year": 2019,
+    "value": 81.05
+  },
+  {
+    "country_code": "NAM",
+    "year": 2020,
+    "value": 80.75
+  },
+  {
+    "country_code": "NAM",
+    "year": 2021,
+    "value": 80.28
+  },
+  {
+    "country_code": "NAM",
+    "year": 2022,
+    "value": 81.84
+  },
+  {
+    "country_code": "NAM",
+    "year": 2023,
+    "value": 80.91
+  },
+  {
+    "country_code": "NAM",
+    "year": 2024,
+    "value": 74.16
+  },
+  {
+    "country_code": "NAM",
+    "year": 2025,
+    "value": 75.35
+  },
+  {
+    "country_code": "NER",
+    "year": 2013,
+    "value": 76.92
+  },
+  {
+    "country_code": "NER",
+    "year": 2014,
+    "value": 76.41
+  },
+  {
+    "country_code": "NER",
+    "year": 2015,
+    "value": 76.15
+  },
+  {
+    "country_code": "NER",
+    "year": 2016,
+    "value": 75.38
+  },
+  {
+    "country_code": "NER",
+    "year": 2017,
+    "value": 72.79
+  },
+  {
+    "country_code": "NER",
+    "year": 2018,
+    "value": 72.6
+  },
+  {
+    "country_code": "NER",
+    "year": 2019,
+    "value": 70.74
+  },
+  {
+    "country_code": "NER",
+    "year": 2020,
+    "value": 71.75
+  },
+  {
+    "country_code": "NER",
+    "year": 2021,
+    "value": 71.56
+  },
+  {
+    "country_code": "NER",
+    "year": 2022,
+    "value": 67.8
+  },
+  {
+    "country_code": "NER",
+    "year": 2023,
+    "value": 66.84
+  },
+  {
+    "country_code": "NER",
+    "year": 2024,
+    "value": 59.71
+  },
+  {
+    "country_code": "NER",
+    "year": 2025,
+    "value": 57.05
+  },
+  {
+    "country_code": "NGA",
+    "year": 2013,
+    "value": 65.89
+  },
+  {
+    "country_code": "NGA",
+    "year": 2014,
+    "value": 65.76
+  },
+  {
+    "country_code": "NGA",
+    "year": 2015,
+    "value": 65.91
+  },
+  {
+    "country_code": "NGA",
+    "year": 2016,
+    "value": 64.1
+  },
+  {
+    "country_code": "NGA",
+    "year": 2017,
+    "value": 60.31
+  },
+  {
+    "country_code": "NGA",
+    "year": 2018,
+    "value": 62.59
+  },
+  {
+    "country_code": "NGA",
+    "year": 2019,
+    "value": 63.5
+  },
+  {
+    "country_code": "NGA",
+    "year": 2020,
+    "value": 64.37
+  },
+  {
+    "country_code": "NGA",
+    "year": 2021,
+    "value": 60.31
+  },
+  {
+    "country_code": "NGA",
+    "year": 2022,
+    "value": 46.79
+  },
+  {
+    "country_code": "NGA",
+    "year": 2023,
+    "value": 49.56
+  },
+  {
+    "country_code": "NGA",
+    "year": 2024,
+    "value": 51.03
+  },
+  {
+    "country_code": "NGA",
+    "year": 2025,
+    "value": 46.81
+  },
+  {
+    "country_code": "NIC",
+    "year": 2013,
+    "value": 71.69
+  },
+  {
+    "country_code": "NIC",
+    "year": 2014,
+    "value": 72.3
+  },
+  {
+    "country_code": "NIC",
+    "year": 2015,
+    "value": 72.06
+  },
+  {
+    "country_code": "NIC",
+    "year": 2016,
+    "value": 71.18
+  },
+  {
+    "country_code": "NIC",
+    "year": 2017,
+    "value": 68.99
+  },
+  {
+    "country_code": "NIC",
+    "year": 2018,
+    "value": 69.59
+  },
+  {
+    "country_code": "NIC",
+    "year": 2019,
+    "value": 64.47
+  },
+  {
+    "country_code": "NIC",
+    "year": 2020,
+    "value": 64.19
+  },
+  {
+    "country_code": "NIC",
+    "year": 2021,
+    "value": 60.02
+  },
+  {
+    "country_code": "NIC",
+    "year": 2022,
+    "value": 37.09
+  },
+  {
+    "country_code": "NIC",
+    "year": 2023,
+    "value": 37.09
+  },
+  {
+    "country_code": "NIC",
+    "year": 2024,
+    "value": 29.2
+  },
+  {
+    "country_code": "NIC",
+    "year": 2025,
+    "value": 22.83
+  },
+  {
+    "country_code": "NLD",
+    "year": 2013,
+    "value": 93.52
+  },
+  {
+    "country_code": "NLD",
+    "year": 2014,
+    "value": 93.54
+  },
+  {
+    "country_code": "NLD",
+    "year": 2015,
+    "value": 90.78
+  },
+  {
+    "country_code": "NLD",
+    "year": 2016,
+    "value": 91.24
+  },
+  {
+    "country_code": "NLD",
+    "year": 2017,
+    "value": 88.72
+  },
+  {
+    "country_code": "NLD",
+    "year": 2018,
+    "value": 89.99
+  },
+  {
+    "country_code": "NLD",
+    "year": 2019,
+    "value": 91.37
+  },
+  {
+    "country_code": "NLD",
+    "year": 2020,
+    "value": 90.04
+  },
+  {
+    "country_code": "NLD",
+    "year": 2021,
+    "value": 90.33
+  },
+  {
+    "country_code": "NLD",
+    "year": 2022,
+    "value": 77.93
+  },
+  {
+    "country_code": "NLD",
+    "year": 2023,
+    "value": 87.0
+  },
+  {
+    "country_code": "NLD",
+    "year": 2024,
+    "value": 87.73
+  },
+  {
+    "country_code": "NLD",
+    "year": 2025,
+    "value": 88.64
+  },
+  {
+    "country_code": "NOR",
+    "year": 2013,
+    "value": 93.48
+  },
+  {
+    "country_code": "NOR",
+    "year": 2014,
+    "value": 93.48
+  },
+  {
+    "country_code": "NOR",
+    "year": 2015,
+    "value": 92.25
+  },
+  {
+    "country_code": "NOR",
+    "year": 2016,
+    "value": 91.21
+  },
+  {
+    "country_code": "NOR",
+    "year": 2017,
+    "value": 92.4
+  },
+  {
+    "country_code": "NOR",
+    "year": 2018,
+    "value": 92.37
+  },
+  {
+    "country_code": "NOR",
+    "year": 2019,
+    "value": 92.18
+  },
+  {
+    "country_code": "NOR",
+    "year": 2020,
+    "value": 92.16
+  },
+  {
+    "country_code": "NOR",
+    "year": 2021,
+    "value": 93.28
+  },
+  {
+    "country_code": "NOR",
+    "year": 2022,
+    "value": 92.65
+  },
+  {
+    "country_code": "NOR",
+    "year": 2023,
+    "value": 95.18
+  },
+  {
+    "country_code": "NOR",
+    "year": 2024,
+    "value": 91.89
+  },
+  {
+    "country_code": "NOR",
+    "year": 2025,
+    "value": 92.31
+  },
+  {
+    "country_code": "NPL",
+    "year": 2013,
+    "value": 65.39
+  },
+  {
+    "country_code": "NPL",
+    "year": 2014,
+    "value": 63.84
+  },
+  {
+    "country_code": "NPL",
+    "year": 2015,
+    "value": 67.29
+  },
+  {
+    "country_code": "NPL",
+    "year": 2016,
+    "value": 67.38
+  },
+  {
+    "country_code": "NPL",
+    "year": 2017,
+    "value": 66.98
+  },
+  {
+    "country_code": "NPL",
+    "year": 2018,
+    "value": 67.95
+  },
+  {
+    "country_code": "NPL",
+    "year": 2019,
+    "value": 66.6
+  },
+  {
+    "country_code": "NPL",
+    "year": 2020,
+    "value": 64.9
+  },
+  {
+    "country_code": "NPL",
+    "year": 2021,
+    "value": 65.38
+  },
+  {
+    "country_code": "NPL",
+    "year": 2022,
+    "value": 62.67
+  },
+  {
+    "country_code": "NPL",
+    "year": 2023,
+    "value": 57.89
+  },
+  {
+    "country_code": "NPL",
+    "year": 2024,
+    "value": 60.52
+  },
+  {
+    "country_code": "NPL",
+    "year": 2025,
+    "value": 55.2
+  },
+  {
+    "country_code": "NZL",
+    "year": 2013,
+    "value": 91.62
+  },
+  {
+    "country_code": "NZL",
+    "year": 2014,
+    "value": 91.45
+  },
+  {
+    "country_code": "NZL",
+    "year": 2015,
+    "value": 89.94
+  },
+  {
+    "country_code": "NZL",
+    "year": 2016,
+    "value": 89.99
+  },
+  {
+    "country_code": "NZL",
+    "year": 2017,
+    "value": 86.02
+  },
+  {
+    "country_code": "NZL",
+    "year": 2018,
+    "value": 86.38
+  },
+  {
+    "country_code": "NZL",
+    "year": 2019,
+    "value": 89.25
+  },
+  {
+    "country_code": "NZL",
+    "year": 2020,
+    "value": 89.31
+  },
+  {
+    "country_code": "NZL",
+    "year": 2021,
+    "value": 89.96
+  },
+  {
+    "country_code": "NZL",
+    "year": 2022,
+    "value": 83.54
+  },
+  {
+    "country_code": "NZL",
+    "year": 2023,
+    "value": 84.23
+  },
+  {
+    "country_code": "NZL",
+    "year": 2024,
+    "value": 79.72
+  },
+  {
+    "country_code": "NZL",
+    "year": 2025,
+    "value": 81.37
+  },
+  {
+    "country_code": "OMN",
+    "year": 2013,
+    "value": 58.49
+  },
+  {
+    "country_code": "OMN",
+    "year": 2014,
+    "value": 61.17
+  },
+  {
+    "country_code": "OMN",
+    "year": 2015,
+    "value": 61.17
+  },
+  {
+    "country_code": "OMN",
+    "year": 2016,
+    "value": 59.57
+  },
+  {
+    "country_code": "OMN",
+    "year": 2017,
+    "value": 59.54
+  },
+  {
+    "country_code": "OMN",
+    "year": 2018,
+    "value": 59.33
+  },
+  {
+    "country_code": "OMN",
+    "year": 2019,
+    "value": 56.58
+  },
+  {
+    "country_code": "OMN",
+    "year": 2020,
+    "value": 56.58
+  },
+  {
+    "country_code": "OMN",
+    "year": 2021,
+    "value": 56.63
+  },
+  {
+    "country_code": "OMN",
+    "year": 2022,
+    "value": 35.99
+  },
+  {
+    "country_code": "OMN",
+    "year": 2023,
+    "value": 37.87
+  },
+  {
+    "country_code": "OMN",
+    "year": 2024,
+    "value": 42.52
+  },
+  {
+    "country_code": "OMN",
+    "year": 2025,
+    "value": 42.29
+  },
+  {
+    "country_code": "PAK",
+    "year": 2013,
+    "value": 48.69
+  },
+  {
+    "country_code": "PAK",
+    "year": 2014,
+    "value": 48.54
+  },
+  {
+    "country_code": "PAK",
+    "year": 2015,
+    "value": 49.54
+  },
+  {
+    "country_code": "PAK",
+    "year": 2016,
+    "value": 51.48
+  },
+  {
+    "country_code": "PAK",
+    "year": 2017,
+    "value": 56.45
+  },
+  {
+    "country_code": "PAK",
+    "year": 2018,
+    "value": 56.76
+  },
+  {
+    "country_code": "PAK",
+    "year": 2019,
+    "value": 54.17
+  },
+  {
+    "country_code": "PAK",
+    "year": 2020,
+    "value": 54.48
+  },
+  {
+    "country_code": "PAK",
+    "year": 2021,
+    "value": 53.14
+  },
+  {
+    "country_code": "PAK",
+    "year": 2022,
+    "value": 37.99
+  },
+  {
+    "country_code": "PAK",
+    "year": 2023,
+    "value": 39.95
+  },
+  {
+    "country_code": "PAK",
+    "year": 2024,
+    "value": 33.9
+  },
+  {
+    "country_code": "PAK",
+    "year": 2025,
+    "value": 29.62
+  },
+  {
+    "country_code": "PAN",
+    "year": 2013,
+    "value": 67.05
+  },
+  {
+    "country_code": "PAN",
+    "year": 2014,
+    "value": 69.8
+  },
+  {
+    "country_code": "PAN",
+    "year": 2015,
+    "value": 71.02
+  },
+  {
+    "country_code": "PAN",
+    "year": 2016,
+    "value": 69.41
+  },
+  {
+    "country_code": "PAN",
+    "year": 2017,
+    "value": 67.88
+  },
+  {
+    "country_code": "PAN",
+    "year": 2018,
+    "value": 69.44
+  },
+  {
+    "country_code": "PAN",
+    "year": 2019,
+    "value": 70.22
+  },
+  {
+    "country_code": "PAN",
+    "year": 2020,
+    "value": 70.22
+  },
+  {
+    "country_code": "PAN",
+    "year": 2021,
+    "value": 70.06
+  },
+  {
+    "country_code": "PAN",
+    "year": 2022,
+    "value": 62.78
+  },
+  {
+    "country_code": "PAN",
+    "year": 2023,
+    "value": 63.67
+  },
+  {
+    "country_code": "PAN",
+    "year": 2024,
+    "value": 58.55
+  },
+  {
+    "country_code": "PAN",
+    "year": 2025,
+    "value": 66.75
+  },
+  {
+    "country_code": "PER",
+    "year": 2013,
+    "value": 68.13
+  },
+  {
+    "country_code": "PER",
+    "year": 2014,
+    "value": 68.3
+  },
+  {
+    "country_code": "PER",
+    "year": 2015,
+    "value": 68.79
+  },
+  {
+    "country_code": "PER",
+    "year": 2016,
+    "value": 70.01
+  },
+  {
+    "country_code": "PER",
+    "year": 2017,
+    "value": 69.02
+  },
+  {
+    "country_code": "PER",
+    "year": 2018,
+    "value": 69.73
+  },
+  {
+    "country_code": "PER",
+    "year": 2019,
+    "value": 69.78
+  },
+  {
+    "country_code": "PER",
+    "year": 2020,
+    "value": 69.06
+  },
+  {
+    "country_code": "PER",
+    "year": 2021,
+    "value": 68.29
+  },
+  {
+    "country_code": "PER",
+    "year": 2022,
+    "value": 61.75
+  },
+  {
+    "country_code": "PER",
+    "year": 2023,
+    "value": 52.74
+  },
+  {
+    "country_code": "PER",
+    "year": 2024,
+    "value": 47.76
+  },
+  {
+    "country_code": "PER",
+    "year": 2025,
+    "value": 42.88
+  },
+  {
+    "country_code": "PHL",
+    "year": 2013,
+    "value": 56.89
+  },
+  {
+    "country_code": "PHL",
+    "year": 2014,
+    "value": 56.31
+  },
+  {
+    "country_code": "PHL",
+    "year": 2015,
+    "value": 58.81
+  },
+  {
+    "country_code": "PHL",
+    "year": 2016,
+    "value": 55.34
+  },
+  {
+    "country_code": "PHL",
+    "year": 2017,
+    "value": 58.92
+  },
+  {
+    "country_code": "PHL",
+    "year": 2018,
+    "value": 57.47
+  },
+  {
+    "country_code": "PHL",
+    "year": 2019,
+    "value": 56.09
+  },
+  {
+    "country_code": "PHL",
+    "year": 2020,
+    "value": 56.46
+  },
+  {
+    "country_code": "PHL",
+    "year": 2021,
+    "value": 54.36
+  },
+  {
+    "country_code": "PHL",
+    "year": 2022,
+    "value": 41.84
+  },
+  {
+    "country_code": "PHL",
+    "year": 2023,
+    "value": 46.21
+  },
+  {
+    "country_code": "PHL",
+    "year": 2024,
+    "value": 43.36
+  },
+  {
+    "country_code": "PHL",
+    "year": 2025,
+    "value": 49.57
+  },
+  {
+    "country_code": "PNG",
+    "year": 2013,
+    "value": 77.03
+  },
+  {
+    "country_code": "PNG",
+    "year": 2014,
+    "value": 76.54
+  },
+  {
+    "country_code": "PNG",
+    "year": 2015,
+    "value": 74.13
+  },
+  {
+    "country_code": "PNG",
+    "year": 2016,
+    "value": 74.19
+  },
+  {
+    "country_code": "PNG",
+    "year": 2017,
+    "value": 74.93
+  },
+  {
+    "country_code": "PNG",
+    "year": 2018,
+    "value": 73.81
+  },
+  {
+    "country_code": "PNG",
+    "year": 2019,
+    "value": 75.3
+  },
+  {
+    "country_code": "PNG",
+    "year": 2020,
+    "value": 76.07
+  },
+  {
+    "country_code": "PNG",
+    "year": 2021,
+    "value": 75.12
+  },
+  {
+    "country_code": "PNG",
+    "year": 2022,
+    "value": 66.66
+  },
+  {
+    "country_code": "PNG",
+    "year": 2023,
+    "value": 67.62
+  },
+  {
+    "country_code": "PNG",
+    "year": 2024,
+    "value": 56.02
+  },
+  {
+    "country_code": "PNG",
+    "year": 2025,
+    "value": 58.35
+  },
+  {
+    "country_code": "POL",
+    "year": 2013,
+    "value": 86.89
+  },
+  {
+    "country_code": "POL",
+    "year": 2014,
+    "value": 88.97
+  },
+  {
+    "country_code": "POL",
+    "year": 2015,
+    "value": 87.29
+  },
+  {
+    "country_code": "POL",
+    "year": 2016,
+    "value": 76.11
+  },
+  {
+    "country_code": "POL",
+    "year": 2017,
+    "value": 73.53
+  },
+  {
+    "country_code": "POL",
+    "year": 2018,
+    "value": 73.41
+  },
+  {
+    "country_code": "POL",
+    "year": 2019,
+    "value": 71.11
+  },
+  {
+    "country_code": "POL",
+    "year": 2020,
+    "value": 71.35
+  },
+  {
+    "country_code": "POL",
+    "year": 2021,
+    "value": 71.16
+  },
+  {
+    "country_code": "POL",
+    "year": 2022,
+    "value": 65.64
+  },
+  {
+    "country_code": "POL",
+    "year": 2023,
+    "value": 67.66
+  },
+  {
+    "country_code": "POL",
+    "year": 2024,
+    "value": 69.17
+  },
+  {
+    "country_code": "POL",
+    "year": 2025,
+    "value": 74.79
+  },
+  {
+    "country_code": "PRK",
+    "year": 2013,
+    "value": 16.1
+  },
+  {
+    "country_code": "PRK",
+    "year": 2014,
+    "value": 18.04
+  },
+  {
+    "country_code": "PRK",
+    "year": 2015,
+    "value": 16.75
+  },
+  {
+    "country_code": "PRK",
+    "year": 2016,
+    "value": 16.24
+  },
+  {
+    "country_code": "PRK",
+    "year": 2017,
+    "value": 15.02
+  },
+  {
+    "country_code": "PRK",
+    "year": 2018,
+    "value": 11.13
+  },
+  {
+    "country_code": "PRK",
+    "year": 2019,
+    "value": 16.6
+  },
+  {
+    "country_code": "PRK",
+    "year": 2020,
+    "value": 14.18
+  },
+  {
+    "country_code": "PRK",
+    "year": 2021,
+    "value": 18.72
+  },
+  {
+    "country_code": "PRK",
+    "year": 2022,
+    "value": 13.92
+  },
+  {
+    "country_code": "PRK",
+    "year": 2023,
+    "value": 21.72
+  },
+  {
+    "country_code": "PRK",
+    "year": 2024,
+    "value": 20.66
+  },
+  {
+    "country_code": "PRK",
+    "year": 2025,
+    "value": 12.64
+  },
+  {
+    "country_code": "PRT",
+    "year": 2013,
+    "value": 83.25
+  },
+  {
+    "country_code": "PRT",
+    "year": 2014,
+    "value": 82.27
+  },
+  {
+    "country_code": "PRT",
+    "year": 2015,
+    "value": 82.89
+  },
+  {
+    "country_code": "PRT",
+    "year": 2016,
+    "value": 82.73
+  },
+  {
+    "country_code": "PRT",
+    "year": 2017,
+    "value": 84.23
+  },
+  {
+    "country_code": "PRT",
+    "year": 2018,
+    "value": 85.83
+  },
+  {
+    "country_code": "PRT",
+    "year": 2019,
+    "value": 87.37
+  },
+  {
+    "country_code": "PRT",
+    "year": 2020,
+    "value": 88.17
+  },
+  {
+    "country_code": "PRT",
+    "year": 2021,
+    "value": 89.89
+  },
+  {
+    "country_code": "PRT",
+    "year": 2022,
+    "value": 87.07
+  },
+  {
+    "country_code": "PRT",
+    "year": 2023,
+    "value": 84.6
+  },
+  {
+    "country_code": "PRT",
+    "year": 2024,
+    "value": 85.9
+  },
+  {
+    "country_code": "PRT",
+    "year": 2025,
+    "value": 84.26
+  },
+  {
+    "country_code": "PRY",
+    "year": 2013,
+    "value": 71.22
+  },
+  {
+    "country_code": "PRY",
+    "year": 2014,
+    "value": 68.19
+  },
+  {
+    "country_code": "PRY",
+    "year": 2015,
+    "value": 66.26
+  },
+  {
+    "country_code": "PRY",
+    "year": 2016,
+    "value": 66.37
+  },
+  {
+    "country_code": "PRY",
+    "year": 2017,
+    "value": 64.36
+  },
+  {
+    "country_code": "PRY",
+    "year": 2018,
+    "value": 67.68
+  },
+  {
+    "country_code": "PRY",
+    "year": 2019,
+    "value": 67.6
+  },
+  {
+    "country_code": "PRY",
+    "year": 2020,
+    "value": 67.03
+  },
+  {
+    "country_code": "PRY",
+    "year": 2021,
+    "value": 66.48
+  },
+  {
+    "country_code": "PRY",
+    "year": 2022,
+    "value": 58.36
+  },
+  {
+    "country_code": "PRY",
+    "year": 2023,
+    "value": 55.96
+  },
+  {
+    "country_code": "PRY",
+    "year": 2024,
+    "value": 50.48
+  },
+  {
+    "country_code": "PRY",
+    "year": 2025,
+    "value": 56.84
+  },
+  {
+    "country_code": "QAT",
+    "year": 2013,
+    "value": 67.14
+  },
+  {
+    "country_code": "QAT",
+    "year": 2014,
+    "value": 65.68
+  },
+  {
+    "country_code": "QAT",
+    "year": 2015,
+    "value": 64.65
+  },
+  {
+    "country_code": "QAT",
+    "year": 2016,
+    "value": 64.03
+  },
+  {
+    "country_code": "QAT",
+    "year": 2017,
+    "value": 60.17
+  },
+  {
+    "country_code": "QAT",
+    "year": 2018,
+    "value": 59.84
+  },
+  {
+    "country_code": "QAT",
+    "year": 2019,
+    "value": 57.49
+  },
+  {
+    "country_code": "QAT",
+    "year": 2020,
+    "value": 57.49
+  },
+  {
+    "country_code": "QAT",
+    "year": 2021,
+    "value": 57.4
+  },
+  {
+    "country_code": "QAT",
+    "year": 2022,
+    "value": 49.03
+  },
+  {
+    "country_code": "QAT",
+    "year": 2023,
+    "value": 55.28
+  },
+  {
+    "country_code": "QAT",
+    "year": 2024,
+    "value": 58.48
+  },
+  {
+    "country_code": "QAT",
+    "year": 2025,
+    "value": 58.25
+  },
+  {
+    "country_code": "ROU",
+    "year": 2013,
+    "value": 76.95
+  },
+  {
+    "country_code": "ROU",
+    "year": 2014,
+    "value": 76.52
+  },
+  {
+    "country_code": "ROU",
+    "year": 2015,
+    "value": 75.1
+  },
+  {
+    "country_code": "ROU",
+    "year": 2016,
+    "value": 75.71
+  },
+  {
+    "country_code": "ROU",
+    "year": 2017,
+    "value": 75.54
+  },
+  {
+    "country_code": "ROU",
+    "year": 2018,
+    "value": 76.35
+  },
+  {
+    "country_code": "ROU",
+    "year": 2019,
+    "value": 74.33
+  },
+  {
+    "country_code": "ROU",
+    "year": 2020,
+    "value": 74.09
+  },
+  {
+    "country_code": "ROU",
+    "year": 2021,
+    "value": 75.09
+  },
+  {
+    "country_code": "ROU",
+    "year": 2022,
+    "value": 68.46
+  },
+  {
+    "country_code": "ROU",
+    "year": 2023,
+    "value": 69.04
+  },
+  {
+    "country_code": "ROU",
+    "year": 2024,
+    "value": 68.45
+  },
+  {
+    "country_code": "ROU",
+    "year": 2025,
+    "value": 66.42
+  },
+  {
+    "country_code": "RUS",
+    "year": 2013,
+    "value": 56.58
+  },
+  {
+    "country_code": "RUS",
+    "year": 2014,
+    "value": 57.22
+  },
+  {
+    "country_code": "RUS",
+    "year": 2015,
+    "value": 55.03
+  },
+  {
+    "country_code": "RUS",
+    "year": 2016,
+    "value": 50.97
+  },
+  {
+    "country_code": "RUS",
+    "year": 2017,
+    "value": 50.55
+  },
+  {
+    "country_code": "RUS",
+    "year": 2018,
+    "value": 50.04
+  },
+  {
+    "country_code": "RUS",
+    "year": 2019,
+    "value": 49.69
+  },
+  {
+    "country_code": "RUS",
+    "year": 2020,
+    "value": 51.08
+  },
+  {
+    "country_code": "RUS",
+    "year": 2021,
+    "value": 51.29
+  },
+  {
+    "country_code": "RUS",
+    "year": 2022,
+    "value": 38.82
+  },
+  {
+    "country_code": "RUS",
+    "year": 2023,
+    "value": 34.77
+  },
+  {
+    "country_code": "RUS",
+    "year": 2024,
+    "value": 29.86
+  },
+  {
+    "country_code": "RUS",
+    "year": 2025,
+    "value": 24.57
+  },
+  {
+    "country_code": "RWA",
+    "year": 2013,
+    "value": 44.54
+  },
+  {
+    "country_code": "RWA",
+    "year": 2014,
+    "value": 43.43
+  },
+  {
+    "country_code": "RWA",
+    "year": 2015,
+    "value": 43.43
+  },
+  {
+    "country_code": "RWA",
+    "year": 2016,
+    "value": 45.39
+  },
+  {
+    "country_code": "RWA",
+    "year": 2017,
+    "value": 45.89
+  },
+  {
+    "country_code": "RWA",
+    "year": 2018,
+    "value": 47.1
+  },
+  {
+    "country_code": "RWA",
+    "year": 2019,
+    "value": 47.57
+  },
+  {
+    "country_code": "RWA",
+    "year": 2020,
+    "value": 49.66
+  },
+  {
+    "country_code": "RWA",
+    "year": 2021,
+    "value": 49.34
+  },
+  {
+    "country_code": "RWA",
+    "year": 2022,
+    "value": 45.18
+  },
+  {
+    "country_code": "RWA",
+    "year": 2023,
+    "value": 46.58
+  },
+  {
+    "country_code": "RWA",
+    "year": 2024,
+    "value": 40.54
+  },
+  {
+    "country_code": "RWA",
+    "year": 2025,
+    "value": 35.84
+  },
+  {
+    "country_code": "SAU",
+    "year": 2013,
+    "value": 43.12
+  },
+  {
+    "country_code": "SAU",
+    "year": 2014,
+    "value": 41.7
+  },
+  {
+    "country_code": "SAU",
+    "year": 2015,
+    "value": 40.59
+  },
+  {
+    "country_code": "SAU",
+    "year": 2016,
+    "value": 40.28
+  },
+  {
+    "country_code": "SAU",
+    "year": 2017,
+    "value": 33.98
+  },
+  {
+    "country_code": "SAU",
+    "year": 2018,
+    "value": 36.87
+  },
+  {
+    "country_code": "SAU",
+    "year": 2019,
+    "value": 34.12
+  },
+  {
+    "country_code": "SAU",
+    "year": 2020,
+    "value": 37.86
+  },
+  {
+    "country_code": "SAU",
+    "year": 2021,
+    "value": 37.27
+  },
+  {
+    "country_code": "SAU",
+    "year": 2022,
+    "value": 33.71
+  },
+  {
+    "country_code": "SAU",
+    "year": 2023,
+    "value": 32.43
+  },
+  {
+    "country_code": "SAU",
+    "year": 2024,
+    "value": 27.14
+  },
+  {
+    "country_code": "SAU",
+    "year": 2025,
+    "value": 27.94
+  },
+  {
+    "country_code": "SDN",
+    "year": 2013,
+    "value": 29.94
+  },
+  {
+    "country_code": "SDN",
+    "year": 2014,
+    "value": 28.12
+  },
+  {
+    "country_code": "SDN",
+    "year": 2015,
+    "value": 27.66
+  },
+  {
+    "country_code": "SDN",
+    "year": 2016,
+    "value": 27.47
+  },
+  {
+    "country_code": "SDN",
+    "year": 2017,
+    "value": 26.44
+  },
+  {
+    "country_code": "SDN",
+    "year": 2018,
+    "value": 28.87
+  },
+  {
+    "country_code": "SDN",
+    "year": 2019,
+    "value": 27.55
+  },
+  {
+    "country_code": "SDN",
+    "year": 2020,
+    "value": 44.67
+  },
+  {
+    "country_code": "SDN",
+    "year": 2021,
+    "value": 47.07
+  },
+  {
+    "country_code": "SDN",
+    "year": 2022,
+    "value": 40.96
+  },
+  {
+    "country_code": "SDN",
+    "year": 2023,
+    "value": 40.83
+  },
+  {
+    "country_code": "SDN",
+    "year": 2024,
+    "value": 35.73
+  },
+  {
+    "country_code": "SDN",
+    "year": 2025,
+    "value": 30.34
+  },
+  {
+    "country_code": "SEN",
+    "year": 2013,
+    "value": 73.81
+  },
+  {
+    "country_code": "SEN",
+    "year": 2014,
+    "value": 73.32
+  },
+  {
+    "country_code": "SEN",
+    "year": 2015,
+    "value": 72.23
+  },
+  {
+    "country_code": "SEN",
+    "year": 2016,
+    "value": 72.01
+  },
+  {
+    "country_code": "SEN",
+    "year": 2017,
+    "value": 73.28
+  },
+  {
+    "country_code": "SEN",
+    "year": 2018,
+    "value": 74.39
+  },
+  {
+    "country_code": "SEN",
+    "year": 2019,
+    "value": 74.19
+  },
+  {
+    "country_code": "SEN",
+    "year": 2020,
+    "value": 76.01
+  },
+  {
+    "country_code": "SEN",
+    "year": 2021,
+    "value": 74.78
+  },
+  {
+    "country_code": "SEN",
+    "year": 2022,
+    "value": 63.07
+  },
+  {
+    "country_code": "SEN",
+    "year": 2023,
+    "value": 55.82
+  },
+  {
+    "country_code": "SEN",
+    "year": 2024,
+    "value": 55.44
+  },
+  {
+    "country_code": "SEN",
+    "year": 2025,
+    "value": 59.43
+  },
+  {
+    "country_code": "SGP",
+    "year": 2013,
+    "value": 56.57
+  },
+  {
+    "country_code": "SGP",
+    "year": 2014,
+    "value": 55.71
+  },
+  {
+    "country_code": "SGP",
+    "year": 2015,
+    "value": 54.13
+  },
+  {
+    "country_code": "SGP",
+    "year": 2016,
+    "value": 47.04
+  },
+  {
+    "country_code": "SGP",
+    "year": 2017,
+    "value": 48.9
+  },
+  {
+    "country_code": "SGP",
+    "year": 2018,
+    "value": 49.05
+  },
+  {
+    "country_code": "SGP",
+    "year": 2019,
+    "value": 48.59
+  },
+  {
+    "country_code": "SGP",
+    "year": 2020,
+    "value": 44.77
+  },
+  {
+    "country_code": "SGP",
+    "year": 2021,
+    "value": 44.8
+  },
+  {
+    "country_code": "SGP",
+    "year": 2022,
+    "value": 44.23
+  },
+  {
+    "country_code": "SGP",
+    "year": 2023,
+    "value": 47.88
+  },
+  {
+    "country_code": "SGP",
+    "year": 2024,
+    "value": 47.19
+  },
+  {
+    "country_code": "SGP",
+    "year": 2025,
+    "value": 45.78
+  },
+  {
+    "country_code": "SLE",
+    "year": 2013,
+    "value": 73.65
+  },
+  {
+    "country_code": "SLE",
+    "year": 2014,
+    "value": 71.77
+  },
+  {
+    "country_code": "SLE",
+    "year": 2015,
+    "value": 71.53
+  },
+  {
+    "country_code": "SLE",
+    "year": 2016,
+    "value": 70.06
+  },
+  {
+    "country_code": "SLE",
+    "year": 2017,
+    "value": 69.27
+  },
+  {
+    "country_code": "SLE",
+    "year": 2018,
+    "value": 70.02
+  },
+  {
+    "country_code": "SLE",
+    "year": 2019,
+    "value": 69.64
+  },
+  {
+    "country_code": "SLE",
+    "year": 2020,
+    "value": 69.72
+  },
+  {
+    "country_code": "SLE",
+    "year": 2021,
+    "value": 70.39
+  },
+  {
+    "country_code": "SLE",
+    "year": 2022,
+    "value": 71.03
+  },
+  {
+    "country_code": "SLE",
+    "year": 2023,
+    "value": 62.55
+  },
+  {
+    "country_code": "SLE",
+    "year": 2024,
+    "value": 64.27
+  },
+  {
+    "country_code": "SLE",
+    "year": 2025,
+    "value": 66.36
+  },
+  {
+    "country_code": "SLV",
+    "year": 2013,
+    "value": 77.14
+  },
+  {
+    "country_code": "SLV",
+    "year": 2014,
+    "value": 78.43
+  },
+  {
+    "country_code": "SLV",
+    "year": 2015,
+    "value": 76.34
+  },
+  {
+    "country_code": "SLV",
+    "year": 2016,
+    "value": 72.8
+  },
+  {
+    "country_code": "SLV",
+    "year": 2017,
+    "value": 72.76
+  },
+  {
+    "country_code": "SLV",
+    "year": 2018,
+    "value": 72.22
+  },
+  {
+    "country_code": "SLV",
+    "year": 2019,
+    "value": 70.19
+  },
+  {
+    "country_code": "SLV",
+    "year": 2020,
+    "value": 70.3
+  },
+  {
+    "country_code": "SLV",
+    "year": 2021,
+    "value": 69.51
+  },
+  {
+    "country_code": "SLV",
+    "year": 2022,
+    "value": 54.09
+  },
+  {
+    "country_code": "SLV",
+    "year": 2023,
+    "value": 51.36
+  },
+  {
+    "country_code": "SLV",
+    "year": 2024,
+    "value": 44.01
+  },
+  {
+    "country_code": "SLV",
+    "year": 2025,
+    "value": 41.19
+  },
+  {
+    "country_code": "SOM",
+    "year": 2013,
+    "value": 26.41
+  },
+  {
+    "country_code": "SOM",
+    "year": 2014,
+    "value": 26.81
+  },
+  {
+    "country_code": "SOM",
+    "year": 2015,
+    "value": 27.69
+  },
+  {
+    "country_code": "SOM",
+    "year": 2016,
+    "value": 34.65
+  },
+  {
+    "country_code": "SOM",
+    "year": 2017,
+    "value": 34.05
+  },
+  {
+    "country_code": "SOM",
+    "year": 2018,
+    "value": 36.96
+  },
+  {
+    "country_code": "SOM",
+    "year": 2019,
+    "value": 42.76
+  },
+  {
+    "country_code": "SOM",
+    "year": 2020,
+    "value": 44.55
+  },
+  {
+    "country_code": "SOM",
+    "year": 2021,
+    "value": 44.53
+  },
+  {
+    "country_code": "SOM",
+    "year": 2022,
+    "value": 44.01
+  },
+  {
+    "country_code": "SOM",
+    "year": 2023,
+    "value": 44.24
+  },
+  {
+    "country_code": "SOM",
+    "year": 2024,
+    "value": 39.4
+  },
+  {
+    "country_code": "SOM",
+    "year": 2025,
+    "value": 40.49
+  },
+  {
+    "country_code": "SRB",
+    "year": 2013,
+    "value": 73.41
+  },
+  {
+    "country_code": "SRB",
+    "year": 2014,
+    "value": 74.95
+  },
+  {
+    "country_code": "SRB",
+    "year": 2015,
+    "value": 72.34
+  },
+  {
+    "country_code": "SRB",
+    "year": 2016,
+    "value": 72.4
+  },
+  {
+    "country_code": "SRB",
+    "year": 2017,
+    "value": 71.95
+  },
+  {
+    "country_code": "SRB",
+    "year": 2018,
+    "value": 70.42
+  },
+  {
+    "country_code": "SRB",
+    "year": 2019,
+    "value": 68.82
+  },
+  {
+    "country_code": "SRB",
+    "year": 2020,
+    "value": 68.38
+  },
+  {
+    "country_code": "SRB",
+    "year": 2021,
+    "value": 67.97
+  },
+  {
+    "country_code": "SRB",
+    "year": 2022,
+    "value": 61.51
+  },
+  {
+    "country_code": "SRB",
+    "year": 2023,
+    "value": 59.16
+  },
+  {
+    "country_code": "SRB",
+    "year": 2024,
+    "value": 54.48
+  },
+  {
+    "country_code": "SRB",
+    "year": 2025,
+    "value": 53.55
+  },
+  {
+    "country_code": "SSD",
+    "year": 2013,
+    "value": 63.8
+  },
+  {
+    "country_code": "SSD",
+    "year": 2014,
+    "value": 63.95
+  },
+  {
+    "country_code": "SSD",
+    "year": 2015,
+    "value": 61.96
+  },
+  {
+    "country_code": "SSD",
+    "year": 2016,
+    "value": 55.13
+  },
+  {
+    "country_code": "SSD",
+    "year": 2017,
+    "value": 51.84
+  },
+  {
+    "country_code": "SSD",
+    "year": 2018,
+    "value": 53.12
+  },
+  {
+    "country_code": "SSD",
+    "year": 2019,
+    "value": 54.35
+  },
+  {
+    "country_code": "SSD",
+    "year": 2020,
+    "value": 55.51
+  },
+  {
+    "country_code": "SSD",
+    "year": 2021,
+    "value": 54.22
+  },
+  {
+    "country_code": "SSD",
+    "year": 2022,
+    "value": 47.06
+  },
+  {
+    "country_code": "SSD",
+    "year": 2023,
+    "value": 50.62
+  },
+  {
+    "country_code": "SSD",
+    "year": 2024,
+    "value": 42.57
+  },
+  {
+    "country_code": "SSD",
+    "year": 2025,
+    "value": 51.63
+  },
+  {
+    "country_code": "SUR",
+    "year": 2013,
+    "value": 81.81
+  },
+  {
+    "country_code": "SUR",
+    "year": 2014,
+    "value": 81.8
+  },
+  {
+    "country_code": "SUR",
+    "year": 2015,
+    "value": 81.8
+  },
+  {
+    "country_code": "SUR",
+    "year": 2016,
+    "value": 83.3
+  },
+  {
+    "country_code": "SUR",
+    "year": 2017,
+    "value": 83.93
+  },
+  {
+    "country_code": "SUR",
+    "year": 2018,
+    "value": 83.56
+  },
+  {
+    "country_code": "SUR",
+    "year": 2019,
+    "value": 83.62
+  },
+  {
+    "country_code": "SUR",
+    "year": 2020,
+    "value": 82.5
+  },
+  {
+    "country_code": "SUR",
+    "year": 2021,
+    "value": 83.05
+  },
+  {
+    "country_code": "SUR",
+    "year": 2022,
+    "value": 68.95
+  },
+  {
+    "country_code": "SUR",
+    "year": 2023,
+    "value": 70.62
+  },
+  {
+    "country_code": "SUR",
+    "year": 2024,
+    "value": 76.11
+  },
+  {
+    "country_code": "SUR",
+    "year": 2025,
+    "value": 74.49
+  },
+  {
+    "country_code": "SVK",
+    "year": 2013,
+    "value": 86.75
+  },
+  {
+    "country_code": "SVK",
+    "year": 2014,
+    "value": 88.61
+  },
+  {
+    "country_code": "SVK",
+    "year": 2015,
+    "value": 88.34
+  },
+  {
+    "country_code": "SVK",
+    "year": 2016,
+    "value": 86.74
+  },
+  {
+    "country_code": "SVK",
+    "year": 2017,
+    "value": 84.49
+  },
+  {
+    "country_code": "SVK",
+    "year": 2018,
+    "value": 79.74
+  },
+  {
+    "country_code": "SVK",
+    "year": 2019,
+    "value": 76.42
+  },
+  {
+    "country_code": "SVK",
+    "year": 2020,
+    "value": 77.33
+  },
+  {
+    "country_code": "SVK",
+    "year": 2021,
+    "value": 76.98
+  },
+  {
+    "country_code": "SVK",
+    "year": 2022,
+    "value": 78.37
+  },
+  {
+    "country_code": "SVK",
+    "year": 2023,
+    "value": 83.22
+  },
+  {
+    "country_code": "SVK",
+    "year": 2024,
+    "value": 76.03
+  },
+  {
+    "country_code": "SVK",
+    "year": 2025,
+    "value": 71.93
+  },
+  {
+    "country_code": "SVN",
+    "year": 2013,
+    "value": 79.51
+  },
+  {
+    "country_code": "SVN",
+    "year": 2014,
+    "value": 79.62
+  },
+  {
+    "country_code": "SVN",
+    "year": 2015,
+    "value": 79.45
+  },
+  {
+    "country_code": "SVN",
+    "year": 2016,
+    "value": 77.74
+  },
+  {
+    "country_code": "SVN",
+    "year": 2017,
+    "value": 78.3
+  },
+  {
+    "country_code": "SVN",
+    "year": 2018,
+    "value": 78.31
+  },
+  {
+    "country_code": "SVN",
+    "year": 2019,
+    "value": 77.69
+  },
+  {
+    "country_code": "SVN",
+    "year": 2020,
+    "value": 77.36
+  },
+  {
+    "country_code": "SVN",
+    "year": 2021,
+    "value": 76.9
+  },
+  {
+    "country_code": "SVN",
+    "year": 2022,
+    "value": 68.54
+  },
+  {
+    "country_code": "SVN",
+    "year": 2023,
+    "value": 70.59
+  },
+  {
+    "country_code": "SVN",
+    "year": 2024,
+    "value": 72.6
+  },
+  {
+    "country_code": "SVN",
+    "year": 2025,
+    "value": 74.06
+  },
+  {
+    "country_code": "SWE",
+    "year": 2013,
+    "value": 90.77
+  },
+  {
+    "country_code": "SWE",
+    "year": 2014,
+    "value": 91.02
+  },
+  {
+    "country_code": "SWE",
+    "year": 2015,
+    "value": 90.53
+  },
+  {
+    "country_code": "SWE",
+    "year": 2016,
+    "value": 87.67
+  },
+  {
+    "country_code": "SWE",
+    "year": 2017,
+    "value": 91.73
+  },
+  {
+    "country_code": "SWE",
+    "year": 2018,
+    "value": 91.69
+  },
+  {
+    "country_code": "SWE",
+    "year": 2019,
+    "value": 91.69
+  },
+  {
+    "country_code": "SWE",
+    "year": 2020,
+    "value": 90.75
+  },
+  {
+    "country_code": "SWE",
+    "year": 2021,
+    "value": 92.76
+  },
+  {
+    "country_code": "SWE",
+    "year": 2022,
+    "value": 88.84
+  },
+  {
+    "country_code": "SWE",
+    "year": 2023,
+    "value": 88.15
+  },
+  {
+    "country_code": "SWE",
+    "year": 2024,
+    "value": 88.32
+  },
+  {
+    "country_code": "SWE",
+    "year": 2025,
+    "value": 88.13
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2013,
+    "value": 53.24
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2014,
+    "value": 53.24
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2015,
+    "value": 52.72
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2016,
+    "value": 47.63
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2017,
+    "value": 48.73
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2018,
+    "value": 48.54
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2019,
+    "value": 50.91
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2020,
+    "value": 54.85
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2021,
+    "value": 53.66
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2022,
+    "value": 46.42
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2023,
+    "value": 52.66
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2024,
+    "value": 58.31
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2025,
+    "value": 52.86
+  },
+  {
+    "country_code": "SYC",
+    "year": 2013,
+    "value": 70.81
+  },
+  {
+    "country_code": "SYC",
+    "year": 2014,
+    "value": 68.32
+  },
+  {
+    "country_code": "SYC",
+    "year": 2015,
+    "value": 68.45
+  },
+  {
+    "country_code": "SYC",
+    "year": 2016,
+    "value": 69.4
+  },
+  {
+    "country_code": "SYC",
+    "year": 2017,
+    "value": 69.14
+  },
+  {
+    "country_code": "SYC",
+    "year": 2018,
+    "value": 69.83
+  },
+  {
+    "country_code": "SYC",
+    "year": 2019,
+    "value": 70.59
+  },
+  {
+    "country_code": "SYC",
+    "year": 2020,
+    "value": 71.34
+  },
+  {
+    "country_code": "SYC",
+    "year": 2021,
+    "value": 74.34
+  },
+  {
+    "country_code": "SYC",
+    "year": 2022,
+    "value": 83.33
+  },
+  {
+    "country_code": "SYC",
+    "year": 2023,
+    "value": 75.71
+  },
+  {
+    "country_code": "SYC",
+    "year": 2024,
+    "value": 73.75
+  },
+  {
+    "country_code": "SYC",
+    "year": 2025,
+    "value": 68.56
+  },
+  {
+    "country_code": "SYR",
+    "year": 2013,
+    "value": 21.47
+  },
+  {
+    "country_code": "SYR",
+    "year": 2014,
+    "value": 22.96
+  },
+  {
+    "country_code": "SYR",
+    "year": 2015,
+    "value": 22.71
+  },
+  {
+    "country_code": "SYR",
+    "year": 2016,
+    "value": 18.65
+  },
+  {
+    "country_code": "SYR",
+    "year": 2017,
+    "value": 18.51
+  },
+  {
+    "country_code": "SYR",
+    "year": 2018,
+    "value": 20.78
+  },
+  {
+    "country_code": "SYR",
+    "year": 2019,
+    "value": 28.22
+  },
+  {
+    "country_code": "SYR",
+    "year": 2020,
+    "value": 27.43
+  },
+  {
+    "country_code": "SYR",
+    "year": 2021,
+    "value": 29.37
+  },
+  {
+    "country_code": "SYR",
+    "year": 2022,
+    "value": 28.94
+  },
+  {
+    "country_code": "SYR",
+    "year": 2023,
+    "value": 27.22
+  },
+  {
+    "country_code": "SYR",
+    "year": 2024,
+    "value": 17.41
+  },
+  {
+    "country_code": "SYR",
+    "year": 2025,
+    "value": 15.82
+  },
+  {
+    "country_code": "TCD",
+    "year": 2013,
+    "value": 65.13
+  },
+  {
+    "country_code": "TCD",
+    "year": 2014,
+    "value": 59.78
+  },
+  {
+    "country_code": "TCD",
+    "year": 2015,
+    "value": 59.83
+  },
+  {
+    "country_code": "TCD",
+    "year": 2016,
+    "value": 59.41
+  },
+  {
+    "country_code": "TCD",
+    "year": 2017,
+    "value": 60.34
+  },
+  {
+    "country_code": "TCD",
+    "year": 2018,
+    "value": 61.55
+  },
+  {
+    "country_code": "TCD",
+    "year": 2019,
+    "value": 63.29
+  },
+  {
+    "country_code": "TCD",
+    "year": 2020,
+    "value": 60.3
+  },
+  {
+    "country_code": "TCD",
+    "year": 2021,
+    "value": 59.8
+  },
+  {
+    "country_code": "TCD",
+    "year": 2022,
+    "value": 56.18
+  },
+  {
+    "country_code": "TCD",
+    "year": 2023,
+    "value": 53.73
+  },
+  {
+    "country_code": "TCD",
+    "year": 2024,
+    "value": 54.81
+  },
+  {
+    "country_code": "TCD",
+    "year": 2025,
+    "value": 51.89
+  },
+  {
+    "country_code": "TGO",
+    "year": 2013,
+    "value": 71.55
+  },
+  {
+    "country_code": "TGO",
+    "year": 2014,
+    "value": 71.0
+  },
+  {
+    "country_code": "TGO",
+    "year": 2015,
+    "value": 71.5
+  },
+  {
+    "country_code": "TGO",
+    "year": 2016,
+    "value": 69.69
+  },
+  {
+    "country_code": "TGO",
+    "year": 2017,
+    "value": 69.25
+  },
+  {
+    "country_code": "TGO",
+    "year": 2018,
+    "value": 69.77
+  },
+  {
+    "country_code": "TGO",
+    "year": 2019,
+    "value": 70.31
+  },
+  {
+    "country_code": "TGO",
+    "year": 2020,
+    "value": 70.67
+  },
+  {
+    "country_code": "TGO",
+    "year": 2021,
+    "value": 70.41
+  },
+  {
+    "country_code": "TGO",
+    "year": 2022,
+    "value": 57.17
+  },
+  {
+    "country_code": "TGO",
+    "year": 2023,
+    "value": 63.06
+  },
+  {
+    "country_code": "TGO",
+    "year": 2024,
+    "value": 50.89
+  },
+  {
+    "country_code": "TGO",
+    "year": 2025,
+    "value": 48.03
+  },
+  {
+    "country_code": "THA",
+    "year": 2013,
+    "value": 61.4
+  },
+  {
+    "country_code": "THA",
+    "year": 2014,
+    "value": 62.06
+  },
+  {
+    "country_code": "THA",
+    "year": 2015,
+    "value": 59.93
+  },
+  {
+    "country_code": "THA",
+    "year": 2016,
+    "value": 55.47
+  },
+  {
+    "country_code": "THA",
+    "year": 2017,
+    "value": 55.31
+  },
+  {
+    "country_code": "THA",
+    "year": 2018,
+    "value": 55.69
+  },
+  {
+    "country_code": "THA",
+    "year": 2019,
+    "value": 55.9
+  },
+  {
+    "country_code": "THA",
+    "year": 2020,
+    "value": 55.06
+  },
+  {
+    "country_code": "THA",
+    "year": 2021,
+    "value": 54.78
+  },
+  {
+    "country_code": "THA",
+    "year": 2022,
+    "value": 50.15
+  },
+  {
+    "country_code": "THA",
+    "year": 2023,
+    "value": 55.24
+  },
+  {
+    "country_code": "THA",
+    "year": 2024,
+    "value": 58.12
+  },
+  {
+    "country_code": "THA",
+    "year": 2025,
+    "value": 56.72
+  },
+  {
+    "country_code": "TJK",
+    "year": 2013,
+    "value": 64.29
+  },
+  {
+    "country_code": "TJK",
+    "year": 2014,
+    "value": 65.14
+  },
+  {
+    "country_code": "TJK",
+    "year": 2015,
+    "value": 63.81
+  },
+  {
+    "country_code": "TJK",
+    "year": 2016,
+    "value": 49.66
+  },
+  {
+    "country_code": "TJK",
+    "year": 2017,
+    "value": 49.73
+  },
+  {
+    "country_code": "TJK",
+    "year": 2018,
+    "value": 49.94
+  },
+  {
+    "country_code": "TJK",
+    "year": 2019,
+    "value": 45.98
+  },
+  {
+    "country_code": "TJK",
+    "year": 2020,
+    "value": 44.66
+  },
+  {
+    "country_code": "TJK",
+    "year": 2021,
+    "value": 44.48
+  },
+  {
+    "country_code": "TJK",
+    "year": 2022,
+    "value": 40.26
+  },
+  {
+    "country_code": "TJK",
+    "year": 2023,
+    "value": 39.06
+  },
+  {
+    "country_code": "TJK",
+    "year": 2024,
+    "value": 33.31
+  },
+  {
+    "country_code": "TJK",
+    "year": 2025,
+    "value": 32.21
+  },
+  {
+    "country_code": "TKM",
+    "year": 2013,
+    "value": 20.86
+  },
+  {
+    "country_code": "TKM",
+    "year": 2014,
+    "value": 19.19
+  },
+  {
+    "country_code": "TKM",
+    "year": 2015,
+    "value": 19.17
+  },
+  {
+    "country_code": "TKM",
+    "year": 2016,
+    "value": 16.56
+  },
+  {
+    "country_code": "TKM",
+    "year": 2017,
+    "value": 15.81
+  },
+  {
+    "country_code": "TKM",
+    "year": 2018,
+    "value": 15.8
+  },
+  {
+    "country_code": "TKM",
+    "year": 2019,
+    "value": 14.56
+  },
+  {
+    "country_code": "TKM",
+    "year": 2020,
+    "value": 14.56
+  },
+  {
+    "country_code": "TKM",
+    "year": 2021,
+    "value": 19.97
+  },
+  {
+    "country_code": "TKM",
+    "year": 2022,
+    "value": 25.01
+  },
+  {
+    "country_code": "TKM",
+    "year": 2023,
+    "value": 25.82
+  },
+  {
+    "country_code": "TKM",
+    "year": 2024,
+    "value": 22.01
+  },
+  {
+    "country_code": "TKM",
+    "year": 2025,
+    "value": 19.14
+  },
+  {
+    "country_code": "TLS",
+    "year": 2013,
+    "value": 71.28
+  },
+  {
+    "country_code": "TLS",
+    "year": 2014,
+    "value": 70.96
+  },
+  {
+    "country_code": "TLS",
+    "year": 2015,
+    "value": 67.37
+  },
+  {
+    "country_code": "TLS",
+    "year": 2016,
+    "value": 67.98
+  },
+  {
+    "country_code": "TLS",
+    "year": 2017,
+    "value": 67.18
+  },
+  {
+    "country_code": "TLS",
+    "year": 2018,
+    "value": 69.19
+  },
+  {
+    "country_code": "TLS",
+    "year": 2019,
+    "value": 70.07
+  },
+  {
+    "country_code": "TLS",
+    "year": 2020,
+    "value": 70.1
+  },
+  {
+    "country_code": "TLS",
+    "year": 2021,
+    "value": 70.89
+  },
+  {
+    "country_code": "TLS",
+    "year": 2022,
+    "value": 81.89
+  },
+  {
+    "country_code": "TLS",
+    "year": 2023,
+    "value": 84.49
+  },
+  {
+    "country_code": "TLS",
+    "year": 2024,
+    "value": 78.92
+  },
+  {
+    "country_code": "TLS",
+    "year": 2025,
+    "value": 71.79
+  },
+  {
+    "country_code": "TON",
+    "year": 2013,
+    "value": 73.3
+  },
+  {
+    "country_code": "TON",
+    "year": 2014,
+    "value": 73.3
+  },
+  {
+    "country_code": "TON",
+    "year": 2015,
+    "value": 76.63
+  },
+  {
+    "country_code": "TON",
+    "year": 2016,
+    "value": 78.76
+  },
+  {
+    "country_code": "TON",
+    "year": 2017,
+    "value": 75.03
+  },
+  {
+    "country_code": "TON",
+    "year": 2018,
+    "value": 74.32
+  },
+  {
+    "country_code": "TON",
+    "year": 2019,
+    "value": 74.59
+  },
+  {
+    "country_code": "TON",
+    "year": 2020,
+    "value": 72.73
+  },
+  {
+    "country_code": "TON",
+    "year": 2021,
+    "value": 75.41
+  },
+  {
+    "country_code": "TON",
+    "year": 2022,
+    "value": 69.74
+  },
+  {
+    "country_code": "TON",
+    "year": 2023,
+    "value": 71.29
+  },
+  {
+    "country_code": "TON",
+    "year": 2024,
+    "value": 70.11
+  },
+  {
+    "country_code": "TON",
+    "year": 2025,
+    "value": 68.39
+  },
+  {
+    "country_code": "TTO",
+    "year": 2013,
+    "value": 76.88
+  },
+  {
+    "country_code": "TTO",
+    "year": 2014,
+    "value": 76.72
+  },
+  {
+    "country_code": "TTO",
+    "year": 2015,
+    "value": 77.61
+  },
+  {
+    "country_code": "TTO",
+    "year": 2016,
+    "value": 76.71
+  },
+  {
+    "country_code": "TTO",
+    "year": 2017,
+    "value": 79.38
+  },
+  {
+    "country_code": "TTO",
+    "year": 2018,
+    "value": 77.21
+  },
+  {
+    "country_code": "TTO",
+    "year": 2019,
+    "value": 75.26
+  },
+  {
+    "country_code": "TTO",
+    "year": 2020,
+    "value": 76.78
+  },
+  {
+    "country_code": "TTO",
+    "year": 2021,
+    "value": 78.45
+  },
+  {
+    "country_code": "TTO",
+    "year": 2022,
+    "value": 78.68
+  },
+  {
+    "country_code": "TTO",
+    "year": 2023,
+    "value": 76.54
+  },
+  {
+    "country_code": "TTO",
+    "year": 2024,
+    "value": 76.69
+  },
+  {
+    "country_code": "TTO",
+    "year": 2025,
+    "value": 79.71
+  },
+  {
+    "country_code": "TUN",
+    "year": 2013,
+    "value": 60.07
+  },
+  {
+    "country_code": "TUN",
+    "year": 2014,
+    "value": 61.31
+  },
+  {
+    "country_code": "TUN",
+    "year": 2015,
+    "value": 61.32
+  },
+  {
+    "country_code": "TUN",
+    "year": 2016,
+    "value": 68.4
+  },
+  {
+    "country_code": "TUN",
+    "year": 2017,
+    "value": 67.78
+  },
+  {
+    "country_code": "TUN",
+    "year": 2018,
+    "value": 69.09
+  },
+  {
+    "country_code": "TUN",
+    "year": 2019,
+    "value": 70.39
+  },
+  {
+    "country_code": "TUN",
+    "year": 2020,
+    "value": 70.55
+  },
+  {
+    "country_code": "TUN",
+    "year": 2021,
+    "value": 70.47
+  },
+  {
+    "country_code": "TUN",
+    "year": 2022,
+    "value": 58.49
+  },
+  {
+    "country_code": "TUN",
+    "year": 2023,
+    "value": 50.11
+  },
+  {
+    "country_code": "TUN",
+    "year": 2024,
+    "value": 49.97
+  },
+  {
+    "country_code": "TUN",
+    "year": 2025,
+    "value": 43.48
+  },
+  {
+    "country_code": "TUR",
+    "year": 2013,
+    "value": 53.44
+  },
+  {
+    "country_code": "TUR",
+    "year": 2014,
+    "value": 54.13
+  },
+  {
+    "country_code": "TUR",
+    "year": 2015,
+    "value": 55.84
+  },
+  {
+    "country_code": "TUR",
+    "year": 2016,
+    "value": 49.24
+  },
+  {
+    "country_code": "TUR",
+    "year": 2017,
+    "value": 47.02
+  },
+  {
+    "country_code": "TUR",
+    "year": 2018,
+    "value": 46.5
+  },
+  {
+    "country_code": "TUR",
+    "year": 2019,
+    "value": 47.19
+  },
+  {
+    "country_code": "TUR",
+    "year": 2020,
+    "value": 49.98
+  },
+  {
+    "country_code": "TUR",
+    "year": 2021,
+    "value": 50.21
+  },
+  {
+    "country_code": "TUR",
+    "year": 2022,
+    "value": 41.25
+  },
+  {
+    "country_code": "TUR",
+    "year": 2023,
+    "value": 33.97
+  },
+  {
+    "country_code": "TUR",
+    "year": 2024,
+    "value": 31.6
+  },
+  {
+    "country_code": "TUR",
+    "year": 2025,
+    "value": 29.4
+  },
+  {
+    "country_code": "TZA",
+    "year": 2013,
+    "value": 72.66
+  },
+  {
+    "country_code": "TZA",
+    "year": 2014,
+    "value": 72.7
+  },
+  {
+    "country_code": "TZA",
+    "year": 2015,
+    "value": 71.91
+  },
+  {
+    "country_code": "TZA",
+    "year": 2016,
+    "value": 71.35
+  },
+  {
+    "country_code": "TZA",
+    "year": 2017,
+    "value": 69.35
+  },
+  {
+    "country_code": "TZA",
+    "year": 2018,
+    "value": 69.35
+  },
+  {
+    "country_code": "TZA",
+    "year": 2019,
+    "value": 63.72
+  },
+  {
+    "country_code": "TZA",
+    "year": 2020,
+    "value": 59.75
+  },
+  {
+    "country_code": "TZA",
+    "year": 2021,
+    "value": 59.31
+  },
+  {
+    "country_code": "TZA",
+    "year": 2022,
+    "value": 48.28
+  },
+  {
+    "country_code": "TZA",
+    "year": 2023,
+    "value": 44.02
+  },
+  {
+    "country_code": "TZA",
+    "year": 2024,
+    "value": 54.8
+  },
+  {
+    "country_code": "TZA",
+    "year": 2025,
+    "value": 53.68
+  },
+  {
+    "country_code": "UGA",
+    "year": 2013,
+    "value": 68.31
+  },
+  {
+    "country_code": "UGA",
+    "year": 2014,
+    "value": 66.71
+  },
+  {
+    "country_code": "UGA",
+    "year": 2015,
+    "value": 68.35
+  },
+  {
+    "country_code": "UGA",
+    "year": 2016,
+    "value": 67.42
+  },
+  {
+    "country_code": "UGA",
+    "year": 2017,
+    "value": 64.06
+  },
+  {
+    "country_code": "UGA",
+    "year": 2018,
+    "value": 63.23
+  },
+  {
+    "country_code": "UGA",
+    "year": 2019,
+    "value": 60.58
+  },
+  {
+    "country_code": "UGA",
+    "year": 2020,
+    "value": 59.05
+  },
+  {
+    "country_code": "UGA",
+    "year": 2021,
+    "value": 58.81
+  },
+  {
+    "country_code": "UGA",
+    "year": 2022,
+    "value": 46.35
+  },
+  {
+    "country_code": "UGA",
+    "year": 2023,
+    "value": 46.08
+  },
+  {
+    "country_code": "UGA",
+    "year": 2024,
+    "value": 46.0
+  },
+  {
+    "country_code": "UGA",
+    "year": 2025,
+    "value": 37.61
+  },
+  {
+    "country_code": "UKR",
+    "year": 2013,
+    "value": 63.21
+  },
+  {
+    "country_code": "UKR",
+    "year": 2014,
+    "value": 63.07
+  },
+  {
+    "country_code": "UKR",
+    "year": 2015,
+    "value": 60.9
+  },
+  {
+    "country_code": "UKR",
+    "year": 2016,
+    "value": 67.07
+  },
+  {
+    "country_code": "UKR",
+    "year": 2017,
+    "value": 66.81
+  },
+  {
+    "country_code": "UKR",
+    "year": 2018,
+    "value": 68.84
+  },
+  {
+    "country_code": "UKR",
+    "year": 2019,
+    "value": 67.54
+  },
+  {
+    "country_code": "UKR",
+    "year": 2020,
+    "value": 67.48
+  },
+  {
+    "country_code": "UKR",
+    "year": 2021,
+    "value": 67.04
+  },
+  {
+    "country_code": "UKR",
+    "year": 2022,
+    "value": 55.76
+  },
+  {
+    "country_code": "UKR",
+    "year": 2023,
+    "value": 61.19
+  },
+  {
+    "country_code": "UKR",
+    "year": 2024,
+    "value": 65.0
+  },
+  {
+    "country_code": "UKR",
+    "year": 2025,
+    "value": 63.93
+  },
+  {
+    "country_code": "URY",
+    "year": 2013,
+    "value": 84.08
+  },
+  {
+    "country_code": "URY",
+    "year": 2014,
+    "value": 83.92
+  },
+  {
+    "country_code": "URY",
+    "year": 2015,
+    "value": 84.06
+  },
+  {
+    "country_code": "URY",
+    "year": 2016,
+    "value": 84.12
+  },
+  {
+    "country_code": "URY",
+    "year": 2017,
+    "value": 82.57
+  },
+  {
+    "country_code": "URY",
+    "year": 2018,
+    "value": 84.44
+  },
+  {
+    "country_code": "URY",
+    "year": 2019,
+    "value": 83.94
+  },
+  {
+    "country_code": "URY",
+    "year": 2020,
+    "value": 84.21
+  },
+  {
+    "country_code": "URY",
+    "year": 2021,
+    "value": 83.62
+  },
+  {
+    "country_code": "URY",
+    "year": 2022,
+    "value": 72.03
+  },
+  {
+    "country_code": "URY",
+    "year": 2023,
+    "value": 70.33
+  },
+  {
+    "country_code": "URY",
+    "year": 2024,
+    "value": 67.7
+  },
+  {
+    "country_code": "URY",
+    "year": 2025,
+    "value": 65.18
+  },
+  {
+    "country_code": "USA",
+    "year": 2013,
+    "value": 81.78
+  },
+  {
+    "country_code": "USA",
+    "year": 2014,
+    "value": 76.51
+  },
+  {
+    "country_code": "USA",
+    "year": 2015,
+    "value": 75.59
+  },
+  {
+    "country_code": "USA",
+    "year": 2016,
+    "value": 77.51
+  },
+  {
+    "country_code": "USA",
+    "year": 2017,
+    "value": 76.12
+  },
+  {
+    "country_code": "USA",
+    "year": 2018,
+    "value": 76.27
+  },
+  {
+    "country_code": "USA",
+    "year": 2019,
+    "value": 74.31
+  },
+  {
+    "country_code": "USA",
+    "year": 2020,
+    "value": 76.15
+  },
+  {
+    "country_code": "USA",
+    "year": 2021,
+    "value": 76.07
+  },
+  {
+    "country_code": "USA",
+    "year": 2022,
+    "value": 72.74
+  },
+  {
+    "country_code": "USA",
+    "year": 2023,
+    "value": 71.22
+  },
+  {
+    "country_code": "USA",
+    "year": 2024,
+    "value": 66.59
+  },
+  {
+    "country_code": "USA",
+    "year": 2025,
+    "value": 65.487
+  },
+  {
+    "country_code": "UZB",
+    "year": 2013,
+    "value": 39.61
+  },
+  {
+    "country_code": "UZB",
+    "year": 2014,
+    "value": 38.99
+  },
+  {
+    "country_code": "UZB",
+    "year": 2015,
+    "value": 38.86
+  },
+  {
+    "country_code": "UZB",
+    "year": 2016,
+    "value": 38.85
+  },
+  {
+    "country_code": "UZB",
+    "year": 2017,
+    "value": 33.89
+  },
+  {
+    "country_code": "UZB",
+    "year": 2018,
+    "value": 39.16
+  },
+  {
+    "country_code": "UZB",
+    "year": 2019,
+    "value": 46.48
+  },
+  {
+    "country_code": "UZB",
+    "year": 2020,
+    "value": 46.93
+  },
+  {
+    "country_code": "UZB",
+    "year": 2021,
+    "value": 49.26
+  },
+  {
+    "country_code": "UZB",
+    "year": 2022,
+    "value": 45.74
+  },
+  {
+    "country_code": "UZB",
+    "year": 2023,
+    "value": 45.73
+  },
+  {
+    "country_code": "UZB",
+    "year": 2024,
+    "value": 37.27
+  },
+  {
+    "country_code": "UZB",
+    "year": 2025,
+    "value": 35.24
+  },
+  {
+    "country_code": "VEN",
+    "year": 2013,
+    "value": 65.56
+  },
+  {
+    "country_code": "VEN",
+    "year": 2014,
+    "value": 64.63
+  },
+  {
+    "country_code": "VEN",
+    "year": 2015,
+    "value": 59.39
+  },
+  {
+    "country_code": "VEN",
+    "year": 2016,
+    "value": 55.23
+  },
+  {
+    "country_code": "VEN",
+    "year": 2017,
+    "value": 57.06
+  },
+  {
+    "country_code": "VEN",
+    "year": 2018,
+    "value": 53.97
+  },
+  {
+    "country_code": "VEN",
+    "year": 2019,
+    "value": 50.9
+  },
+  {
+    "country_code": "VEN",
+    "year": 2020,
+    "value": 54.34
+  },
+  {
+    "country_code": "VEN",
+    "year": 2021,
+    "value": 52.4
+  },
+  {
+    "country_code": "VEN",
+    "year": 2022,
+    "value": 37.78
+  },
+  {
+    "country_code": "VEN",
+    "year": 2023,
+    "value": 36.99
+  },
+  {
+    "country_code": "VEN",
+    "year": 2024,
+    "value": 33.06
+  },
+  {
+    "country_code": "VEN",
+    "year": 2025,
+    "value": 29.21
+  },
+  {
+    "country_code": "VNM",
+    "year": 2013,
+    "value": 28.22
+  },
+  {
+    "country_code": "VNM",
+    "year": 2014,
+    "value": 27.64
+  },
+  {
+    "country_code": "VNM",
+    "year": 2015,
+    "value": 27.37
+  },
+  {
+    "country_code": "VNM",
+    "year": 2016,
+    "value": 25.73
+  },
+  {
+    "country_code": "VNM",
+    "year": 2017,
+    "value": 26.04
+  },
+  {
+    "country_code": "VNM",
+    "year": 2018,
+    "value": 24.95
+  },
+  {
+    "country_code": "VNM",
+    "year": 2019,
+    "value": 25.07
+  },
+  {
+    "country_code": "VNM",
+    "year": 2020,
+    "value": 25.29
+  },
+  {
+    "country_code": "VNM",
+    "year": 2021,
+    "value": 21.54
+  },
+  {
+    "country_code": "VNM",
+    "year": 2022,
+    "value": 26.11
+  },
+  {
+    "country_code": "VNM",
+    "year": 2023,
+    "value": 24.58
+  },
+  {
+    "country_code": "VNM",
+    "year": 2024,
+    "value": 22.31
+  },
+  {
+    "country_code": "VNM",
+    "year": 2025,
+    "value": 19.74
+  },
+  {
+    "country_code": "WSM",
+    "year": 2013,
+    "value": 76.16
+  },
+  {
+    "country_code": "WSM",
+    "year": 2014,
+    "value": 77.98
+  },
+  {
+    "country_code": "WSM",
+    "year": 2015,
+    "value": 77.68
+  },
+  {
+    "country_code": "WSM",
+    "year": 2016,
+    "value": 81.2
+  },
+  {
+    "country_code": "WSM",
+    "year": 2017,
+    "value": 83.59
+  },
+  {
+    "country_code": "WSM",
+    "year": 2018,
+    "value": 83.31
+  },
+  {
+    "country_code": "WSM",
+    "year": 2019,
+    "value": 81.75
+  },
+  {
+    "country_code": "WSM",
+    "year": 2020,
+    "value": 81.75
+  },
+  {
+    "country_code": "WSM",
+    "year": 2021,
+    "value": 80.76
+  },
+  {
+    "country_code": "WSM",
+    "year": 2022,
+    "value": 71.39
+  },
+  {
+    "country_code": "WSM",
+    "year": 2023,
+    "value": 82.15
+  },
+  {
+    "country_code": "WSM",
+    "year": 2024,
+    "value": 78.41
+  },
+  {
+    "country_code": "WSM",
+    "year": 2025,
+    "value": 69.28
+  },
+  {
+    "country_code": "YEM",
+    "year": 2013,
+    "value": 30.78
+  },
+  {
+    "country_code": "YEM",
+    "year": 2014,
+    "value": 32.74
+  },
+  {
+    "country_code": "YEM",
+    "year": 2015,
+    "value": 33.64
+  },
+  {
+    "country_code": "YEM",
+    "year": 2016,
+    "value": 32.93
+  },
+  {
+    "country_code": "YEM",
+    "year": 2017,
+    "value": 34.2
+  },
+  {
+    "country_code": "YEM",
+    "year": 2018,
+    "value": 37.77
+  },
+  {
+    "country_code": "YEM",
+    "year": 2019,
+    "value": 38.34
+  },
+  {
+    "country_code": "YEM",
+    "year": 2020,
+    "value": 41.75
+  },
+  {
+    "country_code": "YEM",
+    "year": 2021,
+    "value": 37.65
+  },
+  {
+    "country_code": "YEM",
+    "year": 2022,
+    "value": 29.14
+  },
+  {
+    "country_code": "YEM",
+    "year": 2023,
+    "value": 32.78
+  },
+  {
+    "country_code": "YEM",
+    "year": 2024,
+    "value": 33.67
+  },
+  {
+    "country_code": "YEM",
+    "year": 2025,
+    "value": 31.45
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2013,
+    "value": 75.44
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2014,
+    "value": 76.81
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2015,
+    "value": 77.94
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2016,
+    "value": 78.08
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2017,
+    "value": 79.88
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2018,
+    "value": 79.61
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2019,
+    "value": 77.81
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2020,
+    "value": 77.59
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2021,
+    "value": 78.41
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2022,
+    "value": 75.56
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2023,
+    "value": 78.6
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2024,
+    "value": 73.73
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2025,
+    "value": 75.71
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2013,
+    "value": 72.07
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2014,
+    "value": 69.11
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2015,
+    "value": 65.65
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2016,
+    "value": 64.92
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2017,
+    "value": 63.52
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2018,
+    "value": 64.64
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2019,
+    "value": 63.62
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2020,
+    "value": 63.0
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2021,
+    "value": 61.79
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2022,
+    "value": 55.4
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2023,
+    "value": 59.41
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2024,
+    "value": 55.38
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2025,
+    "value": 57.33
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2013,
+    "value": 61.88
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2014,
+    "value": 60.81
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2015,
+    "value": 60.81
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2016,
+    "value": 59.59
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2017,
+    "value": 58.56
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2018,
+    "value": 59.47
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2019,
+    "value": 57.77
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2020,
+    "value": 59.05
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2021,
+    "value": 56.88
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2022,
+    "value": 44.94
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2023,
+    "value": 48.17
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2024,
+    "value": 50.31
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2025,
+    "value": 52.1
+  }
+]

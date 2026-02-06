@@ -1,0 +1,302 @@
+[
+  {
+    "id": "democracy_index",
+    "label": "The Economist Democracy Index",
+    "unit": "",
+    "category": "General",
+    "source": "Our World in Data",
+    "sourceUrl": "https://ourworldindata.org/grapher/democracy-index-eiu",
+    "description": "Measures the state of democracy based on electoral process, civil liberties, functioning of government, political participation, and political culture. Published by the Economist Group.",
+    "scale": {
+      "label": "Scale: 0 - 10",
+      "gradientClass": "democracy",
+      "lowLabel": "0 - Authoritarian",
+      "highLabel": "10 - Full democracy"
+    }
+  },
+  {
+    "id": "gender_inequality",
+    "label": "Gender Inequality Index",
+    "unit": "",
+    "category": "General",
+    "source": "Our World in Data",
+    "sourceUrl": "https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report",
+    "description": "The Gender Inequality Index reflects gender-based disadvantage in three dimensions – reproductive health, empowerment and the labour market.",
+    "scale": {
+      "label": "Scale: 0 - 1",
+      "gradientClass": "negative",
+      "lowLabel": "0 - Equality",
+      "highLabel": "1 - High inequality"
+    }
+  },
+  {
+    "id": "corruption",
+    "label": "Control of Corruption Index",
+    "unit": "",
+    "category": "General",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/CC.EST",
+    "description": "Reflects perceptions of the extent to which public power is exercised for private gain, including petty and grand forms of corruption.",
+    "scale": {
+      "label": "Scale: -2.5 to 2.5",
+      "gradientClass": "corruption",
+      "lowLabel": "-2.5 - High corruption",
+      "highLabel": "2.5 - Strong control"
+    }
+  },
+  {
+    "id": "press_freedom",
+    "label": "Press Freedom Index",
+    "unit": "",
+    "category": "General",
+    "source": "Reporters Without Borders",
+    "sourceUrl": "https://rsf.org/en/index",
+    "description": "Evaluates the level of freedom available to journalists based on pluralism, media independence, environment, self-censorship, legislation, and infrastructure.",
+    "scale": {
+      "label": "Scale: 0 - 100",
+      "gradientClass": "press-freedom",
+      "lowLabel": "0 - Very serious situation",
+      "highLabel": "100 - Good situation"
+    }
+  },
+  {
+    "id": "gdp",
+    "label": "GDP",
+    "unit": "billion $",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+    "description": "Gross Domestic Product - the total monetary value of all goods and services produced within a country's borders in a specific time period.",
+    "scale": {
+      "label": "Unit: billion $",
+      "gradientClass": "neutral",
+      "lowLabel": "Lower = Smaller economy",
+      "highLabel": "Higher = Larger economy"
+    }
+  },
+  {
+    "id": "annual_gdp_growth",
+    "label": "Annual GDP Growth",
+    "unit": "%",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at market prices based on constant local currency. Shows how fast the economy is expanding or contracting.",
+    "scale": {
+      "label": "Unit: %",
+      "gradientClass": "growth",
+      "lowLabel": "Negative = Recession",
+      "highLabel": "Positive = Growth"
+    }
+  },
+  {
+    "id": "gdp_per_capita",
+    "label": "GDP per Capita",
+    "unit": "$",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD",
+    "description": "GDP divided by midyear population. Provides a per-person measure of economic output, useful for comparing living standards between countries.",
+    "scale": {
+      "label": "Unit: $",
+      "gradientClass": "positive",
+      "lowLabel": "Lower = Less prosperous",
+      "highLabel": "Higher = More prosperous"
+    }
+  },
+  {
+    "id": "gdp_ppp",
+    "label": "GDP per Capita (PPP)",
+    "unit": "$",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD",
+    "description": "GDP per capita adjusted for Purchasing Power Parity. Accounts for price differences between countries, providing a more accurate comparison of living standards.",
+    "scale": {
+      "label": "Unit: $",
+      "gradientClass": "positive",
+      "lowLabel": "Lower = Less purchasing power",
+      "highLabel": "Higher = More purchasing power"
+    }
+  },
+  {
+    "id": "debt_to_gdp",
+    "label": "Debt to GDP Ratio",
+    "unit": "%",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
+    "description": "The ratio of a country's public debt to its GDP. Indicates the country's ability to pay back its debt without incurring further debt.",
+    "scale": {
+      "label": "Unit: %",
+      "gradientClass": "negative",
+      "lowLabel": "Lower = Healthier finances",
+      "highLabel": "Higher = More debt burden"
+    }
+  },
+  {
+    "id": "inflation",
+    "label": "Inflation",
+    "unit": "%",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index. Measures how quickly prices for goods and services are rising and purchasing power is declining.",
+    "scale": {
+      "label": "Unit: %",
+      "gradientClass": "inflation",
+      "lowLabel": "Low (~2%) = Stable prices",
+      "highLabel": "High = Rapid price increase"
+    }
+  },
+  {
+    "id": "unemployment",
+    "label": "Unemployment Rate",
+    "unit": "%",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS",
+    "description": "Share of the labor force that is without work but available and seeking employment. A key indicator of labor market health.",
+    "scale": {
+      "label": "Unit: %",
+      "gradientClass": "negative",
+      "lowLabel": "Lower = Healthier job market",
+      "highLabel": "Higher = More joblessness"
+    }
+  },
+  {
+    "id": "gini",
+    "label": "Gini Coefficient",
+    "unit": "",
+    "category": "Economy",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SI.POV.GINI",
+    "description": "Measures income inequality within a country. Shows how evenly wealth is distributed among the population.",
+    "scale": {
+      "label": "Scale: 0 - 100",
+      "gradientClass": "gini",
+      "lowLabel": "0 - Perfect equality",
+      "highLabel": "100 - Perfect inequality"
+    }
+  },
+  {
+    "id": "population",
+    "label": "Population",
+    "unit": "",
+    "category": "Demography",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "description": "Total number of people residing in a country. Based on de facto definition counting all residents regardless of legal status or citizenship.",
+    "scale": {
+      "label": "Unit: people",
+      "gradientClass": "neutral",
+      "lowLabel": "Lower = Smaller nation",
+      "highLabel": "Higher = Larger nation"
+    }
+  },
+  {
+    "id": "fertility",
+    "label": "Fertility Rate",
+    "unit": "",
+    "category": "Demography",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SP.DYN.TFRT.IN",
+    "description": "Total fertility rate - the average number of children a woman would have over her lifetime. Rate of 2.1 is considered replacement level.",
+    "scale": {
+      "label": "Unit: children per woman",
+      "gradientClass": "fertility",
+      "lowLabel": "<2.1 - Population decline",
+      "highLabel": ">2.1 - Population growth"
+    }
+  },
+  {
+    "id": "median_age",
+    "label": "Median Age",
+    "unit": "years",
+    "category": "Demography",
+    "source": "Our World in Data",
+    "sourceUrl": "https://ourworldindata.org/grapher/median-age",
+    "description": "The age that divides the population into two numerically equal groups - half are younger, half are older. Indicates the overall age structure.",
+    "scale": {
+      "label": "Unit: years",
+      "gradientClass": "age",
+      "lowLabel": "Lower = Younger population",
+      "highLabel": "Higher = Aging population"
+    }
+  },
+  {
+    "id": "urbanization",
+    "label": "Urbanization Rate",
+    "unit": "%",
+    "category": "Demography",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS",
+    "description": "Percentage of total population living in urban areas. Reflects the degree of industrialization and development patterns of a country.",
+    "scale": {
+      "label": "Unit: %",
+      "gradientClass": "neutral",
+      "lowLabel": "Lower = More rural",
+      "highLabel": "Higher = More urban"
+    }
+  },
+  {
+    "id": "life_expectancy",
+    "label": "Life Expectancy",
+    "unit": "years",
+    "category": "Life quality",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN",
+    "description": "Average number of years a newborn would live if current mortality patterns were to remain constant. Key indicator of overall health and development.",
+    "scale": {
+      "label": "Unit: years",
+      "gradientClass": "positive",
+      "lowLabel": "Lower = Shorter lifespan",
+      "highLabel": "Higher = Longer lifespan"
+    }
+  },
+  {
+    "id": "homicide_rate",
+    "label": "Homicide Rate",
+    "unit": "per 100k people",
+    "category": "Life quality",
+    "source": "World Bank",
+    "sourceUrl": "https://data.worldbank.org/indicator/VC.IHR.PSRC.P5",
+    "description": "Intentional homicides per 100,000 people. Includes murder and manslaughter but excludes deaths from war. Indicates public safety and social stability.",
+    "scale": {
+      "label": "Unit: per 100,000 people",
+      "gradientClass": "negative",
+      "lowLabel": "Lower = Safer",
+      "highLabel": "Higher = More dangerous"
+    }
+  },
+  {
+    "id": "life_satisfaction_index",
+    "label": "Self-reported life satisfaction",
+    "unit": "",
+    "category": "Life quality",
+    "source": "Our World in Data",
+    "sourceUrl": "https://ourworldindata.org/grapher/happiness-cantril-ladder",
+    "description": "Based on the Cantril Self-Anchoring Scale where respondents rate their current life on a ladder from 0 (worst) to 10 (best possible life).",
+    "scale": {
+      "label": "Scale: 0 - 10",
+      "gradientClass": "positive",
+      "lowLabel": "0 - Worst possible life",
+      "highLabel": "10 - Best possible life"
+    }
+  },
+  {
+    "id": "hdi",
+    "label": "Human Development Index",
+    "unit": "",
+    "category": "Life quality",
+    "source": "Our World in Data",
+    "sourceUrl": "https://ourworldindata.org/grapher/human-development-index",
+    "description": "The Human Development Index (HDI) is a summary measure of key dimensions of human development: a long and healthylife, a good education, and a decent standard of living.",
+    "scale": {
+      "label": "Scale: 0 - 1",
+      "gradientClass": "hdi",
+      "lowLabel": "0 - Low development",
+      "highLabel": "1 - Very high development"
+    }
+  }
+]

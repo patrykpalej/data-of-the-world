@@ -1,0 +1,9512 @@
+[
+  {
+    "country_code": "AFG",
+    "year": 2011,
+    "value": 4.258
+  },
+  {
+    "country_code": "AFG",
+    "year": 2012,
+    "value": 4.04
+  },
+  {
+    "country_code": "AFG",
+    "year": 2014,
+    "value": 3.575
+  },
+  {
+    "country_code": "AFG",
+    "year": 2015,
+    "value": 3.36
+  },
+  {
+    "country_code": "AFG",
+    "year": 2016,
+    "value": 3.794
+  },
+  {
+    "country_code": "AFG",
+    "year": 2017,
+    "value": 3.632
+  },
+  {
+    "country_code": "AFG",
+    "year": 2018,
+    "value": 3.203
+  },
+  {
+    "country_code": "AFG",
+    "year": 2019,
+    "value": 2.5669
+  },
+  {
+    "country_code": "AFG",
+    "year": 2020,
+    "value": 2.523
+  },
+  {
+    "country_code": "AFG",
+    "year": 2021,
+    "value": 2.404
+  },
+  {
+    "country_code": "AFG",
+    "year": 2022,
+    "value": 1.859
+  },
+  {
+    "country_code": "AFG",
+    "year": 2023,
+    "value": 1.721
+  },
+  {
+    "country_code": "AFG",
+    "year": 2024,
+    "value": 1.364
+  },
+  {
+    "country_code": "ALB",
+    "year": 2011,
+    "value": 5.134
+  },
+  {
+    "country_code": "ALB",
+    "year": 2012,
+    "value": 5.55
+  },
+  {
+    "country_code": "ALB",
+    "year": 2014,
+    "value": 4.959
+  },
+  {
+    "country_code": "ALB",
+    "year": 2015,
+    "value": 4.655
+  },
+  {
+    "country_code": "ALB",
+    "year": 2016,
+    "value": 4.644
+  },
+  {
+    "country_code": "ALB",
+    "year": 2017,
+    "value": 4.586
+  },
+  {
+    "country_code": "ALB",
+    "year": 2018,
+    "value": 4.719
+  },
+  {
+    "country_code": "ALB",
+    "year": 2019,
+    "value": 4.8827
+  },
+  {
+    "country_code": "ALB",
+    "year": 2020,
+    "value": 5.117
+  },
+  {
+    "country_code": "ALB",
+    "year": 2021,
+    "value": 5.199
+  },
+  {
+    "country_code": "ALB",
+    "year": 2022,
+    "value": 5.277
+  },
+  {
+    "country_code": "ALB",
+    "year": 2023,
+    "value": 5.304
+  },
+  {
+    "country_code": "ALB",
+    "year": 2024,
+    "value": 5.411
+  },
+  {
+    "country_code": "DZA",
+    "year": 2011,
+    "value": 5.368
+  },
+  {
+    "country_code": "DZA",
+    "year": 2012,
+    "value": 5.422
+  },
+  {
+    "country_code": "DZA",
+    "year": 2014,
+    "value": 5.605
+  },
+  {
+    "country_code": "DZA",
+    "year": 2015,
+    "value": 6.355
+  },
+  {
+    "country_code": "DZA",
+    "year": 2016,
+    "value": 5.872
+  },
+  {
+    "country_code": "DZA",
+    "year": 2017,
+    "value": 5.295
+  },
+  {
+    "country_code": "DZA",
+    "year": 2018,
+    "value": 5.211
+  },
+  {
+    "country_code": "DZA",
+    "year": 2019,
+    "value": 5.0051
+  },
+  {
+    "country_code": "DZA",
+    "year": 2020,
+    "value": 4.887
+  },
+  {
+    "country_code": "DZA",
+    "year": 2021,
+    "value": 5.122
+  },
+  {
+    "country_code": "DZA",
+    "year": 2022,
+    "value": 5.329
+  },
+  {
+    "country_code": "DZA",
+    "year": 2023,
+    "value": 5.364
+  },
+  {
+    "country_code": "DZA",
+    "year": 2024,
+    "value": 5.571
+  },
+  {
+    "country_code": "AGO",
+    "year": 2011,
+    "value": 4.178
+  },
+  {
+    "country_code": "AGO",
+    "year": 2012,
+    "value": 5.589
+  },
+  {
+    "country_code": "AGO",
+    "year": 2014,
+    "value": 4.033
+  },
+  {
+    "country_code": "AGO",
+    "year": 2015,
+    "value": 3.866
+  },
+  {
+    "country_code": "AGO",
+    "year": 2016,
+    "value": 3.795
+  },
+  {
+    "country_code": "AGO",
+    "year": 2017,
+    "value": 3.795
+  },
+  {
+    "country_code": "ARG",
+    "year": 2011,
+    "value": 6.242
+  },
+  {
+    "country_code": "ARG",
+    "year": 2012,
+    "value": 6.562
+  },
+  {
+    "country_code": "ARG",
+    "year": 2014,
+    "value": 6.574
+  },
+  {
+    "country_code": "ARG",
+    "year": 2015,
+    "value": 6.65
+  },
+  {
+    "country_code": "ARG",
+    "year": 2016,
+    "value": 6.599
+  },
+  {
+    "country_code": "ARG",
+    "year": 2017,
+    "value": 6.388
+  },
+  {
+    "country_code": "ARG",
+    "year": 2018,
+    "value": 6.086
+  },
+  {
+    "country_code": "ARG",
+    "year": 2019,
+    "value": 5.9747
+  },
+  {
+    "country_code": "ARG",
+    "year": 2020,
+    "value": 5.929
+  },
+  {
+    "country_code": "ARG",
+    "year": 2021,
+    "value": 5.967
+  },
+  {
+    "country_code": "ARG",
+    "year": 2022,
+    "value": 6.024
+  },
+  {
+    "country_code": "ARG",
+    "year": 2023,
+    "value": 6.188
+  },
+  {
+    "country_code": "ARG",
+    "year": 2024,
+    "value": 6.397
+  },
+  {
+    "country_code": "ARM",
+    "year": 2011,
+    "value": 4.474
+  },
+  {
+    "country_code": "ARM",
+    "year": 2012,
+    "value": 4.316
+  },
+  {
+    "country_code": "ARM",
+    "year": 2014,
+    "value": 4.35
+  },
+  {
+    "country_code": "ARM",
+    "year": 2015,
+    "value": 4.36
+  },
+  {
+    "country_code": "ARM",
+    "year": 2016,
+    "value": 4.376
+  },
+  {
+    "country_code": "ARM",
+    "year": 2017,
+    "value": 4.321
+  },
+  {
+    "country_code": "ARM",
+    "year": 2018,
+    "value": 4.559
+  },
+  {
+    "country_code": "ARM",
+    "year": 2019,
+    "value": 4.6768
+  },
+  {
+    "country_code": "ARM",
+    "year": 2020,
+    "value": 5.283
+  },
+  {
+    "country_code": "ARM",
+    "year": 2021,
+    "value": 5.399
+  },
+  {
+    "country_code": "ARM",
+    "year": 2022,
+    "value": 5.342
+  },
+  {
+    "country_code": "ARM",
+    "year": 2023,
+    "value": 5.455
+  },
+  {
+    "country_code": "ARM",
+    "year": 2024,
+    "value": 5.494
+  },
+  {
+    "country_code": "AUS",
+    "year": 2011,
+    "value": 7.345
+  },
+  {
+    "country_code": "AUS",
+    "year": 2012,
+    "value": 7.35
+  },
+  {
+    "country_code": "AUS",
+    "year": 2014,
+    "value": 7.284
+  },
+  {
+    "country_code": "AUS",
+    "year": 2015,
+    "value": 7.313
+  },
+  {
+    "country_code": "AUS",
+    "year": 2016,
+    "value": 7.284
+  },
+  {
+    "country_code": "AUS",
+    "year": 2017,
+    "value": 7.272
+  },
+  {
+    "country_code": "AUS",
+    "year": 2018,
+    "value": 7.228
+  },
+  {
+    "country_code": "AUS",
+    "year": 2019,
+    "value": 7.2228
+  },
+  {
+    "country_code": "AUS",
+    "year": 2020,
+    "value": 7.183
+  },
+  {
+    "country_code": "AUS",
+    "year": 2021,
+    "value": 7.162
+  },
+  {
+    "country_code": "AUS",
+    "year": 2022,
+    "value": 7.095
+  },
+  {
+    "country_code": "AUS",
+    "year": 2023,
+    "value": 7.057
+  },
+  {
+    "country_code": "AUS",
+    "year": 2024,
+    "value": 6.974
+  },
+  {
+    "country_code": "AUT",
+    "year": 2011,
+    "value": 7.227
+  },
+  {
+    "country_code": "AUT",
+    "year": 2012,
+    "value": 7.369
+  },
+  {
+    "country_code": "AUT",
+    "year": 2014,
+    "value": 7.2
+  },
+  {
+    "country_code": "AUT",
+    "year": 2015,
+    "value": 7.119
+  },
+  {
+    "country_code": "AUT",
+    "year": 2016,
+    "value": 7.006
+  },
+  {
+    "country_code": "AUT",
+    "year": 2017,
+    "value": 7.139
+  },
+  {
+    "country_code": "AUT",
+    "year": 2018,
+    "value": 7.246
+  },
+  {
+    "country_code": "AUT",
+    "year": 2019,
+    "value": 7.2942
+  },
+  {
+    "country_code": "AUT",
+    "year": 2020,
+    "value": 7.268
+  },
+  {
+    "country_code": "AUT",
+    "year": 2021,
+    "value": 7.163
+  },
+  {
+    "country_code": "AUT",
+    "year": 2022,
+    "value": 7.097
+  },
+  {
+    "country_code": "AUT",
+    "year": 2023,
+    "value": 6.905
+  },
+  {
+    "country_code": "AUT",
+    "year": 2024,
+    "value": 6.81
+  },
+  {
+    "country_code": "AZE",
+    "year": 2011,
+    "value": 4.582
+  },
+  {
+    "country_code": "AZE",
+    "year": 2012,
+    "value": 4.604
+  },
+  {
+    "country_code": "AZE",
+    "year": 2014,
+    "value": 5.212
+  },
+  {
+    "country_code": "AZE",
+    "year": 2015,
+    "value": 5.291
+  },
+  {
+    "country_code": "AZE",
+    "year": 2016,
+    "value": 5.234
+  },
+  {
+    "country_code": "AZE",
+    "year": 2017,
+    "value": 5.201
+  },
+  {
+    "country_code": "AZE",
+    "year": 2018,
+    "value": 5.208
+  },
+  {
+    "country_code": "AZE",
+    "year": 2019,
+    "value": 5.1648
+  },
+  {
+    "country_code": "AZE",
+    "year": 2020,
+    "value": 5.171
+  },
+  {
+    "country_code": "AZE",
+    "year": 2021,
+    "value": 5.173
+  },
+  {
+    "country_code": "AZE",
+    "year": 2023,
+    "value": 4.893
+  },
+  {
+    "country_code": "AZE",
+    "year": 2024,
+    "value": 4.875
+  },
+  {
+    "country_code": "BHR",
+    "year": 2011,
+    "value": 5.568
+  },
+  {
+    "country_code": "BHR",
+    "year": 2012,
+    "value": 5.312
+  },
+  {
+    "country_code": "BHR",
+    "year": 2014,
+    "value": 5.96
+  },
+  {
+    "country_code": "BHR",
+    "year": 2015,
+    "value": 6.218
+  },
+  {
+    "country_code": "BHR",
+    "year": 2016,
+    "value": 6.087
+  },
+  {
+    "country_code": "BHR",
+    "year": 2017,
+    "value": 6.105
+  },
+  {
+    "country_code": "BHR",
+    "year": 2018,
+    "value": 6.199
+  },
+  {
+    "country_code": "BHR",
+    "year": 2019,
+    "value": 6.2273
+  },
+  {
+    "country_code": "BHR",
+    "year": 2020,
+    "value": 6.647
+  },
+  {
+    "country_code": "BHR",
+    "year": 2021,
+    "value": 6.647
+  },
+  {
+    "country_code": "BHR",
+    "year": 2022,
+    "value": 6.173
+  },
+  {
+    "country_code": "BHR",
+    "year": 2023,
+    "value": 5.959
+  },
+  {
+    "country_code": "BHR",
+    "year": 2024,
+    "value": 6.03
+  },
+  {
+    "country_code": "BGD",
+    "year": 2011,
+    "value": 4.807
+  },
+  {
+    "country_code": "BGD",
+    "year": 2012,
+    "value": 4.804
+  },
+  {
+    "country_code": "BGD",
+    "year": 2014,
+    "value": 4.694
+  },
+  {
+    "country_code": "BGD",
+    "year": 2015,
+    "value": 4.643
+  },
+  {
+    "country_code": "BGD",
+    "year": 2016,
+    "value": 4.608
+  },
+  {
+    "country_code": "BGD",
+    "year": 2017,
+    "value": 4.5
+  },
+  {
+    "country_code": "BGD",
+    "year": 2018,
+    "value": 4.456
+  },
+  {
+    "country_code": "BGD",
+    "year": 2019,
+    "value": 4.8328
+  },
+  {
+    "country_code": "BGD",
+    "year": 2020,
+    "value": 5.025
+  },
+  {
+    "country_code": "BGD",
+    "year": 2021,
+    "value": 5.155
+  },
+  {
+    "country_code": "BGD",
+    "year": 2022,
+    "value": 4.282
+  },
+  {
+    "country_code": "BGD",
+    "year": 2023,
+    "value": 3.886
+  },
+  {
+    "country_code": "BGD",
+    "year": 2024,
+    "value": 3.851
+  },
+  {
+    "country_code": "BLR",
+    "year": 2011,
+    "value": 5.566
+  },
+  {
+    "country_code": "BLR",
+    "year": 2012,
+    "value": 5.504
+  },
+  {
+    "country_code": "BLR",
+    "year": 2014,
+    "value": 5.813
+  },
+  {
+    "country_code": "BLR",
+    "year": 2015,
+    "value": 5.802
+  },
+  {
+    "country_code": "BLR",
+    "year": 2016,
+    "value": 5.569
+  },
+  {
+    "country_code": "BLR",
+    "year": 2017,
+    "value": 5.483
+  },
+  {
+    "country_code": "BLR",
+    "year": 2018,
+    "value": 5.323
+  },
+  {
+    "country_code": "BLR",
+    "year": 2019,
+    "value": 5.5399
+  },
+  {
+    "country_code": "BLR",
+    "year": 2020,
+    "value": 5.534
+  },
+  {
+    "country_code": "BLR",
+    "year": 2021,
+    "value": 5.821
+  },
+  {
+    "country_code": "BEL",
+    "year": 2011,
+    "value": 7.113
+  },
+  {
+    "country_code": "BEL",
+    "year": 2012,
+    "value": 6.967
+  },
+  {
+    "country_code": "BEL",
+    "year": 2014,
+    "value": 6.937
+  },
+  {
+    "country_code": "BEL",
+    "year": 2015,
+    "value": 6.929
+  },
+  {
+    "country_code": "BEL",
+    "year": 2016,
+    "value": 6.891
+  },
+  {
+    "country_code": "BEL",
+    "year": 2017,
+    "value": 6.927
+  },
+  {
+    "country_code": "BEL",
+    "year": 2018,
+    "value": 6.923
+  },
+  {
+    "country_code": "BEL",
+    "year": 2019,
+    "value": 6.8635
+  },
+  {
+    "country_code": "BEL",
+    "year": 2020,
+    "value": 6.834
+  },
+  {
+    "country_code": "BEL",
+    "year": 2021,
+    "value": 6.805
+  },
+  {
+    "country_code": "BEL",
+    "year": 2022,
+    "value": 6.859
+  },
+  {
+    "country_code": "BEL",
+    "year": 2023,
+    "value": 6.894
+  },
+  {
+    "country_code": "BEL",
+    "year": 2024,
+    "value": 6.91
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2011,
+    "value": 6.451
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2015,
+    "value": 5.956
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2016,
+    "value": 5.956
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2017,
+    "value": 5.956
+  },
+  {
+    "country_code": "BLZ",
+    "year": 2024,
+    "value": 6.711
+  },
+  {
+    "country_code": "BEN",
+    "year": 2011,
+    "value": 3.493
+  },
+  {
+    "country_code": "BEN",
+    "year": 2012,
+    "value": 3.528
+  },
+  {
+    "country_code": "BEN",
+    "year": 2014,
+    "value": 3.34
+  },
+  {
+    "country_code": "BEN",
+    "year": 2015,
+    "value": 3.484
+  },
+  {
+    "country_code": "BEN",
+    "year": 2016,
+    "value": 3.657
+  },
+  {
+    "country_code": "BEN",
+    "year": 2017,
+    "value": 4.141
+  },
+  {
+    "country_code": "BEN",
+    "year": 2018,
+    "value": 4.883
+  },
+  {
+    "country_code": "BEN",
+    "year": 2019,
+    "value": 5.216
+  },
+  {
+    "country_code": "BEN",
+    "year": 2020,
+    "value": 5.045
+  },
+  {
+    "country_code": "BEN",
+    "year": 2021,
+    "value": 4.623
+  },
+  {
+    "country_code": "BEN",
+    "year": 2022,
+    "value": 4.374
+  },
+  {
+    "country_code": "BEN",
+    "year": 2023,
+    "value": 4.377
+  },
+  {
+    "country_code": "BEN",
+    "year": 2024,
+    "value": 4.357
+  },
+  {
+    "country_code": "BTN",
+    "year": 2014,
+    "value": 5.253
+  },
+  {
+    "country_code": "BTN",
+    "year": 2015,
+    "value": 5.196
+  },
+  {
+    "country_code": "BTN",
+    "year": 2016,
+    "value": 5.011
+  },
+  {
+    "country_code": "BTN",
+    "year": 2017,
+    "value": 5.082
+  },
+  {
+    "country_code": "BTN",
+    "year": 2018,
+    "value": 5.082
+  },
+  {
+    "country_code": "BOL",
+    "year": 2011,
+    "value": 5.633
+  },
+  {
+    "country_code": "BOL",
+    "year": 2012,
+    "value": 5.857
+  },
+  {
+    "country_code": "BOL",
+    "year": 2014,
+    "value": 5.89
+  },
+  {
+    "country_code": "BOL",
+    "year": 2015,
+    "value": 5.822
+  },
+  {
+    "country_code": "BOL",
+    "year": 2016,
+    "value": 5.823
+  },
+  {
+    "country_code": "BOL",
+    "year": 2017,
+    "value": 5.752
+  },
+  {
+    "country_code": "BOL",
+    "year": 2018,
+    "value": 5.779
+  },
+  {
+    "country_code": "BOL",
+    "year": 2019,
+    "value": 5.7475
+  },
+  {
+    "country_code": "BOL",
+    "year": 2020,
+    "value": 5.716
+  },
+  {
+    "country_code": "BOL",
+    "year": 2021,
+    "value": 5.6
+  },
+  {
+    "country_code": "BOL",
+    "year": 2022,
+    "value": 5.684
+  },
+  {
+    "country_code": "BOL",
+    "year": 2023,
+    "value": 5.784
+  },
+  {
+    "country_code": "BOL",
+    "year": 2024,
+    "value": 5.868
+  },
+  {
+    "country_code": "BIH",
+    "year": 2011,
+    "value": 4.857
+  },
+  {
+    "country_code": "BIH",
+    "year": 2012,
+    "value": 4.813
+  },
+  {
+    "country_code": "BIH",
+    "year": 2014,
+    "value": 4.949
+  },
+  {
+    "country_code": "BIH",
+    "year": 2015,
+    "value": 5.163
+  },
+  {
+    "country_code": "BIH",
+    "year": 2016,
+    "value": 5.182
+  },
+  {
+    "country_code": "BIH",
+    "year": 2017,
+    "value": 5.129
+  },
+  {
+    "country_code": "BIH",
+    "year": 2018,
+    "value": 5.386
+  },
+  {
+    "country_code": "BIH",
+    "year": 2019,
+    "value": 5.6741
+  },
+  {
+    "country_code": "BIH",
+    "year": 2020,
+    "value": 5.813
+  },
+  {
+    "country_code": "BIH",
+    "year": 2021,
+    "value": 5.768
+  },
+  {
+    "country_code": "BIH",
+    "year": 2022,
+    "value": 5.633
+  },
+  {
+    "country_code": "BIH",
+    "year": 2023,
+    "value": 5.877
+  },
+  {
+    "country_code": "BIH",
+    "year": 2024,
+    "value": 6.136
+  },
+  {
+    "country_code": "BWA",
+    "year": 2011,
+    "value": 4.581
+  },
+  {
+    "country_code": "BWA",
+    "year": 2012,
+    "value": 3.97
+  },
+  {
+    "country_code": "BWA",
+    "year": 2014,
+    "value": 4.332
+  },
+  {
+    "country_code": "BWA",
+    "year": 2015,
+    "value": 3.974
+  },
+  {
+    "country_code": "BWA",
+    "year": 2016,
+    "value": 3.766
+  },
+  {
+    "country_code": "BWA",
+    "year": 2017,
+    "value": 3.59
+  },
+  {
+    "country_code": "BWA",
+    "year": 2018,
+    "value": 3.488
+  },
+  {
+    "country_code": "BWA",
+    "year": 2019,
+    "value": 3.4789
+  },
+  {
+    "country_code": "BWA",
+    "year": 2020,
+    "value": 3.467
+  },
+  {
+    "country_code": "BWA",
+    "year": 2021,
+    "value": 3.471
+  },
+  {
+    "country_code": "BWA",
+    "year": 2022,
+    "value": 3.435
+  },
+  {
+    "country_code": "BWA",
+    "year": 2023,
+    "value": 3.383
+  },
+  {
+    "country_code": "BWA",
+    "year": 2024,
+    "value": 3.438
+  },
+  {
+    "country_code": "BRA",
+    "year": 2011,
+    "value": 6.697
+  },
+  {
+    "country_code": "BRA",
+    "year": 2012,
+    "value": 6.849
+  },
+  {
+    "country_code": "BRA",
+    "year": 2014,
+    "value": 6.983
+  },
+  {
+    "country_code": "BRA",
+    "year": 2015,
+    "value": 6.952
+  },
+  {
+    "country_code": "BRA",
+    "year": 2016,
+    "value": 6.635
+  },
+  {
+    "country_code": "BRA",
+    "year": 2017,
+    "value": 6.419
+  },
+  {
+    "country_code": "BRA",
+    "year": 2018,
+    "value": 6.3
+  },
+  {
+    "country_code": "BRA",
+    "year": 2019,
+    "value": 6.3756
+  },
+  {
+    "country_code": "BRA",
+    "year": 2020,
+    "value": 6.33
+  },
+  {
+    "country_code": "BRA",
+    "year": 2021,
+    "value": 6.293
+  },
+  {
+    "country_code": "BRA",
+    "year": 2022,
+    "value": 6.125
+  },
+  {
+    "country_code": "BRA",
+    "year": 2023,
+    "value": 6.272
+  },
+  {
+    "country_code": "BRA",
+    "year": 2024,
+    "value": 6.494
+  },
+  {
+    "country_code": "BGR",
+    "year": 2011,
+    "value": 3.889
+  },
+  {
+    "country_code": "BGR",
+    "year": 2012,
+    "value": 3.981
+  },
+  {
+    "country_code": "BGR",
+    "year": 2014,
+    "value": 4.218
+  },
+  {
+    "country_code": "BGR",
+    "year": 2015,
+    "value": 4.217
+  },
+  {
+    "country_code": "BGR",
+    "year": 2016,
+    "value": 4.714
+  },
+  {
+    "country_code": "BGR",
+    "year": 2017,
+    "value": 4.933
+  },
+  {
+    "country_code": "BGR",
+    "year": 2018,
+    "value": 5.011
+  },
+  {
+    "country_code": "BGR",
+    "year": 2019,
+    "value": 5.1015
+  },
+  {
+    "country_code": "BGR",
+    "year": 2020,
+    "value": 5.266
+  },
+  {
+    "country_code": "BGR",
+    "year": 2021,
+    "value": 5.371
+  },
+  {
+    "country_code": "BGR",
+    "year": 2022,
+    "value": 5.466
+  },
+  {
+    "country_code": "BGR",
+    "year": 2023,
+    "value": 5.463
+  },
+  {
+    "country_code": "BGR",
+    "year": 2024,
+    "value": 5.554
+  },
+  {
+    "country_code": "BFA",
+    "year": 2011,
+    "value": 3.926
+  },
+  {
+    "country_code": "BFA",
+    "year": 2012,
+    "value": 4.259
+  },
+  {
+    "country_code": "BFA",
+    "year": 2014,
+    "value": 3.587
+  },
+  {
+    "country_code": "BFA",
+    "year": 2015,
+    "value": 3.739
+  },
+  {
+    "country_code": "BFA",
+    "year": 2016,
+    "value": 4.032
+  },
+  {
+    "country_code": "BFA",
+    "year": 2017,
+    "value": 4.424
+  },
+  {
+    "country_code": "BFA",
+    "year": 2018,
+    "value": 4.587
+  },
+  {
+    "country_code": "BFA",
+    "year": 2019,
+    "value": 4.7687
+  },
+  {
+    "country_code": "BFA",
+    "year": 2020,
+    "value": 4.834
+  },
+  {
+    "country_code": "BFA",
+    "year": 2021,
+    "value": 4.67
+  },
+  {
+    "country_code": "BFA",
+    "year": 2022,
+    "value": 4.638
+  },
+  {
+    "country_code": "BFA",
+    "year": 2023,
+    "value": 4.548
+  },
+  {
+    "country_code": "BFA",
+    "year": 2024,
+    "value": 4.383
+  },
+  {
+    "country_code": "BDI",
+    "year": 2011,
+    "value": 3.678
+  },
+  {
+    "country_code": "BDI",
+    "year": 2012,
+    "value": 3.706
+  },
+  {
+    "country_code": "BDI",
+    "year": 2014,
+    "value": 2.906
+  },
+  {
+    "country_code": "BDI",
+    "year": 2015,
+    "value": 2.905
+  },
+  {
+    "country_code": "BDI",
+    "year": 2016,
+    "value": 2.905
+  },
+  {
+    "country_code": "BDI",
+    "year": 2017,
+    "value": 2.905
+  },
+  {
+    "country_code": "BDI",
+    "year": 2018,
+    "value": 3.775
+  },
+  {
+    "country_code": "BDI",
+    "year": 2019,
+    "value": 3.7753
+  },
+  {
+    "country_code": "BDI",
+    "year": 2020,
+    "value": 3.775
+  },
+  {
+    "country_code": "KHM",
+    "year": 2011,
+    "value": 4.101
+  },
+  {
+    "country_code": "KHM",
+    "year": 2012,
+    "value": 4.067
+  },
+  {
+    "country_code": "KHM",
+    "year": 2014,
+    "value": 3.819
+  },
+  {
+    "country_code": "KHM",
+    "year": 2015,
+    "value": 3.907
+  },
+  {
+    "country_code": "KHM",
+    "year": 2016,
+    "value": 4.168
+  },
+  {
+    "country_code": "KHM",
+    "year": 2017,
+    "value": 4.433
+  },
+  {
+    "country_code": "KHM",
+    "year": 2018,
+    "value": 4.7
+  },
+  {
+    "country_code": "KHM",
+    "year": 2019,
+    "value": 4.8484
+  },
+  {
+    "country_code": "KHM",
+    "year": 2020,
+    "value": 4.83
+  },
+  {
+    "country_code": "KHM",
+    "year": 2021,
+    "value": 4.64
+  },
+  {
+    "country_code": "KHM",
+    "year": 2022,
+    "value": 4.393
+  },
+  {
+    "country_code": "KHM",
+    "year": 2023,
+    "value": 4.341
+  },
+  {
+    "country_code": "KHM",
+    "year": 2024,
+    "value": 4.341
+  },
+  {
+    "country_code": "CMR",
+    "year": 2011,
+    "value": 4.376
+  },
+  {
+    "country_code": "CMR",
+    "year": 2012,
+    "value": 4.42
+  },
+  {
+    "country_code": "CMR",
+    "year": 2014,
+    "value": 4.252
+  },
+  {
+    "country_code": "CMR",
+    "year": 2015,
+    "value": 4.513
+  },
+  {
+    "country_code": "CMR",
+    "year": 2016,
+    "value": 4.695
+  },
+  {
+    "country_code": "CMR",
+    "year": 2017,
+    "value": 4.975
+  },
+  {
+    "country_code": "CMR",
+    "year": 2018,
+    "value": 5.044
+  },
+  {
+    "country_code": "CMR",
+    "year": 2019,
+    "value": 5.0849
+  },
+  {
+    "country_code": "CMR",
+    "year": 2020,
+    "value": 5.142
+  },
+  {
+    "country_code": "CMR",
+    "year": 2021,
+    "value": 5.048
+  },
+  {
+    "country_code": "CMR",
+    "year": 2022,
+    "value": 4.973
+  },
+  {
+    "country_code": "CMR",
+    "year": 2023,
+    "value": 4.874
+  },
+  {
+    "country_code": "CMR",
+    "year": 2024,
+    "value": 4.887
+  },
+  {
+    "country_code": "CAN",
+    "year": 2011,
+    "value": 7.499
+  },
+  {
+    "country_code": "CAN",
+    "year": 2012,
+    "value": 7.477
+  },
+  {
+    "country_code": "CAN",
+    "year": 2014,
+    "value": 7.427
+  },
+  {
+    "country_code": "CAN",
+    "year": 2015,
+    "value": 7.404
+  },
+  {
+    "country_code": "CAN",
+    "year": 2016,
+    "value": 7.316
+  },
+  {
+    "country_code": "CAN",
+    "year": 2017,
+    "value": 7.328
+  },
+  {
+    "country_code": "CAN",
+    "year": 2018,
+    "value": 7.278
+  },
+  {
+    "country_code": "CAN",
+    "year": 2019,
+    "value": 7.2321
+  },
+  {
+    "country_code": "CAN",
+    "year": 2020,
+    "value": 7.103
+  },
+  {
+    "country_code": "CAN",
+    "year": 2021,
+    "value": 7.025
+  },
+  {
+    "country_code": "CAN",
+    "year": 2022,
+    "value": 6.961
+  },
+  {
+    "country_code": "CAN",
+    "year": 2023,
+    "value": 6.9
+  },
+  {
+    "country_code": "CAN",
+    "year": 2024,
+    "value": 6.803
+  },
+  {
+    "country_code": "CAF",
+    "year": 2011,
+    "value": 3.568
+  },
+  {
+    "country_code": "CAF",
+    "year": 2012,
+    "value": 3.623
+  },
+  {
+    "country_code": "CAF",
+    "year": 2014,
+    "value": 3.678
+  },
+  {
+    "country_code": "CAF",
+    "year": 2016,
+    "value": 2.693
+  },
+  {
+    "country_code": "CAF",
+    "year": 2017,
+    "value": 3.083
+  },
+  {
+    "country_code": "CAF",
+    "year": 2018,
+    "value": 3.083
+  },
+  {
+    "country_code": "CAF",
+    "year": 2019,
+    "value": 3.4759
+  },
+  {
+    "country_code": "TCD",
+    "year": 2011,
+    "value": 3.919
+  },
+  {
+    "country_code": "TCD",
+    "year": 2012,
+    "value": 4.056
+  },
+  {
+    "country_code": "TCD",
+    "year": 2014,
+    "value": 3.667
+  },
+  {
+    "country_code": "TCD",
+    "year": 2015,
+    "value": 3.763
+  },
+  {
+    "country_code": "TCD",
+    "year": 2016,
+    "value": 3.936
+  },
+  {
+    "country_code": "TCD",
+    "year": 2017,
+    "value": 4.301
+  },
+  {
+    "country_code": "TCD",
+    "year": 2018,
+    "value": 4.35
+  },
+  {
+    "country_code": "TCD",
+    "year": 2019,
+    "value": 4.4227
+  },
+  {
+    "country_code": "TCD",
+    "year": 2020,
+    "value": 4.355
+  },
+  {
+    "country_code": "TCD",
+    "year": 2021,
+    "value": 4.251
+  },
+  {
+    "country_code": "TCD",
+    "year": 2022,
+    "value": 4.397
+  },
+  {
+    "country_code": "TCD",
+    "year": 2023,
+    "value": 4.471
+  },
+  {
+    "country_code": "TCD",
+    "year": 2024,
+    "value": 4.384
+  },
+  {
+    "country_code": "CHL",
+    "year": 2011,
+    "value": 6.128
+  },
+  {
+    "country_code": "CHL",
+    "year": 2012,
+    "value": 6.587
+  },
+  {
+    "country_code": "CHL",
+    "year": 2014,
+    "value": 6.67
+  },
+  {
+    "country_code": "CHL",
+    "year": 2015,
+    "value": 6.705
+  },
+  {
+    "country_code": "CHL",
+    "year": 2016,
+    "value": 6.652
+  },
+  {
+    "country_code": "CHL",
+    "year": 2017,
+    "value": 6.476
+  },
+  {
+    "country_code": "CHL",
+    "year": 2018,
+    "value": 6.444
+  },
+  {
+    "country_code": "CHL",
+    "year": 2019,
+    "value": 6.2285
+  },
+  {
+    "country_code": "CHL",
+    "year": 2020,
+    "value": 6.172
+  },
+  {
+    "country_code": "CHL",
+    "year": 2021,
+    "value": 6.172
+  },
+  {
+    "country_code": "CHL",
+    "year": 2022,
+    "value": 6.334
+  },
+  {
+    "country_code": "CHL",
+    "year": 2023,
+    "value": 6.36
+  },
+  {
+    "country_code": "CHL",
+    "year": 2024,
+    "value": 6.361
+  },
+  {
+    "country_code": "CHN",
+    "year": 2011,
+    "value": 4.68
+  },
+  {
+    "country_code": "CHN",
+    "year": 2012,
+    "value": 4.978
+  },
+  {
+    "country_code": "CHN",
+    "year": 2014,
+    "value": 5.14
+  },
+  {
+    "country_code": "CHN",
+    "year": 2015,
+    "value": 5.245
+  },
+  {
+    "country_code": "CHN",
+    "year": 2016,
+    "value": 5.273
+  },
+  {
+    "country_code": "CHN",
+    "year": 2017,
+    "value": 5.246
+  },
+  {
+    "country_code": "CHN",
+    "year": 2018,
+    "value": 5.191
+  },
+  {
+    "country_code": "CHN",
+    "year": 2019,
+    "value": 5.1239
+  },
+  {
+    "country_code": "CHN",
+    "year": 2020,
+    "value": 5.339
+  },
+  {
+    "country_code": "CHN",
+    "year": 2021,
+    "value": 5.585
+  },
+  {
+    "country_code": "CHN",
+    "year": 2022,
+    "value": 5.818
+  },
+  {
+    "country_code": "CHN",
+    "year": 2023,
+    "value": 5.973
+  },
+  {
+    "country_code": "CHN",
+    "year": 2024,
+    "value": 5.921
+  },
+  {
+    "country_code": "COL",
+    "year": 2011,
+    "value": 6.202
+  },
+  {
+    "country_code": "COL",
+    "year": 2012,
+    "value": 6.416
+  },
+  {
+    "country_code": "COL",
+    "year": 2014,
+    "value": 6.477
+  },
+  {
+    "country_code": "COL",
+    "year": 2015,
+    "value": 6.481
+  },
+  {
+    "country_code": "COL",
+    "year": 2016,
+    "value": 6.357
+  },
+  {
+    "country_code": "COL",
+    "year": 2017,
+    "value": 6.26
+  },
+  {
+    "country_code": "COL",
+    "year": 2018,
+    "value": 6.125
+  },
+  {
+    "country_code": "COL",
+    "year": 2019,
+    "value": 6.1634
+  },
+  {
+    "country_code": "COL",
+    "year": 2020,
+    "value": 6.012
+  },
+  {
+    "country_code": "COL",
+    "year": 2021,
+    "value": 5.781
+  },
+  {
+    "country_code": "COL",
+    "year": 2022,
+    "value": 5.63
+  },
+  {
+    "country_code": "COL",
+    "year": 2023,
+    "value": 5.695
+  },
+  {
+    "country_code": "COL",
+    "year": 2024,
+    "value": 6.004
+  },
+  {
+    "country_code": "COM",
+    "year": 2011,
+    "value": 3.7
+  },
+  {
+    "country_code": "COM",
+    "year": 2012,
+    "value": 3.851
+  },
+  {
+    "country_code": "COM",
+    "year": 2014,
+    "value": 3.956
+  },
+  {
+    "country_code": "COM",
+    "year": 2015,
+    "value": 3.956
+  },
+  {
+    "country_code": "COM",
+    "year": 2018,
+    "value": 3.973
+  },
+  {
+    "country_code": "COM",
+    "year": 2019,
+    "value": 4.2886
+  },
+  {
+    "country_code": "COM",
+    "year": 2020,
+    "value": 4.289
+  },
+  {
+    "country_code": "COM",
+    "year": 2021,
+    "value": 4.609
+  },
+  {
+    "country_code": "COM",
+    "year": 2022,
+    "value": 3.545
+  },
+  {
+    "country_code": "COM",
+    "year": 2023,
+    "value": 3.566
+  },
+  {
+    "country_code": "COM",
+    "year": 2024,
+    "value": 3.754
+  },
+  {
+    "country_code": "COG",
+    "year": 2011,
+    "value": 3.82
+  },
+  {
+    "country_code": "COG",
+    "year": 2012,
+    "value": 4.297
+  },
+  {
+    "country_code": "COG",
+    "year": 2014,
+    "value": 3.989
+  },
+  {
+    "country_code": "COG",
+    "year": 2015,
+    "value": 4.236
+  },
+  {
+    "country_code": "COG",
+    "year": 2016,
+    "value": 4.291
+  },
+  {
+    "country_code": "COG",
+    "year": 2017,
+    "value": 4.559
+  },
+  {
+    "country_code": "COG",
+    "year": 2018,
+    "value": 4.812
+  },
+  {
+    "country_code": "COG",
+    "year": 2019,
+    "value": 5.1944
+  },
+  {
+    "country_code": "COG",
+    "year": 2020,
+    "value": 5.342
+  },
+  {
+    "country_code": "COG",
+    "year": 2021,
+    "value": 5.075
+  },
+  {
+    "country_code": "COG",
+    "year": 2022,
+    "value": 5.267
+  },
+  {
+    "country_code": "COG",
+    "year": 2023,
+    "value": 5.221
+  },
+  {
+    "country_code": "COG",
+    "year": 2024,
+    "value": 5.03
+  },
+  {
+    "country_code": "CRI",
+    "year": 2011,
+    "value": 7.251
+  },
+  {
+    "country_code": "CRI",
+    "year": 2012,
+    "value": 7.257
+  },
+  {
+    "country_code": "CRI",
+    "year": 2014,
+    "value": 7.226
+  },
+  {
+    "country_code": "CRI",
+    "year": 2015,
+    "value": 7.087
+  },
+  {
+    "country_code": "CRI",
+    "year": 2016,
+    "value": 7.079
+  },
+  {
+    "country_code": "CRI",
+    "year": 2017,
+    "value": 7.072
+  },
+  {
+    "country_code": "CRI",
+    "year": 2018,
+    "value": 7.167
+  },
+  {
+    "country_code": "CRI",
+    "year": 2019,
+    "value": 7.1214
+  },
+  {
+    "country_code": "CRI",
+    "year": 2020,
+    "value": 7.069
+  },
+  {
+    "country_code": "CRI",
+    "year": 2021,
+    "value": 6.582
+  },
+  {
+    "country_code": "CRI",
+    "year": 2022,
+    "value": 6.609
+  },
+  {
+    "country_code": "CRI",
+    "year": 2023,
+    "value": 6.955
+  },
+  {
+    "country_code": "CRI",
+    "year": 2024,
+    "value": 7.274
+  },
+  {
+    "country_code": "CIV",
+    "year": 2011,
+    "value": 4.197
+  },
+  {
+    "country_code": "CIV",
+    "year": 2014,
+    "value": 3.655
+  },
+  {
+    "country_code": "CIV",
+    "year": 2015,
+    "value": 3.916
+  },
+  {
+    "country_code": "CIV",
+    "year": 2016,
+    "value": 4.18
+  },
+  {
+    "country_code": "CIV",
+    "year": 2017,
+    "value": 4.671
+  },
+  {
+    "country_code": "CIV",
+    "year": 2018,
+    "value": 4.944
+  },
+  {
+    "country_code": "CIV",
+    "year": 2019,
+    "value": 5.2333
+  },
+  {
+    "country_code": "CIV",
+    "year": 2020,
+    "value": 5.306
+  },
+  {
+    "country_code": "CIV",
+    "year": 2021,
+    "value": 5.235
+  },
+  {
+    "country_code": "CIV",
+    "year": 2022,
+    "value": 5.053
+  },
+  {
+    "country_code": "CIV",
+    "year": 2023,
+    "value": 5.08
+  },
+  {
+    "country_code": "CIV",
+    "year": 2024,
+    "value": 5.102
+  },
+  {
+    "country_code": "HRV",
+    "year": 2011,
+    "value": 5.623
+  },
+  {
+    "country_code": "HRV",
+    "year": 2012,
+    "value": 5.661
+  },
+  {
+    "country_code": "HRV",
+    "year": 2014,
+    "value": 5.759
+  },
+  {
+    "country_code": "HRV",
+    "year": 2015,
+    "value": 5.488
+  },
+  {
+    "country_code": "HRV",
+    "year": 2016,
+    "value": 5.293
+  },
+  {
+    "country_code": "HRV",
+    "year": 2017,
+    "value": 5.321
+  },
+  {
+    "country_code": "HRV",
+    "year": 2018,
+    "value": 5.432
+  },
+  {
+    "country_code": "HRV",
+    "year": 2019,
+    "value": 5.5047
+  },
+  {
+    "country_code": "HRV",
+    "year": 2020,
+    "value": 5.882
+  },
+  {
+    "country_code": "HRV",
+    "year": 2021,
+    "value": 6.125
+  },
+  {
+    "country_code": "HRV",
+    "year": 2022,
+    "value": 6.125
+  },
+  {
+    "country_code": "HRV",
+    "year": 2023,
+    "value": 5.942
+  },
+  {
+    "country_code": "HRV",
+    "year": 2024,
+    "value": 5.87
+  },
+  {
+    "country_code": "CUB",
+    "year": 2011,
+    "value": 5.418
+  },
+  {
+    "country_code": "CYP",
+    "year": 2011,
+    "value": 6.416
+  },
+  {
+    "country_code": "CYP",
+    "year": 2012,
+    "value": 6.466
+  },
+  {
+    "country_code": "CYP",
+    "year": 2014,
+    "value": 5.689
+  },
+  {
+    "country_code": "CYP",
+    "year": 2015,
+    "value": 5.546
+  },
+  {
+    "country_code": "CYP",
+    "year": 2016,
+    "value": 5.621
+  },
+  {
+    "country_code": "CYP",
+    "year": 2017,
+    "value": 5.762
+  },
+  {
+    "country_code": "CYP",
+    "year": 2018,
+    "value": 6.046
+  },
+  {
+    "country_code": "CYP",
+    "year": 2019,
+    "value": 6.159
+  },
+  {
+    "country_code": "CYP",
+    "year": 2020,
+    "value": 6.223
+  },
+  {
+    "country_code": "CYP",
+    "year": 2021,
+    "value": 6.221
+  },
+  {
+    "country_code": "CYP",
+    "year": 2022,
+    "value": 6.13
+  },
+  {
+    "country_code": "CYP",
+    "year": 2023,
+    "value": 6.068
+  },
+  {
+    "country_code": "CYP",
+    "year": 2024,
+    "value": 5.942
+  },
+  {
+    "country_code": "CZE",
+    "year": 2011,
+    "value": 6.36
+  },
+  {
+    "country_code": "CZE",
+    "year": 2012,
+    "value": 6.29
+  },
+  {
+    "country_code": "CZE",
+    "year": 2014,
+    "value": 6.505
+  },
+  {
+    "country_code": "CZE",
+    "year": 2015,
+    "value": 6.596
+  },
+  {
+    "country_code": "CZE",
+    "year": 2016,
+    "value": 6.609
+  },
+  {
+    "country_code": "CZE",
+    "year": 2017,
+    "value": 6.711
+  },
+  {
+    "country_code": "CZE",
+    "year": 2018,
+    "value": 6.852
+  },
+  {
+    "country_code": "CZE",
+    "year": 2019,
+    "value": 6.9109
+  },
+  {
+    "country_code": "CZE",
+    "year": 2020,
+    "value": 6.965
+  },
+  {
+    "country_code": "CZE",
+    "year": 2021,
+    "value": 6.92
+  },
+  {
+    "country_code": "CZE",
+    "year": 2022,
+    "value": 6.845
+  },
+  {
+    "country_code": "CZE",
+    "year": 2023,
+    "value": 6.822
+  },
+  {
+    "country_code": "CZE",
+    "year": 2024,
+    "value": 6.775
+  },
+  {
+    "country_code": "COD",
+    "year": 2011,
+    "value": 3.984
+  },
+  {
+    "country_code": "COD",
+    "year": 2012,
+    "value": 4.578
+  },
+  {
+    "country_code": "COD",
+    "year": 2014,
+    "value": 4.517
+  },
+  {
+    "country_code": "COD",
+    "year": 2015,
+    "value": 4.272
+  },
+  {
+    "country_code": "COD",
+    "year": 2016,
+    "value": 4.28
+  },
+  {
+    "country_code": "COD",
+    "year": 2017,
+    "value": 4.245
+  },
+  {
+    "country_code": "COD",
+    "year": 2018,
+    "value": 4.418
+  },
+  {
+    "country_code": "COD",
+    "year": 2019,
+    "value": 4.311
+  },
+  {
+    "country_code": "COD",
+    "year": 2022,
+    "value": 3.207
+  },
+  {
+    "country_code": "COD",
+    "year": 2023,
+    "value": 3.295
+  },
+  {
+    "country_code": "COD",
+    "year": 2024,
+    "value": 3.469
+  },
+  {
+    "country_code": "DNK",
+    "year": 2011,
+    "value": 7.856
+  },
+  {
+    "country_code": "DNK",
+    "year": 2012,
+    "value": 7.693
+  },
+  {
+    "country_code": "DNK",
+    "year": 2014,
+    "value": 7.527
+  },
+  {
+    "country_code": "DNK",
+    "year": 2015,
+    "value": 7.526
+  },
+  {
+    "country_code": "DNK",
+    "year": 2016,
+    "value": 7.522
+  },
+  {
+    "country_code": "DNK",
+    "year": 2017,
+    "value": 7.555
+  },
+  {
+    "country_code": "DNK",
+    "year": 2018,
+    "value": 7.6
+  },
+  {
+    "country_code": "DNK",
+    "year": 2019,
+    "value": 7.6456
+  },
+  {
+    "country_code": "DNK",
+    "year": 2020,
+    "value": 7.62
+  },
+  {
+    "country_code": "DNK",
+    "year": 2021,
+    "value": 7.636
+  },
+  {
+    "country_code": "DNK",
+    "year": 2022,
+    "value": 7.586
+  },
+  {
+    "country_code": "DNK",
+    "year": 2023,
+    "value": 7.583
+  },
+  {
+    "country_code": "DNK",
+    "year": 2024,
+    "value": 7.521
+  },
+  {
+    "country_code": "DJI",
+    "year": 2011,
+    "value": 4.957
+  },
+  {
+    "country_code": "DJI",
+    "year": 2012,
+    "value": 4.69
+  },
+  {
+    "country_code": "DJI",
+    "year": 2014,
+    "value": 4.369
+  },
+  {
+    "country_code": "DOM",
+    "year": 2011,
+    "value": 5.036
+  },
+  {
+    "country_code": "DOM",
+    "year": 2012,
+    "value": 4.963
+  },
+  {
+    "country_code": "DOM",
+    "year": 2014,
+    "value": 4.885
+  },
+  {
+    "country_code": "DOM",
+    "year": 2015,
+    "value": 5.155
+  },
+  {
+    "country_code": "DOM",
+    "year": 2016,
+    "value": 5.23
+  },
+  {
+    "country_code": "DOM",
+    "year": 2017,
+    "value": 5.302
+  },
+  {
+    "country_code": "DOM",
+    "year": 2018,
+    "value": 5.425
+  },
+  {
+    "country_code": "DOM",
+    "year": 2019,
+    "value": 5.6892
+  },
+  {
+    "country_code": "DOM",
+    "year": 2020,
+    "value": 5.545
+  },
+  {
+    "country_code": "DOM",
+    "year": 2021,
+    "value": 5.737
+  },
+  {
+    "country_code": "DOM",
+    "year": 2022,
+    "value": 5.569
+  },
+  {
+    "country_code": "DOM",
+    "year": 2023,
+    "value": 5.823
+  },
+  {
+    "country_code": "DOM",
+    "year": 2024,
+    "value": 5.846
+  },
+  {
+    "country_code": "ECU",
+    "year": 2011,
+    "value": 5.425
+  },
+  {
+    "country_code": "ECU",
+    "year": 2012,
+    "value": 5.865
+  },
+  {
+    "country_code": "ECU",
+    "year": 2014,
+    "value": 5.975
+  },
+  {
+    "country_code": "ECU",
+    "year": 2015,
+    "value": 5.976
+  },
+  {
+    "country_code": "ECU",
+    "year": 2016,
+    "value": 6.008
+  },
+  {
+    "country_code": "ECU",
+    "year": 2017,
+    "value": 5.973
+  },
+  {
+    "country_code": "ECU",
+    "year": 2018,
+    "value": 6.028
+  },
+  {
+    "country_code": "ECU",
+    "year": 2019,
+    "value": 5.9252
+  },
+  {
+    "country_code": "ECU",
+    "year": 2020,
+    "value": 5.764
+  },
+  {
+    "country_code": "ECU",
+    "year": 2021,
+    "value": 5.533
+  },
+  {
+    "country_code": "ECU",
+    "year": 2022,
+    "value": 5.559
+  },
+  {
+    "country_code": "ECU",
+    "year": 2023,
+    "value": 5.725
+  },
+  {
+    "country_code": "ECU",
+    "year": 2024,
+    "value": 5.965
+  },
+  {
+    "country_code": "EGY",
+    "year": 2011,
+    "value": 4.853
+  },
+  {
+    "country_code": "EGY",
+    "year": 2012,
+    "value": 4.273
+  },
+  {
+    "country_code": "EGY",
+    "year": 2014,
+    "value": 4.194
+  },
+  {
+    "country_code": "EGY",
+    "year": 2015,
+    "value": 4.362
+  },
+  {
+    "country_code": "EGY",
+    "year": 2016,
+    "value": 4.735
+  },
+  {
+    "country_code": "EGY",
+    "year": 2017,
+    "value": 4.419
+  },
+  {
+    "country_code": "EGY",
+    "year": 2018,
+    "value": 4.166
+  },
+  {
+    "country_code": "EGY",
+    "year": 2019,
+    "value": 4.1514
+  },
+  {
+    "country_code": "EGY",
+    "year": 2020,
+    "value": 4.283
+  },
+  {
+    "country_code": "EGY",
+    "year": 2021,
+    "value": 4.288
+  },
+  {
+    "country_code": "EGY",
+    "year": 2022,
+    "value": 4.17
+  },
+  {
+    "country_code": "EGY",
+    "year": 2023,
+    "value": 3.977
+  },
+  {
+    "country_code": "EGY",
+    "year": 2024,
+    "value": 3.817
+  },
+  {
+    "country_code": "SLV",
+    "year": 2011,
+    "value": 5.956
+  },
+  {
+    "country_code": "SLV",
+    "year": 2012,
+    "value": 5.809
+  },
+  {
+    "country_code": "SLV",
+    "year": 2014,
+    "value": 6.13
+  },
+  {
+    "country_code": "SLV",
+    "year": 2015,
+    "value": 6.068
+  },
+  {
+    "country_code": "SLV",
+    "year": 2016,
+    "value": 6.003
+  },
+  {
+    "country_code": "SLV",
+    "year": 2017,
+    "value": 6.167
+  },
+  {
+    "country_code": "SLV",
+    "year": 2018,
+    "value": 6.253
+  },
+  {
+    "country_code": "SLV",
+    "year": 2019,
+    "value": 6.3483
+  },
+  {
+    "country_code": "SLV",
+    "year": 2020,
+    "value": 6.061
+  },
+  {
+    "country_code": "SLV",
+    "year": 2021,
+    "value": 6.12
+  },
+  {
+    "country_code": "SLV",
+    "year": 2022,
+    "value": 6.122
+  },
+  {
+    "country_code": "SLV",
+    "year": 2023,
+    "value": 6.469
+  },
+  {
+    "country_code": "SLV",
+    "year": 2024,
+    "value": 6.492
+  },
+  {
+    "country_code": "EST",
+    "year": 2011,
+    "value": 5.33
+  },
+  {
+    "country_code": "EST",
+    "year": 2012,
+    "value": 5.426
+  },
+  {
+    "country_code": "EST",
+    "year": 2014,
+    "value": 5.429
+  },
+  {
+    "country_code": "EST",
+    "year": 2015,
+    "value": 5.517
+  },
+  {
+    "country_code": "EST",
+    "year": 2016,
+    "value": 5.611
+  },
+  {
+    "country_code": "EST",
+    "year": 2017,
+    "value": 5.739
+  },
+  {
+    "country_code": "EST",
+    "year": 2018,
+    "value": 5.893
+  },
+  {
+    "country_code": "EST",
+    "year": 2019,
+    "value": 6.0218
+  },
+  {
+    "country_code": "EST",
+    "year": 2020,
+    "value": 6.189
+  },
+  {
+    "country_code": "EST",
+    "year": 2021,
+    "value": 6.341
+  },
+  {
+    "country_code": "EST",
+    "year": 2022,
+    "value": 6.455
+  },
+  {
+    "country_code": "EST",
+    "year": 2023,
+    "value": 6.448
+  },
+  {
+    "country_code": "EST",
+    "year": 2024,
+    "value": 6.417
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2012,
+    "value": 4.867
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2014,
+    "value": 4.867
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2018,
+    "value": 4.212
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2019,
+    "value": 4.3081
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2020,
+    "value": 4.308
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2021,
+    "value": 4.396
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2023,
+    "value": 3.502
+  },
+  {
+    "country_code": "SWZ",
+    "year": 2024,
+    "value": 3.774
+  },
+  {
+    "country_code": "ETH",
+    "year": 2011,
+    "value": 4.064
+  },
+  {
+    "country_code": "ETH",
+    "year": 2012,
+    "value": 4.561
+  },
+  {
+    "country_code": "ETH",
+    "year": 2014,
+    "value": 4.512
+  },
+  {
+    "country_code": "ETH",
+    "year": 2015,
+    "value": 4.508
+  },
+  {
+    "country_code": "ETH",
+    "year": 2016,
+    "value": 4.46
+  },
+  {
+    "country_code": "ETH",
+    "year": 2017,
+    "value": 4.35
+  },
+  {
+    "country_code": "ETH",
+    "year": 2018,
+    "value": 4.286
+  },
+  {
+    "country_code": "ETH",
+    "year": 2019,
+    "value": 4.1862
+  },
+  {
+    "country_code": "ETH",
+    "year": 2020,
+    "value": 4.275
+  },
+  {
+    "country_code": "ETH",
+    "year": 2021,
+    "value": 4.241
+  },
+  {
+    "country_code": "ETH",
+    "year": 2022,
+    "value": 4.091
+  },
+  {
+    "country_code": "ETH",
+    "year": 2023,
+    "value": 3.861
+  },
+  {
+    "country_code": "ETH",
+    "year": 2024,
+    "value": 3.898
+  },
+  {
+    "country_code": "FIN",
+    "year": 2011,
+    "value": 7.579
+  },
+  {
+    "country_code": "FIN",
+    "year": 2012,
+    "value": 7.389
+  },
+  {
+    "country_code": "FIN",
+    "year": 2014,
+    "value": 7.406
+  },
+  {
+    "country_code": "FIN",
+    "year": 2015,
+    "value": 7.413
+  },
+  {
+    "country_code": "FIN",
+    "year": 2016,
+    "value": 7.469
+  },
+  {
+    "country_code": "FIN",
+    "year": 2017,
+    "value": 7.632
+  },
+  {
+    "country_code": "FIN",
+    "year": 2018,
+    "value": 7.769
+  },
+  {
+    "country_code": "FIN",
+    "year": 2019,
+    "value": 7.8087
+  },
+  {
+    "country_code": "FIN",
+    "year": 2020,
+    "value": 7.842
+  },
+  {
+    "country_code": "FIN",
+    "year": 2021,
+    "value": 7.821
+  },
+  {
+    "country_code": "FIN",
+    "year": 2022,
+    "value": 7.804
+  },
+  {
+    "country_code": "FIN",
+    "year": 2023,
+    "value": 7.741
+  },
+  {
+    "country_code": "FIN",
+    "year": 2024,
+    "value": 7.736
+  },
+  {
+    "country_code": "FRA",
+    "year": 2011,
+    "value": 6.746
+  },
+  {
+    "country_code": "FRA",
+    "year": 2012,
+    "value": 6.764
+  },
+  {
+    "country_code": "FRA",
+    "year": 2014,
+    "value": 6.575
+  },
+  {
+    "country_code": "FRA",
+    "year": 2015,
+    "value": 6.478
+  },
+  {
+    "country_code": "FRA",
+    "year": 2016,
+    "value": 6.442
+  },
+  {
+    "country_code": "FRA",
+    "year": 2017,
+    "value": 6.489
+  },
+  {
+    "country_code": "FRA",
+    "year": 2018,
+    "value": 6.592
+  },
+  {
+    "country_code": "FRA",
+    "year": 2019,
+    "value": 6.6638
+  },
+  {
+    "country_code": "FRA",
+    "year": 2020,
+    "value": 6.69
+  },
+  {
+    "country_code": "FRA",
+    "year": 2021,
+    "value": 6.687
+  },
+  {
+    "country_code": "FRA",
+    "year": 2022,
+    "value": 6.661
+  },
+  {
+    "country_code": "FRA",
+    "year": 2023,
+    "value": 6.609
+  },
+  {
+    "country_code": "FRA",
+    "year": 2024,
+    "value": 6.593
+  },
+  {
+    "country_code": "GAB",
+    "year": 2012,
+    "value": 4.114
+  },
+  {
+    "country_code": "GAB",
+    "year": 2014,
+    "value": 3.896
+  },
+  {
+    "country_code": "GAB",
+    "year": 2015,
+    "value": 4.121
+  },
+  {
+    "country_code": "GAB",
+    "year": 2016,
+    "value": 4.465
+  },
+  {
+    "country_code": "GAB",
+    "year": 2017,
+    "value": 4.758
+  },
+  {
+    "country_code": "GAB",
+    "year": 2018,
+    "value": 4.799
+  },
+  {
+    "country_code": "GAB",
+    "year": 2019,
+    "value": 4.8293
+  },
+  {
+    "country_code": "GAB",
+    "year": 2020,
+    "value": 4.852
+  },
+  {
+    "country_code": "GAB",
+    "year": 2021,
+    "value": 4.958
+  },
+  {
+    "country_code": "GAB",
+    "year": 2022,
+    "value": 5.035
+  },
+  {
+    "country_code": "GAB",
+    "year": 2023,
+    "value": 5.106
+  },
+  {
+    "country_code": "GAB",
+    "year": 2024,
+    "value": 5.12
+  },
+  {
+    "country_code": "GMB",
+    "year": 2018,
+    "value": 4.516
+  },
+  {
+    "country_code": "GMB",
+    "year": 2019,
+    "value": 4.7506
+  },
+  {
+    "country_code": "GMB",
+    "year": 2020,
+    "value": 5.051
+  },
+  {
+    "country_code": "GMB",
+    "year": 2021,
+    "value": 5.164
+  },
+  {
+    "country_code": "GMB",
+    "year": 2022,
+    "value": 4.279
+  },
+  {
+    "country_code": "GMB",
+    "year": 2023,
+    "value": 4.485
+  },
+  {
+    "country_code": "GMB",
+    "year": 2024,
+    "value": 4.423
+  },
+  {
+    "country_code": "GEO",
+    "year": 2011,
+    "value": 3.892
+  },
+  {
+    "country_code": "GEO",
+    "year": 2012,
+    "value": 4.187
+  },
+  {
+    "country_code": "GEO",
+    "year": 2014,
+    "value": 4.297
+  },
+  {
+    "country_code": "GEO",
+    "year": 2015,
+    "value": 4.252
+  },
+  {
+    "country_code": "GEO",
+    "year": 2016,
+    "value": 4.286
+  },
+  {
+    "country_code": "GEO",
+    "year": 2017,
+    "value": 4.34
+  },
+  {
+    "country_code": "GEO",
+    "year": 2018,
+    "value": 4.519
+  },
+  {
+    "country_code": "GEO",
+    "year": 2019,
+    "value": 4.6726
+  },
+  {
+    "country_code": "GEO",
+    "year": 2020,
+    "value": 4.891
+  },
+  {
+    "country_code": "GEO",
+    "year": 2021,
+    "value": 4.973
+  },
+  {
+    "country_code": "GEO",
+    "year": 2022,
+    "value": 5.109
+  },
+  {
+    "country_code": "GEO",
+    "year": 2023,
+    "value": 5.185
+  },
+  {
+    "country_code": "GEO",
+    "year": 2024,
+    "value": 5.4
+  },
+  {
+    "country_code": "DEU",
+    "year": 2011,
+    "value": 6.572
+  },
+  {
+    "country_code": "DEU",
+    "year": 2012,
+    "value": 6.672
+  },
+  {
+    "country_code": "DEU",
+    "year": 2014,
+    "value": 6.75
+  },
+  {
+    "country_code": "DEU",
+    "year": 2015,
+    "value": 6.994
+  },
+  {
+    "country_code": "DEU",
+    "year": 2016,
+    "value": 6.951
+  },
+  {
+    "country_code": "DEU",
+    "year": 2017,
+    "value": 6.965
+  },
+  {
+    "country_code": "DEU",
+    "year": 2018,
+    "value": 6.985
+  },
+  {
+    "country_code": "DEU",
+    "year": 2019,
+    "value": 7.0758
+  },
+  {
+    "country_code": "DEU",
+    "year": 2020,
+    "value": 7.155
+  },
+  {
+    "country_code": "DEU",
+    "year": 2021,
+    "value": 7.034
+  },
+  {
+    "country_code": "DEU",
+    "year": 2022,
+    "value": 6.892
+  },
+  {
+    "country_code": "DEU",
+    "year": 2023,
+    "value": 6.719
+  },
+  {
+    "country_code": "DEU",
+    "year": 2024,
+    "value": 6.753
+  },
+  {
+    "country_code": "GHA",
+    "year": 2011,
+    "value": 4.705
+  },
+  {
+    "country_code": "GHA",
+    "year": 2012,
+    "value": 5.091
+  },
+  {
+    "country_code": "GHA",
+    "year": 2014,
+    "value": 4.633
+  },
+  {
+    "country_code": "GHA",
+    "year": 2015,
+    "value": 4.276
+  },
+  {
+    "country_code": "GHA",
+    "year": 2016,
+    "value": 4.12
+  },
+  {
+    "country_code": "GHA",
+    "year": 2017,
+    "value": 4.657
+  },
+  {
+    "country_code": "GHA",
+    "year": 2018,
+    "value": 4.996
+  },
+  {
+    "country_code": "GHA",
+    "year": 2019,
+    "value": 5.148
+  },
+  {
+    "country_code": "GHA",
+    "year": 2020,
+    "value": 5.088
+  },
+  {
+    "country_code": "GHA",
+    "year": 2021,
+    "value": 4.872
+  },
+  {
+    "country_code": "GHA",
+    "year": 2022,
+    "value": 4.605
+  },
+  {
+    "country_code": "GHA",
+    "year": 2023,
+    "value": 4.289
+  },
+  {
+    "country_code": "GHA",
+    "year": 2024,
+    "value": 4.34
+  },
+  {
+    "country_code": "GRC",
+    "year": 2011,
+    "value": 6.133
+  },
+  {
+    "country_code": "GRC",
+    "year": 2012,
+    "value": 5.435
+  },
+  {
+    "country_code": "GRC",
+    "year": 2014,
+    "value": 4.857
+  },
+  {
+    "country_code": "GRC",
+    "year": 2015,
+    "value": 5.033
+  },
+  {
+    "country_code": "GRC",
+    "year": 2016,
+    "value": 5.227
+  },
+  {
+    "country_code": "GRC",
+    "year": 2017,
+    "value": 5.358
+  },
+  {
+    "country_code": "GRC",
+    "year": 2018,
+    "value": 5.287
+  },
+  {
+    "country_code": "GRC",
+    "year": 2019,
+    "value": 5.515
+  },
+  {
+    "country_code": "GRC",
+    "year": 2020,
+    "value": 5.723
+  },
+  {
+    "country_code": "GRC",
+    "year": 2021,
+    "value": 5.948
+  },
+  {
+    "country_code": "GRC",
+    "year": 2022,
+    "value": 5.931
+  },
+  {
+    "country_code": "GRC",
+    "year": 2023,
+    "value": 5.934
+  },
+  {
+    "country_code": "GRC",
+    "year": 2024,
+    "value": 5.776
+  },
+  {
+    "country_code": "GTM",
+    "year": 2011,
+    "value": 6.277
+  },
+  {
+    "country_code": "GTM",
+    "year": 2012,
+    "value": 5.965
+  },
+  {
+    "country_code": "GTM",
+    "year": 2014,
+    "value": 6.123
+  },
+  {
+    "country_code": "GTM",
+    "year": 2015,
+    "value": 6.324
+  },
+  {
+    "country_code": "GTM",
+    "year": 2016,
+    "value": 6.454
+  },
+  {
+    "country_code": "GTM",
+    "year": 2017,
+    "value": 6.382
+  },
+  {
+    "country_code": "GTM",
+    "year": 2018,
+    "value": 6.436
+  },
+  {
+    "country_code": "GTM",
+    "year": 2019,
+    "value": 6.3989
+  },
+  {
+    "country_code": "GTM",
+    "year": 2020,
+    "value": 6.435
+  },
+  {
+    "country_code": "GTM",
+    "year": 2021,
+    "value": 6.262
+  },
+  {
+    "country_code": "GTM",
+    "year": 2022,
+    "value": 6.15
+  },
+  {
+    "country_code": "GTM",
+    "year": 2023,
+    "value": 6.287
+  },
+  {
+    "country_code": "GTM",
+    "year": 2024,
+    "value": 6.362
+  },
+  {
+    "country_code": "GIN",
+    "year": 2011,
+    "value": 4.171
+  },
+  {
+    "country_code": "GIN",
+    "year": 2012,
+    "value": 3.847
+  },
+  {
+    "country_code": "GIN",
+    "year": 2014,
+    "value": 3.656
+  },
+  {
+    "country_code": "GIN",
+    "year": 2015,
+    "value": 3.607
+  },
+  {
+    "country_code": "GIN",
+    "year": 2016,
+    "value": 3.507
+  },
+  {
+    "country_code": "GIN",
+    "year": 2017,
+    "value": 3.964
+  },
+  {
+    "country_code": "GIN",
+    "year": 2018,
+    "value": 4.534
+  },
+  {
+    "country_code": "GIN",
+    "year": 2019,
+    "value": 4.9493
+  },
+  {
+    "country_code": "GIN",
+    "year": 2020,
+    "value": 4.984
+  },
+  {
+    "country_code": "GIN",
+    "year": 2021,
+    "value": 4.891
+  },
+  {
+    "country_code": "GIN",
+    "year": 2022,
+    "value": 5.072
+  },
+  {
+    "country_code": "GIN",
+    "year": 2023,
+    "value": 5.023
+  },
+  {
+    "country_code": "GIN",
+    "year": 2024,
+    "value": 4.929
+  },
+  {
+    "country_code": "GUY",
+    "year": 2011,
+    "value": 5.993
+  },
+  {
+    "country_code": "HTI",
+    "year": 2011,
+    "value": 3.789
+  },
+  {
+    "country_code": "HTI",
+    "year": 2012,
+    "value": 4.341
+  },
+  {
+    "country_code": "HTI",
+    "year": 2014,
+    "value": 4.518
+  },
+  {
+    "country_code": "HTI",
+    "year": 2015,
+    "value": 4.028
+  },
+  {
+    "country_code": "HTI",
+    "year": 2016,
+    "value": 3.603
+  },
+  {
+    "country_code": "HTI",
+    "year": 2017,
+    "value": 3.582
+  },
+  {
+    "country_code": "HTI",
+    "year": 2018,
+    "value": 3.597
+  },
+  {
+    "country_code": "HTI",
+    "year": 2019,
+    "value": 3.7208
+  },
+  {
+    "country_code": "HTI",
+    "year": 2020,
+    "value": 3.615
+  },
+  {
+    "country_code": "HND",
+    "year": 2011,
+    "value": 5.564
+  },
+  {
+    "country_code": "HND",
+    "year": 2012,
+    "value": 5.142
+  },
+  {
+    "country_code": "HND",
+    "year": 2014,
+    "value": 4.788
+  },
+  {
+    "country_code": "HND",
+    "year": 2015,
+    "value": 4.871
+  },
+  {
+    "country_code": "HND",
+    "year": 2016,
+    "value": 5.181
+  },
+  {
+    "country_code": "HND",
+    "year": 2017,
+    "value": 5.504
+  },
+  {
+    "country_code": "HND",
+    "year": 2018,
+    "value": 5.86
+  },
+  {
+    "country_code": "HND",
+    "year": 2019,
+    "value": 5.9532
+  },
+  {
+    "country_code": "HND",
+    "year": 2020,
+    "value": 5.919
+  },
+  {
+    "country_code": "HND",
+    "year": 2021,
+    "value": 6.022
+  },
+  {
+    "country_code": "HND",
+    "year": 2022,
+    "value": 6.023
+  },
+  {
+    "country_code": "HND",
+    "year": 2023,
+    "value": 5.968
+  },
+  {
+    "country_code": "HND",
+    "year": 2024,
+    "value": 5.964
+  },
+  {
+    "country_code": "HUN",
+    "year": 2011,
+    "value": 4.943
+  },
+  {
+    "country_code": "HUN",
+    "year": 2012,
+    "value": 4.775
+  },
+  {
+    "country_code": "HUN",
+    "year": 2014,
+    "value": 4.8
+  },
+  {
+    "country_code": "HUN",
+    "year": 2015,
+    "value": 5.145
+  },
+  {
+    "country_code": "HUN",
+    "year": 2016,
+    "value": 5.324
+  },
+  {
+    "country_code": "HUN",
+    "year": 2017,
+    "value": 5.62
+  },
+  {
+    "country_code": "HUN",
+    "year": 2018,
+    "value": 5.758
+  },
+  {
+    "country_code": "HUN",
+    "year": 2019,
+    "value": 6.0004
+  },
+  {
+    "country_code": "HUN",
+    "year": 2020,
+    "value": 5.992
+  },
+  {
+    "country_code": "HUN",
+    "year": 2021,
+    "value": 6.086
+  },
+  {
+    "country_code": "HUN",
+    "year": 2022,
+    "value": 6.041
+  },
+  {
+    "country_code": "HUN",
+    "year": 2023,
+    "value": 6.017
+  },
+  {
+    "country_code": "HUN",
+    "year": 2024,
+    "value": 5.915
+  },
+  {
+    "country_code": "ISL",
+    "year": 2011,
+    "value": 6.888
+  },
+  {
+    "country_code": "ISL",
+    "year": 2012,
+    "value": 7.355
+  },
+  {
+    "country_code": "ISL",
+    "year": 2014,
+    "value": 7.561
+  },
+  {
+    "country_code": "ISL",
+    "year": 2015,
+    "value": 7.501
+  },
+  {
+    "country_code": "ISL",
+    "year": 2016,
+    "value": 7.504
+  },
+  {
+    "country_code": "ISL",
+    "year": 2017,
+    "value": 7.495
+  },
+  {
+    "country_code": "ISL",
+    "year": 2018,
+    "value": 7.494
+  },
+  {
+    "country_code": "ISL",
+    "year": 2019,
+    "value": 7.5045
+  },
+  {
+    "country_code": "ISL",
+    "year": 2020,
+    "value": 7.554
+  },
+  {
+    "country_code": "ISL",
+    "year": 2021,
+    "value": 7.557
+  },
+  {
+    "country_code": "ISL",
+    "year": 2022,
+    "value": 7.53
+  },
+  {
+    "country_code": "ISL",
+    "year": 2023,
+    "value": 7.525
+  },
+  {
+    "country_code": "ISL",
+    "year": 2024,
+    "value": 7.515
+  },
+  {
+    "country_code": "IND",
+    "year": 2011,
+    "value": 4.975
+  },
+  {
+    "country_code": "IND",
+    "year": 2012,
+    "value": 4.772
+  },
+  {
+    "country_code": "IND",
+    "year": 2014,
+    "value": 4.565
+  },
+  {
+    "country_code": "IND",
+    "year": 2015,
+    "value": 4.404
+  },
+  {
+    "country_code": "IND",
+    "year": 2016,
+    "value": 4.315
+  },
+  {
+    "country_code": "IND",
+    "year": 2017,
+    "value": 4.19
+  },
+  {
+    "country_code": "IND",
+    "year": 2018,
+    "value": 4.015
+  },
+  {
+    "country_code": "IND",
+    "year": 2019,
+    "value": 3.5733
+  },
+  {
+    "country_code": "IND",
+    "year": 2020,
+    "value": 3.819
+  },
+  {
+    "country_code": "IND",
+    "year": 2021,
+    "value": 3.777
+  },
+  {
+    "country_code": "IND",
+    "year": 2022,
+    "value": 4.036
+  },
+  {
+    "country_code": "IND",
+    "year": 2023,
+    "value": 4.054
+  },
+  {
+    "country_code": "IND",
+    "year": 2024,
+    "value": 4.389
+  },
+  {
+    "country_code": "IDN",
+    "year": 2011,
+    "value": 5.159
+  },
+  {
+    "country_code": "IDN",
+    "year": 2012,
+    "value": 5.348
+  },
+  {
+    "country_code": "IDN",
+    "year": 2014,
+    "value": 5.399
+  },
+  {
+    "country_code": "IDN",
+    "year": 2015,
+    "value": 5.314
+  },
+  {
+    "country_code": "IDN",
+    "year": 2016,
+    "value": 5.262
+  },
+  {
+    "country_code": "IDN",
+    "year": 2017,
+    "value": 5.093
+  },
+  {
+    "country_code": "IDN",
+    "year": 2018,
+    "value": 5.192
+  },
+  {
+    "country_code": "IDN",
+    "year": 2019,
+    "value": 5.2856
+  },
+  {
+    "country_code": "IDN",
+    "year": 2020,
+    "value": 5.345
+  },
+  {
+    "country_code": "IDN",
+    "year": 2021,
+    "value": 5.24
+  },
+  {
+    "country_code": "IDN",
+    "year": 2022,
+    "value": 5.277
+  },
+  {
+    "country_code": "IDN",
+    "year": 2023,
+    "value": 5.568
+  },
+  {
+    "country_code": "IDN",
+    "year": 2024,
+    "value": 5.617
+  },
+  {
+    "country_code": "IRN",
+    "year": 2011,
+    "value": 5.149
+  },
+  {
+    "country_code": "IRN",
+    "year": 2012,
+    "value": 4.643
+  },
+  {
+    "country_code": "IRN",
+    "year": 2014,
+    "value": 4.686
+  },
+  {
+    "country_code": "IRN",
+    "year": 2015,
+    "value": 4.813
+  },
+  {
+    "country_code": "IRN",
+    "year": 2016,
+    "value": 4.692
+  },
+  {
+    "country_code": "IRN",
+    "year": 2017,
+    "value": 4.707
+  },
+  {
+    "country_code": "IRN",
+    "year": 2018,
+    "value": 4.548
+  },
+  {
+    "country_code": "IRN",
+    "year": 2019,
+    "value": 4.6724
+  },
+  {
+    "country_code": "IRN",
+    "year": 2020,
+    "value": 4.721
+  },
+  {
+    "country_code": "IRN",
+    "year": 2021,
+    "value": 4.888
+  },
+  {
+    "country_code": "IRN",
+    "year": 2022,
+    "value": 4.876
+  },
+  {
+    "country_code": "IRN",
+    "year": 2023,
+    "value": 4.923
+  },
+  {
+    "country_code": "IRN",
+    "year": 2024,
+    "value": 5.093
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2011,
+    "value": 4.882
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2012,
+    "value": 4.817
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2014,
+    "value": 4.677
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2015,
+    "value": 4.575
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2016,
+    "value": 4.497
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2017,
+    "value": 4.456
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2018,
+    "value": 4.437
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2019,
+    "value": 4.7848
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2020,
+    "value": 4.854
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2021,
+    "value": 4.941
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2022,
+    "value": 4.941
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2023,
+    "value": 5.166
+  },
+  {
+    "country_code": "IRQ",
+    "year": 2024,
+    "value": 4.976
+  },
+  {
+    "country_code": "IRL",
+    "year": 2011,
+    "value": 7.284
+  },
+  {
+    "country_code": "IRL",
+    "year": 2012,
+    "value": 7.076
+  },
+  {
+    "country_code": "IRL",
+    "year": 2014,
+    "value": 6.94
+  },
+  {
+    "country_code": "IRL",
+    "year": 2015,
+    "value": 6.907
+  },
+  {
+    "country_code": "IRL",
+    "year": 2016,
+    "value": 6.977
+  },
+  {
+    "country_code": "IRL",
+    "year": 2017,
+    "value": 6.977
+  },
+  {
+    "country_code": "IRL",
+    "year": 2018,
+    "value": 7.021
+  },
+  {
+    "country_code": "IRL",
+    "year": 2019,
+    "value": 7.0937
+  },
+  {
+    "country_code": "IRL",
+    "year": 2020,
+    "value": 7.085
+  },
+  {
+    "country_code": "IRL",
+    "year": 2021,
+    "value": 7.041
+  },
+  {
+    "country_code": "IRL",
+    "year": 2022,
+    "value": 6.911
+  },
+  {
+    "country_code": "IRL",
+    "year": 2023,
+    "value": 6.838
+  },
+  {
+    "country_code": "IRL",
+    "year": 2024,
+    "value": 6.889
+  },
+  {
+    "country_code": "ISR",
+    "year": 2011,
+    "value": 7.199
+  },
+  {
+    "country_code": "ISR",
+    "year": 2012,
+    "value": 7.301
+  },
+  {
+    "country_code": "ISR",
+    "year": 2014,
+    "value": 7.278
+  },
+  {
+    "country_code": "ISR",
+    "year": 2015,
+    "value": 7.267
+  },
+  {
+    "country_code": "ISR",
+    "year": 2016,
+    "value": 7.213
+  },
+  {
+    "country_code": "ISR",
+    "year": 2017,
+    "value": 7.19
+  },
+  {
+    "country_code": "ISR",
+    "year": 2018,
+    "value": 7.139
+  },
+  {
+    "country_code": "ISR",
+    "year": 2019,
+    "value": 7.1286
+  },
+  {
+    "country_code": "ISR",
+    "year": 2020,
+    "value": 7.157
+  },
+  {
+    "country_code": "ISR",
+    "year": 2021,
+    "value": 7.364
+  },
+  {
+    "country_code": "ISR",
+    "year": 2022,
+    "value": 7.473
+  },
+  {
+    "country_code": "ISR",
+    "year": 2023,
+    "value": 7.341
+  },
+  {
+    "country_code": "ISR",
+    "year": 2024,
+    "value": 7.234
+  },
+  {
+    "country_code": "ITA",
+    "year": 2011,
+    "value": 6.578
+  },
+  {
+    "country_code": "ITA",
+    "year": 2012,
+    "value": 6.021
+  },
+  {
+    "country_code": "ITA",
+    "year": 2014,
+    "value": 5.948
+  },
+  {
+    "country_code": "ITA",
+    "year": 2015,
+    "value": 5.977
+  },
+  {
+    "country_code": "ITA",
+    "year": 2016,
+    "value": 5.964
+  },
+  {
+    "country_code": "ITA",
+    "year": 2017,
+    "value": 6.0
+  },
+  {
+    "country_code": "ITA",
+    "year": 2018,
+    "value": 6.223
+  },
+  {
+    "country_code": "ITA",
+    "year": 2019,
+    "value": 6.3874
+  },
+  {
+    "country_code": "ITA",
+    "year": 2020,
+    "value": 6.483
+  },
+  {
+    "country_code": "ITA",
+    "year": 2021,
+    "value": 6.467
+  },
+  {
+    "country_code": "ITA",
+    "year": 2022,
+    "value": 6.405
+  },
+  {
+    "country_code": "ITA",
+    "year": 2023,
+    "value": 6.324
+  },
+  {
+    "country_code": "ITA",
+    "year": 2024,
+    "value": 6.415
+  },
+  {
+    "country_code": "JAM",
+    "year": 2011,
+    "value": 6.208
+  },
+  {
+    "country_code": "JAM",
+    "year": 2012,
+    "value": 5.374
+  },
+  {
+    "country_code": "JAM",
+    "year": 2014,
+    "value": 5.709
+  },
+  {
+    "country_code": "JAM",
+    "year": 2015,
+    "value": 5.51
+  },
+  {
+    "country_code": "JAM",
+    "year": 2016,
+    "value": 5.311
+  },
+  {
+    "country_code": "JAM",
+    "year": 2017,
+    "value": 5.89
+  },
+  {
+    "country_code": "JAM",
+    "year": 2018,
+    "value": 5.89
+  },
+  {
+    "country_code": "JAM",
+    "year": 2019,
+    "value": 5.8898
+  },
+  {
+    "country_code": "JAM",
+    "year": 2020,
+    "value": 6.309
+  },
+  {
+    "country_code": "JAM",
+    "year": 2021,
+    "value": 5.85
+  },
+  {
+    "country_code": "JAM",
+    "year": 2022,
+    "value": 5.703
+  },
+  {
+    "country_code": "JAM",
+    "year": 2023,
+    "value": 5.842
+  },
+  {
+    "country_code": "JAM",
+    "year": 2024,
+    "value": 5.87
+  },
+  {
+    "country_code": "JPN",
+    "year": 2011,
+    "value": 6.059
+  },
+  {
+    "country_code": "JPN",
+    "year": 2012,
+    "value": 6.064
+  },
+  {
+    "country_code": "JPN",
+    "year": 2014,
+    "value": 5.987
+  },
+  {
+    "country_code": "JPN",
+    "year": 2015,
+    "value": 5.921
+  },
+  {
+    "country_code": "JPN",
+    "year": 2016,
+    "value": 5.92
+  },
+  {
+    "country_code": "JPN",
+    "year": 2017,
+    "value": 5.915
+  },
+  {
+    "country_code": "JPN",
+    "year": 2018,
+    "value": 5.886
+  },
+  {
+    "country_code": "JPN",
+    "year": 2019,
+    "value": 5.8708
+  },
+  {
+    "country_code": "JPN",
+    "year": 2020,
+    "value": 5.94
+  },
+  {
+    "country_code": "JPN",
+    "year": 2021,
+    "value": 6.039
+  },
+  {
+    "country_code": "JPN",
+    "year": 2022,
+    "value": 6.129
+  },
+  {
+    "country_code": "JPN",
+    "year": 2023,
+    "value": 6.06
+  },
+  {
+    "country_code": "JPN",
+    "year": 2024,
+    "value": 6.147
+  },
+  {
+    "country_code": "JOR",
+    "year": 2011,
+    "value": 5.706
+  },
+  {
+    "country_code": "JOR",
+    "year": 2012,
+    "value": 5.414
+  },
+  {
+    "country_code": "JOR",
+    "year": 2014,
+    "value": 5.192
+  },
+  {
+    "country_code": "JOR",
+    "year": 2015,
+    "value": 5.303
+  },
+  {
+    "country_code": "JOR",
+    "year": 2016,
+    "value": 5.336
+  },
+  {
+    "country_code": "JOR",
+    "year": 2017,
+    "value": 5.161
+  },
+  {
+    "country_code": "JOR",
+    "year": 2018,
+    "value": 4.906
+  },
+  {
+    "country_code": "JOR",
+    "year": 2019,
+    "value": 4.6334
+  },
+  {
+    "country_code": "JOR",
+    "year": 2020,
+    "value": 4.395
+  },
+  {
+    "country_code": "JOR",
+    "year": 2021,
+    "value": 4.152
+  },
+  {
+    "country_code": "JOR",
+    "year": 2022,
+    "value": 4.12
+  },
+  {
+    "country_code": "JOR",
+    "year": 2023,
+    "value": 4.186
+  },
+  {
+    "country_code": "JOR",
+    "year": 2024,
+    "value": 4.31
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2011,
+    "value": 5.594
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2012,
+    "value": 5.671
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2014,
+    "value": 5.855
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2015,
+    "value": 5.919
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2016,
+    "value": 5.819
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2017,
+    "value": 5.79
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2018,
+    "value": 5.809
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2019,
+    "value": 6.0579
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2020,
+    "value": 6.152
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2021,
+    "value": 6.234
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2022,
+    "value": 6.144
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2023,
+    "value": 6.188
+  },
+  {
+    "country_code": "KAZ",
+    "year": 2024,
+    "value": 6.378
+  },
+  {
+    "country_code": "KEN",
+    "year": 2011,
+    "value": 4.18
+  },
+  {
+    "country_code": "KEN",
+    "year": 2012,
+    "value": 4.403
+  },
+  {
+    "country_code": "KEN",
+    "year": 2014,
+    "value": 4.419
+  },
+  {
+    "country_code": "KEN",
+    "year": 2015,
+    "value": 4.356
+  },
+  {
+    "country_code": "KEN",
+    "year": 2016,
+    "value": 4.553
+  },
+  {
+    "country_code": "KEN",
+    "year": 2017,
+    "value": 4.41
+  },
+  {
+    "country_code": "KEN",
+    "year": 2018,
+    "value": 4.509
+  },
+  {
+    "country_code": "KEN",
+    "year": 2019,
+    "value": 4.583
+  },
+  {
+    "country_code": "KEN",
+    "year": 2020,
+    "value": 4.607
+  },
+  {
+    "country_code": "KEN",
+    "year": 2021,
+    "value": 4.543
+  },
+  {
+    "country_code": "KEN",
+    "year": 2022,
+    "value": 4.487
+  },
+  {
+    "country_code": "KEN",
+    "year": 2023,
+    "value": 4.47
+  },
+  {
+    "country_code": "KEN",
+    "year": 2024,
+    "value": 4.51
+  },
+  {
+    "country_code": "KWT",
+    "year": 2011,
+    "value": 6.574
+  },
+  {
+    "country_code": "KWT",
+    "year": 2012,
+    "value": 6.515
+  },
+  {
+    "country_code": "KWT",
+    "year": 2014,
+    "value": 6.295
+  },
+  {
+    "country_code": "KWT",
+    "year": 2015,
+    "value": 6.239
+  },
+  {
+    "country_code": "KWT",
+    "year": 2016,
+    "value": 6.105
+  },
+  {
+    "country_code": "KWT",
+    "year": 2017,
+    "value": 6.083
+  },
+  {
+    "country_code": "KWT",
+    "year": 2018,
+    "value": 6.021
+  },
+  {
+    "country_code": "KWT",
+    "year": 2019,
+    "value": 6.1021
+  },
+  {
+    "country_code": "KWT",
+    "year": 2020,
+    "value": 6.106
+  },
+  {
+    "country_code": "KWT",
+    "year": 2021,
+    "value": 6.106
+  },
+  {
+    "country_code": "KWT",
+    "year": 2023,
+    "value": 6.951
+  },
+  {
+    "country_code": "KWT",
+    "year": 2024,
+    "value": 6.629
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2011,
+    "value": 4.828
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2012,
+    "value": 5.042
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2014,
+    "value": 5.286
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2015,
+    "value": 5.185
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2016,
+    "value": 5.004
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2017,
+    "value": 5.131
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2018,
+    "value": 5.261
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2019,
+    "value": 5.5415
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2020,
+    "value": 5.744
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2021,
+    "value": 5.828
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2022,
+    "value": 5.825
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2023,
+    "value": 5.714
+  },
+  {
+    "country_code": "KGZ",
+    "year": 2024,
+    "value": 5.858
+  },
+  {
+    "country_code": "LAO",
+    "year": 2011,
+    "value": 5.161
+  },
+  {
+    "country_code": "LAO",
+    "year": 2012,
+    "value": 4.787
+  },
+  {
+    "country_code": "LAO",
+    "year": 2014,
+    "value": 4.876
+  },
+  {
+    "country_code": "LAO",
+    "year": 2015,
+    "value": 4.876
+  },
+  {
+    "country_code": "LAO",
+    "year": 2017,
+    "value": 4.623
+  },
+  {
+    "country_code": "LAO",
+    "year": 2018,
+    "value": 4.796
+  },
+  {
+    "country_code": "LAO",
+    "year": 2019,
+    "value": 4.8886
+  },
+  {
+    "country_code": "LAO",
+    "year": 2020,
+    "value": 5.03
+  },
+  {
+    "country_code": "LAO",
+    "year": 2021,
+    "value": 5.14
+  },
+  {
+    "country_code": "LAO",
+    "year": 2022,
+    "value": 5.111
+  },
+  {
+    "country_code": "LAO",
+    "year": 2023,
+    "value": 5.139
+  },
+  {
+    "country_code": "LAO",
+    "year": 2024,
+    "value": 5.301
+  },
+  {
+    "country_code": "LVA",
+    "year": 2011,
+    "value": 4.762
+  },
+  {
+    "country_code": "LVA",
+    "year": 2012,
+    "value": 5.046
+  },
+  {
+    "country_code": "LVA",
+    "year": 2014,
+    "value": 5.098
+  },
+  {
+    "country_code": "LVA",
+    "year": 2015,
+    "value": 5.56
+  },
+  {
+    "country_code": "LVA",
+    "year": 2016,
+    "value": 5.85
+  },
+  {
+    "country_code": "LVA",
+    "year": 2017,
+    "value": 5.933
+  },
+  {
+    "country_code": "LVA",
+    "year": 2018,
+    "value": 5.94
+  },
+  {
+    "country_code": "LVA",
+    "year": 2019,
+    "value": 5.95
+  },
+  {
+    "country_code": "LVA",
+    "year": 2020,
+    "value": 6.032
+  },
+  {
+    "country_code": "LVA",
+    "year": 2021,
+    "value": 6.18
+  },
+  {
+    "country_code": "LVA",
+    "year": 2022,
+    "value": 6.213
+  },
+  {
+    "country_code": "LVA",
+    "year": 2023,
+    "value": 6.234
+  },
+  {
+    "country_code": "LVA",
+    "year": 2024,
+    "value": 6.207
+  },
+  {
+    "country_code": "LBN",
+    "year": 2011,
+    "value": 5.049
+  },
+  {
+    "country_code": "LBN",
+    "year": 2012,
+    "value": 4.931
+  },
+  {
+    "country_code": "LBN",
+    "year": 2014,
+    "value": 4.839
+  },
+  {
+    "country_code": "LBN",
+    "year": 2015,
+    "value": 5.129
+  },
+  {
+    "country_code": "LBN",
+    "year": 2016,
+    "value": 5.225
+  },
+  {
+    "country_code": "LBN",
+    "year": 2017,
+    "value": 5.199
+  },
+  {
+    "country_code": "LBN",
+    "year": 2018,
+    "value": 5.197
+  },
+  {
+    "country_code": "LBN",
+    "year": 2019,
+    "value": 4.7715
+  },
+  {
+    "country_code": "LBN",
+    "year": 2020,
+    "value": 4.584
+  },
+  {
+    "country_code": "LBN",
+    "year": 2021,
+    "value": 2.955
+  },
+  {
+    "country_code": "LBN",
+    "year": 2022,
+    "value": 2.392
+  },
+  {
+    "country_code": "LBN",
+    "year": 2023,
+    "value": 2.707
+  },
+  {
+    "country_code": "LBN",
+    "year": 2024,
+    "value": 3.188
+  },
+  {
+    "country_code": "LSO",
+    "year": 2012,
+    "value": 4.898
+  },
+  {
+    "country_code": "LSO",
+    "year": 2014,
+    "value": 4.898
+  },
+  {
+    "country_code": "LSO",
+    "year": 2016,
+    "value": 3.808
+  },
+  {
+    "country_code": "LSO",
+    "year": 2017,
+    "value": 3.808
+  },
+  {
+    "country_code": "LSO",
+    "year": 2018,
+    "value": 3.802
+  },
+  {
+    "country_code": "LSO",
+    "year": 2019,
+    "value": 3.6528
+  },
+  {
+    "country_code": "LSO",
+    "year": 2020,
+    "value": 3.512
+  },
+  {
+    "country_code": "LSO",
+    "year": 2021,
+    "value": 3.512
+  },
+  {
+    "country_code": "LSO",
+    "year": 2023,
+    "value": 3.186
+  },
+  {
+    "country_code": "LSO",
+    "year": 2024,
+    "value": 3.757
+  },
+  {
+    "country_code": "LBR",
+    "year": 2011,
+    "value": 4.04
+  },
+  {
+    "country_code": "LBR",
+    "year": 2012,
+    "value": 4.196
+  },
+  {
+    "country_code": "LBR",
+    "year": 2014,
+    "value": 4.571
+  },
+  {
+    "country_code": "LBR",
+    "year": 2015,
+    "value": 3.622
+  },
+  {
+    "country_code": "LBR",
+    "year": 2016,
+    "value": 3.533
+  },
+  {
+    "country_code": "LBR",
+    "year": 2017,
+    "value": 3.495
+  },
+  {
+    "country_code": "LBR",
+    "year": 2018,
+    "value": 3.975
+  },
+  {
+    "country_code": "LBR",
+    "year": 2019,
+    "value": 4.5579
+  },
+  {
+    "country_code": "LBR",
+    "year": 2020,
+    "value": 4.625
+  },
+  {
+    "country_code": "LBR",
+    "year": 2021,
+    "value": 5.122
+  },
+  {
+    "country_code": "LBR",
+    "year": 2022,
+    "value": 4.042
+  },
+  {
+    "country_code": "LBR",
+    "year": 2023,
+    "value": 4.269
+  },
+  {
+    "country_code": "LBR",
+    "year": 2024,
+    "value": 4.277
+  },
+  {
+    "country_code": "LBY",
+    "year": 2011,
+    "value": 5.178
+  },
+  {
+    "country_code": "LBY",
+    "year": 2012,
+    "value": 5.34
+  },
+  {
+    "country_code": "LBY",
+    "year": 2014,
+    "value": 5.754
+  },
+  {
+    "country_code": "LBY",
+    "year": 2015,
+    "value": 5.615
+  },
+  {
+    "country_code": "LBY",
+    "year": 2016,
+    "value": 5.525
+  },
+  {
+    "country_code": "LBY",
+    "year": 2017,
+    "value": 5.566
+  },
+  {
+    "country_code": "LBY",
+    "year": 2018,
+    "value": 5.525
+  },
+  {
+    "country_code": "LBY",
+    "year": 2019,
+    "value": 5.4888
+  },
+  {
+    "country_code": "LBY",
+    "year": 2020,
+    "value": 5.41
+  },
+  {
+    "country_code": "LBY",
+    "year": 2021,
+    "value": 5.33
+  },
+  {
+    "country_code": "LBY",
+    "year": 2023,
+    "value": 5.866
+  },
+  {
+    "country_code": "LBY",
+    "year": 2024,
+    "value": 5.82
+  },
+  {
+    "country_code": "LTU",
+    "year": 2011,
+    "value": 5.588
+  },
+  {
+    "country_code": "LTU",
+    "year": 2012,
+    "value": 5.426
+  },
+  {
+    "country_code": "LTU",
+    "year": 2014,
+    "value": 5.833
+  },
+  {
+    "country_code": "LTU",
+    "year": 2015,
+    "value": 5.813
+  },
+  {
+    "country_code": "LTU",
+    "year": 2016,
+    "value": 5.902
+  },
+  {
+    "country_code": "LTU",
+    "year": 2017,
+    "value": 5.952
+  },
+  {
+    "country_code": "LTU",
+    "year": 2018,
+    "value": 6.149
+  },
+  {
+    "country_code": "LTU",
+    "year": 2019,
+    "value": 6.2155
+  },
+  {
+    "country_code": "LTU",
+    "year": 2020,
+    "value": 6.255
+  },
+  {
+    "country_code": "LTU",
+    "year": 2021,
+    "value": 6.446
+  },
+  {
+    "country_code": "LTU",
+    "year": 2022,
+    "value": 6.763
+  },
+  {
+    "country_code": "LTU",
+    "year": 2023,
+    "value": 6.818
+  },
+  {
+    "country_code": "LTU",
+    "year": 2024,
+    "value": 6.829
+  },
+  {
+    "country_code": "LUX",
+    "year": 2011,
+    "value": 7.051
+  },
+  {
+    "country_code": "LUX",
+    "year": 2012,
+    "value": 7.054
+  },
+  {
+    "country_code": "LUX",
+    "year": 2014,
+    "value": 6.946
+  },
+  {
+    "country_code": "LUX",
+    "year": 2015,
+    "value": 6.871
+  },
+  {
+    "country_code": "LUX",
+    "year": 2016,
+    "value": 6.863
+  },
+  {
+    "country_code": "LUX",
+    "year": 2017,
+    "value": 6.91
+  },
+  {
+    "country_code": "LUX",
+    "year": 2018,
+    "value": 7.09
+  },
+  {
+    "country_code": "LUX",
+    "year": 2019,
+    "value": 7.2375
+  },
+  {
+    "country_code": "LUX",
+    "year": 2020,
+    "value": 7.324
+  },
+  {
+    "country_code": "LUX",
+    "year": 2021,
+    "value": 7.404
+  },
+  {
+    "country_code": "LUX",
+    "year": 2022,
+    "value": 7.228
+  },
+  {
+    "country_code": "LUX",
+    "year": 2023,
+    "value": 7.122
+  },
+  {
+    "country_code": "LUX",
+    "year": 2024,
+    "value": 7.122
+  },
+  {
+    "country_code": "MDG",
+    "year": 2011,
+    "value": 4.309
+  },
+  {
+    "country_code": "MDG",
+    "year": 2012,
+    "value": 3.966
+  },
+  {
+    "country_code": "MDG",
+    "year": 2014,
+    "value": 3.681
+  },
+  {
+    "country_code": "MDG",
+    "year": 2015,
+    "value": 3.695
+  },
+  {
+    "country_code": "MDG",
+    "year": 2016,
+    "value": 3.644
+  },
+  {
+    "country_code": "MDG",
+    "year": 2017,
+    "value": 3.774
+  },
+  {
+    "country_code": "MDG",
+    "year": 2018,
+    "value": 3.933
+  },
+  {
+    "country_code": "MDG",
+    "year": 2019,
+    "value": 4.1656
+  },
+  {
+    "country_code": "MDG",
+    "year": 2020,
+    "value": 4.208
+  },
+  {
+    "country_code": "MDG",
+    "year": 2021,
+    "value": 4.339
+  },
+  {
+    "country_code": "MDG",
+    "year": 2022,
+    "value": 4.019
+  },
+  {
+    "country_code": "MDG",
+    "year": 2023,
+    "value": 4.228
+  },
+  {
+    "country_code": "MDG",
+    "year": 2024,
+    "value": 4.157
+  },
+  {
+    "country_code": "MWI",
+    "year": 2011,
+    "value": 4.624
+  },
+  {
+    "country_code": "MWI",
+    "year": 2012,
+    "value": 4.113
+  },
+  {
+    "country_code": "MWI",
+    "year": 2014,
+    "value": 4.292
+  },
+  {
+    "country_code": "MWI",
+    "year": 2015,
+    "value": 4.156
+  },
+  {
+    "country_code": "MWI",
+    "year": 2016,
+    "value": 3.97
+  },
+  {
+    "country_code": "MWI",
+    "year": 2017,
+    "value": 3.587
+  },
+  {
+    "country_code": "MWI",
+    "year": 2018,
+    "value": 3.41
+  },
+  {
+    "country_code": "MWI",
+    "year": 2019,
+    "value": 3.538
+  },
+  {
+    "country_code": "MWI",
+    "year": 2020,
+    "value": 3.6
+  },
+  {
+    "country_code": "MWI",
+    "year": 2021,
+    "value": 3.75
+  },
+  {
+    "country_code": "MWI",
+    "year": 2022,
+    "value": 3.495
+  },
+  {
+    "country_code": "MWI",
+    "year": 2023,
+    "value": 3.421
+  },
+  {
+    "country_code": "MWI",
+    "year": 2024,
+    "value": 3.26
+  },
+  {
+    "country_code": "MYS",
+    "year": 2011,
+    "value": 5.823
+  },
+  {
+    "country_code": "MYS",
+    "year": 2012,
+    "value": 5.76
+  },
+  {
+    "country_code": "MYS",
+    "year": 2014,
+    "value": 5.77
+  },
+  {
+    "country_code": "MYS",
+    "year": 2015,
+    "value": 6.005
+  },
+  {
+    "country_code": "MYS",
+    "year": 2016,
+    "value": 6.084
+  },
+  {
+    "country_code": "MYS",
+    "year": 2017,
+    "value": 6.322
+  },
+  {
+    "country_code": "MYS",
+    "year": 2018,
+    "value": 5.339
+  },
+  {
+    "country_code": "MYS",
+    "year": 2019,
+    "value": 5.3843
+  },
+  {
+    "country_code": "MYS",
+    "year": 2020,
+    "value": 5.384
+  },
+  {
+    "country_code": "MYS",
+    "year": 2021,
+    "value": 5.711
+  },
+  {
+    "country_code": "MYS",
+    "year": 2022,
+    "value": 6.012
+  },
+  {
+    "country_code": "MYS",
+    "year": 2023,
+    "value": 5.975
+  },
+  {
+    "country_code": "MYS",
+    "year": 2024,
+    "value": 5.955
+  },
+  {
+    "country_code": "MDV",
+    "year": 2019,
+    "value": 5.1976
+  },
+  {
+    "country_code": "MDV",
+    "year": 2020,
+    "value": 5.198
+  },
+  {
+    "country_code": "MLI",
+    "year": 2011,
+    "value": 3.967
+  },
+  {
+    "country_code": "MLI",
+    "year": 2012,
+    "value": 4.247
+  },
+  {
+    "country_code": "MLI",
+    "year": 2014,
+    "value": 3.995
+  },
+  {
+    "country_code": "MLI",
+    "year": 2015,
+    "value": 4.073
+  },
+  {
+    "country_code": "MLI",
+    "year": 2016,
+    "value": 4.19
+  },
+  {
+    "country_code": "MLI",
+    "year": 2017,
+    "value": 4.447
+  },
+  {
+    "country_code": "MLI",
+    "year": 2018,
+    "value": 4.39
+  },
+  {
+    "country_code": "MLI",
+    "year": 2019,
+    "value": 4.7293
+  },
+  {
+    "country_code": "MLI",
+    "year": 2020,
+    "value": 4.723
+  },
+  {
+    "country_code": "MLI",
+    "year": 2021,
+    "value": 4.479
+  },
+  {
+    "country_code": "MLI",
+    "year": 2022,
+    "value": 4.198
+  },
+  {
+    "country_code": "MLI",
+    "year": 2023,
+    "value": 4.232
+  },
+  {
+    "country_code": "MLI",
+    "year": 2024,
+    "value": 4.345
+  },
+  {
+    "country_code": "MLT",
+    "year": 2011,
+    "value": 5.96
+  },
+  {
+    "country_code": "MLT",
+    "year": 2012,
+    "value": 5.964
+  },
+  {
+    "country_code": "MLT",
+    "year": 2014,
+    "value": 6.302
+  },
+  {
+    "country_code": "MLT",
+    "year": 2015,
+    "value": 6.488
+  },
+  {
+    "country_code": "MLT",
+    "year": 2016,
+    "value": 6.527
+  },
+  {
+    "country_code": "MLT",
+    "year": 2017,
+    "value": 6.627
+  },
+  {
+    "country_code": "MLT",
+    "year": 2018,
+    "value": 6.726
+  },
+  {
+    "country_code": "MLT",
+    "year": 2019,
+    "value": 6.7728
+  },
+  {
+    "country_code": "MLT",
+    "year": 2020,
+    "value": 6.602
+  },
+  {
+    "country_code": "MLT",
+    "year": 2021,
+    "value": 6.447
+  },
+  {
+    "country_code": "MLT",
+    "year": 2022,
+    "value": 6.3
+  },
+  {
+    "country_code": "MLT",
+    "year": 2023,
+    "value": 6.346
+  },
+  {
+    "country_code": "MLT",
+    "year": 2024,
+    "value": 6.316
+  },
+  {
+    "country_code": "MRT",
+    "year": 2011,
+    "value": 4.643
+  },
+  {
+    "country_code": "MRT",
+    "year": 2012,
+    "value": 4.758
+  },
+  {
+    "country_code": "MRT",
+    "year": 2014,
+    "value": 4.436
+  },
+  {
+    "country_code": "MRT",
+    "year": 2015,
+    "value": 4.201
+  },
+  {
+    "country_code": "MRT",
+    "year": 2016,
+    "value": 4.292
+  },
+  {
+    "country_code": "MRT",
+    "year": 2017,
+    "value": 4.356
+  },
+  {
+    "country_code": "MRT",
+    "year": 2018,
+    "value": 4.49
+  },
+  {
+    "country_code": "MRT",
+    "year": 2019,
+    "value": 4.3746
+  },
+  {
+    "country_code": "MRT",
+    "year": 2020,
+    "value": 4.227
+  },
+  {
+    "country_code": "MRT",
+    "year": 2021,
+    "value": 4.153
+  },
+  {
+    "country_code": "MRT",
+    "year": 2022,
+    "value": 4.724
+  },
+  {
+    "country_code": "MRT",
+    "year": 2023,
+    "value": 4.505
+  },
+  {
+    "country_code": "MRT",
+    "year": 2024,
+    "value": 4.542
+  },
+  {
+    "country_code": "MUS",
+    "year": 2011,
+    "value": 5.477
+  },
+  {
+    "country_code": "MUS",
+    "year": 2012,
+    "value": 5.477
+  },
+  {
+    "country_code": "MUS",
+    "year": 2014,
+    "value": 5.477
+  },
+  {
+    "country_code": "MUS",
+    "year": 2015,
+    "value": 5.648
+  },
+  {
+    "country_code": "MUS",
+    "year": 2016,
+    "value": 5.629
+  },
+  {
+    "country_code": "MUS",
+    "year": 2017,
+    "value": 5.891
+  },
+  {
+    "country_code": "MUS",
+    "year": 2018,
+    "value": 5.888
+  },
+  {
+    "country_code": "MUS",
+    "year": 2019,
+    "value": 6.1013
+  },
+  {
+    "country_code": "MUS",
+    "year": 2020,
+    "value": 6.049
+  },
+  {
+    "country_code": "MUS",
+    "year": 2021,
+    "value": 6.071
+  },
+  {
+    "country_code": "MUS",
+    "year": 2022,
+    "value": 5.902
+  },
+  {
+    "country_code": "MUS",
+    "year": 2023,
+    "value": 5.816
+  },
+  {
+    "country_code": "MUS",
+    "year": 2024,
+    "value": 5.832
+  },
+  {
+    "country_code": "MEX",
+    "year": 2011,
+    "value": 6.74
+  },
+  {
+    "country_code": "MEX",
+    "year": 2012,
+    "value": 7.088
+  },
+  {
+    "country_code": "MEX",
+    "year": 2014,
+    "value": 7.187
+  },
+  {
+    "country_code": "MEX",
+    "year": 2015,
+    "value": 6.778
+  },
+  {
+    "country_code": "MEX",
+    "year": 2016,
+    "value": 6.578
+  },
+  {
+    "country_code": "MEX",
+    "year": 2017,
+    "value": 6.488
+  },
+  {
+    "country_code": "MEX",
+    "year": 2018,
+    "value": 6.595
+  },
+  {
+    "country_code": "MEX",
+    "year": 2019,
+    "value": 6.465
+  },
+  {
+    "country_code": "MEX",
+    "year": 2020,
+    "value": 6.317
+  },
+  {
+    "country_code": "MEX",
+    "year": 2021,
+    "value": 6.128
+  },
+  {
+    "country_code": "MEX",
+    "year": 2022,
+    "value": 6.33
+  },
+  {
+    "country_code": "MEX",
+    "year": 2023,
+    "value": 6.678
+  },
+  {
+    "country_code": "MEX",
+    "year": 2024,
+    "value": 6.979
+  },
+  {
+    "country_code": "MDA",
+    "year": 2011,
+    "value": 5.305
+  },
+  {
+    "country_code": "MDA",
+    "year": 2012,
+    "value": 5.791
+  },
+  {
+    "country_code": "MDA",
+    "year": 2014,
+    "value": 5.889
+  },
+  {
+    "country_code": "MDA",
+    "year": 2015,
+    "value": 5.897
+  },
+  {
+    "country_code": "MDA",
+    "year": 2016,
+    "value": 5.838
+  },
+  {
+    "country_code": "MDA",
+    "year": 2017,
+    "value": 5.64
+  },
+  {
+    "country_code": "MDA",
+    "year": 2018,
+    "value": 5.529
+  },
+  {
+    "country_code": "MDA",
+    "year": 2019,
+    "value": 5.6075
+  },
+  {
+    "country_code": "MDA",
+    "year": 2020,
+    "value": 5.766
+  },
+  {
+    "country_code": "MDA",
+    "year": 2021,
+    "value": 5.857
+  },
+  {
+    "country_code": "MDA",
+    "year": 2022,
+    "value": 5.819
+  },
+  {
+    "country_code": "MDA",
+    "year": 2023,
+    "value": 5.816
+  },
+  {
+    "country_code": "MDA",
+    "year": 2024,
+    "value": 5.819
+  },
+  {
+    "country_code": "MNG",
+    "year": 2011,
+    "value": 4.562
+  },
+  {
+    "country_code": "MNG",
+    "year": 2012,
+    "value": 4.834
+  },
+  {
+    "country_code": "MNG",
+    "year": 2014,
+    "value": 4.874
+  },
+  {
+    "country_code": "MNG",
+    "year": 2015,
+    "value": 4.907
+  },
+  {
+    "country_code": "MNG",
+    "year": 2016,
+    "value": 4.955
+  },
+  {
+    "country_code": "MNG",
+    "year": 2017,
+    "value": 5.125
+  },
+  {
+    "country_code": "MNG",
+    "year": 2018,
+    "value": 5.285
+  },
+  {
+    "country_code": "MNG",
+    "year": 2019,
+    "value": 5.4562
+  },
+  {
+    "country_code": "MNG",
+    "year": 2020,
+    "value": 5.677
+  },
+  {
+    "country_code": "MNG",
+    "year": 2021,
+    "value": 5.761
+  },
+  {
+    "country_code": "MNG",
+    "year": 2022,
+    "value": 5.84
+  },
+  {
+    "country_code": "MNG",
+    "year": 2023,
+    "value": 5.696
+  },
+  {
+    "country_code": "MNG",
+    "year": 2024,
+    "value": 5.833
+  },
+  {
+    "country_code": "MNE",
+    "year": 2011,
+    "value": 5.147
+  },
+  {
+    "country_code": "MNE",
+    "year": 2012,
+    "value": 5.299
+  },
+  {
+    "country_code": "MNE",
+    "year": 2014,
+    "value": 5.192
+  },
+  {
+    "country_code": "MNE",
+    "year": 2015,
+    "value": 5.161
+  },
+  {
+    "country_code": "MNE",
+    "year": 2016,
+    "value": 5.237
+  },
+  {
+    "country_code": "MNE",
+    "year": 2017,
+    "value": 5.347
+  },
+  {
+    "country_code": "MNE",
+    "year": 2018,
+    "value": 5.523
+  },
+  {
+    "country_code": "MNE",
+    "year": 2019,
+    "value": 5.5461
+  },
+  {
+    "country_code": "MNE",
+    "year": 2020,
+    "value": 5.581
+  },
+  {
+    "country_code": "MNE",
+    "year": 2021,
+    "value": 5.547
+  },
+  {
+    "country_code": "MNE",
+    "year": 2022,
+    "value": 5.722
+  },
+  {
+    "country_code": "MNE",
+    "year": 2023,
+    "value": 5.707
+  },
+  {
+    "country_code": "MNE",
+    "year": 2024,
+    "value": 5.877
+  },
+  {
+    "country_code": "MAR",
+    "year": 2011,
+    "value": 4.793
+  },
+  {
+    "country_code": "MAR",
+    "year": 2012,
+    "value": 4.885
+  },
+  {
+    "country_code": "MAR",
+    "year": 2014,
+    "value": 5.013
+  },
+  {
+    "country_code": "MAR",
+    "year": 2015,
+    "value": 5.151
+  },
+  {
+    "country_code": "MAR",
+    "year": 2016,
+    "value": 5.235
+  },
+  {
+    "country_code": "MAR",
+    "year": 2017,
+    "value": 5.254
+  },
+  {
+    "country_code": "MAR",
+    "year": 2018,
+    "value": 5.208
+  },
+  {
+    "country_code": "MAR",
+    "year": 2019,
+    "value": 5.0948
+  },
+  {
+    "country_code": "MAR",
+    "year": 2020,
+    "value": 4.918
+  },
+  {
+    "country_code": "MAR",
+    "year": 2021,
+    "value": 5.06
+  },
+  {
+    "country_code": "MAR",
+    "year": 2022,
+    "value": 4.903
+  },
+  {
+    "country_code": "MAR",
+    "year": 2023,
+    "value": 4.795
+  },
+  {
+    "country_code": "MAR",
+    "year": 2024,
+    "value": 4.622
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2011,
+    "value": 4.693
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2012,
+    "value": 4.971
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2014,
+    "value": 4.971
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2016,
+    "value": 4.55
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2017,
+    "value": 4.417
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2018,
+    "value": 4.466
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2019,
+    "value": 4.6236
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2020,
+    "value": 4.794
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2021,
+    "value": 5.048
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2022,
+    "value": 4.954
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2023,
+    "value": 5.216
+  },
+  {
+    "country_code": "MOZ",
+    "year": 2024,
+    "value": 5.19
+  },
+  {
+    "country_code": "MMR",
+    "year": 2011,
+    "value": 5.322
+  },
+  {
+    "country_code": "MMR",
+    "year": 2012,
+    "value": 4.439
+  },
+  {
+    "country_code": "MMR",
+    "year": 2014,
+    "value": 4.307
+  },
+  {
+    "country_code": "MMR",
+    "year": 2015,
+    "value": 4.395
+  },
+  {
+    "country_code": "MMR",
+    "year": 2016,
+    "value": 4.545
+  },
+  {
+    "country_code": "MMR",
+    "year": 2017,
+    "value": 4.308
+  },
+  {
+    "country_code": "MMR",
+    "year": 2018,
+    "value": 4.36
+  },
+  {
+    "country_code": "MMR",
+    "year": 2019,
+    "value": 4.308
+  },
+  {
+    "country_code": "MMR",
+    "year": 2020,
+    "value": 4.426
+  },
+  {
+    "country_code": "MMR",
+    "year": 2021,
+    "value": 4.394
+  },
+  {
+    "country_code": "MMR",
+    "year": 2022,
+    "value": 4.372
+  },
+  {
+    "country_code": "MMR",
+    "year": 2023,
+    "value": 4.354
+  },
+  {
+    "country_code": "MMR",
+    "year": 2024,
+    "value": 4.321
+  },
+  {
+    "country_code": "NAM",
+    "year": 2011,
+    "value": 4.886
+  },
+  {
+    "country_code": "NAM",
+    "year": 2015,
+    "value": 4.574
+  },
+  {
+    "country_code": "NAM",
+    "year": 2016,
+    "value": 4.574
+  },
+  {
+    "country_code": "NAM",
+    "year": 2017,
+    "value": 4.441
+  },
+  {
+    "country_code": "NAM",
+    "year": 2018,
+    "value": 4.639
+  },
+  {
+    "country_code": "NAM",
+    "year": 2019,
+    "value": 4.5711
+  },
+  {
+    "country_code": "NAM",
+    "year": 2020,
+    "value": 4.574
+  },
+  {
+    "country_code": "NAM",
+    "year": 2021,
+    "value": 4.459
+  },
+  {
+    "country_code": "NAM",
+    "year": 2022,
+    "value": 4.631
+  },
+  {
+    "country_code": "NAM",
+    "year": 2023,
+    "value": 4.832
+  },
+  {
+    "country_code": "NAM",
+    "year": 2024,
+    "value": 4.911
+  },
+  {
+    "country_code": "NPL",
+    "year": 2011,
+    "value": 4.474
+  },
+  {
+    "country_code": "NPL",
+    "year": 2012,
+    "value": 4.156
+  },
+  {
+    "country_code": "NPL",
+    "year": 2014,
+    "value": 4.514
+  },
+  {
+    "country_code": "NPL",
+    "year": 2015,
+    "value": 4.793
+  },
+  {
+    "country_code": "NPL",
+    "year": 2016,
+    "value": 4.962
+  },
+  {
+    "country_code": "NPL",
+    "year": 2017,
+    "value": 4.88
+  },
+  {
+    "country_code": "NPL",
+    "year": 2018,
+    "value": 4.913
+  },
+  {
+    "country_code": "NPL",
+    "year": 2019,
+    "value": 5.1372
+  },
+  {
+    "country_code": "NPL",
+    "year": 2020,
+    "value": 5.269
+  },
+  {
+    "country_code": "NPL",
+    "year": 2021,
+    "value": 5.377
+  },
+  {
+    "country_code": "NPL",
+    "year": 2022,
+    "value": 5.36
+  },
+  {
+    "country_code": "NPL",
+    "year": 2023,
+    "value": 5.158
+  },
+  {
+    "country_code": "NPL",
+    "year": 2024,
+    "value": 5.311
+  },
+  {
+    "country_code": "NLD",
+    "year": 2011,
+    "value": 7.512
+  },
+  {
+    "country_code": "NLD",
+    "year": 2012,
+    "value": 7.512
+  },
+  {
+    "country_code": "NLD",
+    "year": 2014,
+    "value": 7.378
+  },
+  {
+    "country_code": "NLD",
+    "year": 2015,
+    "value": 7.339
+  },
+  {
+    "country_code": "NLD",
+    "year": 2016,
+    "value": 7.377
+  },
+  {
+    "country_code": "NLD",
+    "year": 2017,
+    "value": 7.441
+  },
+  {
+    "country_code": "NLD",
+    "year": 2018,
+    "value": 7.488
+  },
+  {
+    "country_code": "NLD",
+    "year": 2019,
+    "value": 7.4489
+  },
+  {
+    "country_code": "NLD",
+    "year": 2020,
+    "value": 7.464
+  },
+  {
+    "country_code": "NLD",
+    "year": 2021,
+    "value": 7.415
+  },
+  {
+    "country_code": "NLD",
+    "year": 2022,
+    "value": 7.403
+  },
+  {
+    "country_code": "NLD",
+    "year": 2023,
+    "value": 7.319
+  },
+  {
+    "country_code": "NLD",
+    "year": 2024,
+    "value": 7.306
+  },
+  {
+    "country_code": "NZL",
+    "year": 2011,
+    "value": 7.372
+  },
+  {
+    "country_code": "NZL",
+    "year": 2012,
+    "value": 7.221
+  },
+  {
+    "country_code": "NZL",
+    "year": 2014,
+    "value": 7.286
+  },
+  {
+    "country_code": "NZL",
+    "year": 2015,
+    "value": 7.334
+  },
+  {
+    "country_code": "NZL",
+    "year": 2016,
+    "value": 7.314
+  },
+  {
+    "country_code": "NZL",
+    "year": 2017,
+    "value": 7.324
+  },
+  {
+    "country_code": "NZL",
+    "year": 2018,
+    "value": 7.307
+  },
+  {
+    "country_code": "NZL",
+    "year": 2019,
+    "value": 7.2996
+  },
+  {
+    "country_code": "NZL",
+    "year": 2020,
+    "value": 7.277
+  },
+  {
+    "country_code": "NZL",
+    "year": 2021,
+    "value": 7.2
+  },
+  {
+    "country_code": "NZL",
+    "year": 2022,
+    "value": 7.123
+  },
+  {
+    "country_code": "NZL",
+    "year": 2023,
+    "value": 7.029
+  },
+  {
+    "country_code": "NZL",
+    "year": 2024,
+    "value": 6.952
+  },
+  {
+    "country_code": "NIC",
+    "year": 2011,
+    "value": 5.115
+  },
+  {
+    "country_code": "NIC",
+    "year": 2012,
+    "value": 5.507
+  },
+  {
+    "country_code": "NIC",
+    "year": 2014,
+    "value": 5.828
+  },
+  {
+    "country_code": "NIC",
+    "year": 2015,
+    "value": 5.992
+  },
+  {
+    "country_code": "NIC",
+    "year": 2016,
+    "value": 6.071
+  },
+  {
+    "country_code": "NIC",
+    "year": 2017,
+    "value": 6.141
+  },
+  {
+    "country_code": "NIC",
+    "year": 2018,
+    "value": 6.105
+  },
+  {
+    "country_code": "NIC",
+    "year": 2019,
+    "value": 6.1371
+  },
+  {
+    "country_code": "NIC",
+    "year": 2020,
+    "value": 5.972
+  },
+  {
+    "country_code": "NIC",
+    "year": 2021,
+    "value": 6.165
+  },
+  {
+    "country_code": "NIC",
+    "year": 2022,
+    "value": 6.259
+  },
+  {
+    "country_code": "NIC",
+    "year": 2023,
+    "value": 6.284
+  },
+  {
+    "country_code": "NIC",
+    "year": 2024,
+    "value": 6.33
+  },
+  {
+    "country_code": "NER",
+    "year": 2011,
+    "value": 4.122
+  },
+  {
+    "country_code": "NER",
+    "year": 2012,
+    "value": 4.152
+  },
+  {
+    "country_code": "NER",
+    "year": 2014,
+    "value": 3.845
+  },
+  {
+    "country_code": "NER",
+    "year": 2015,
+    "value": 3.856
+  },
+  {
+    "country_code": "NER",
+    "year": 2016,
+    "value": 4.028
+  },
+  {
+    "country_code": "NER",
+    "year": 2017,
+    "value": 4.166
+  },
+  {
+    "country_code": "NER",
+    "year": 2018,
+    "value": 4.628
+  },
+  {
+    "country_code": "NER",
+    "year": 2019,
+    "value": 4.9096
+  },
+  {
+    "country_code": "NER",
+    "year": 2020,
+    "value": 5.074
+  },
+  {
+    "country_code": "NER",
+    "year": 2021,
+    "value": 5.003
+  },
+  {
+    "country_code": "NER",
+    "year": 2022,
+    "value": 4.501
+  },
+  {
+    "country_code": "NER",
+    "year": 2023,
+    "value": 4.556
+  },
+  {
+    "country_code": "NER",
+    "year": 2024,
+    "value": 4.725
+  },
+  {
+    "country_code": "NGA",
+    "year": 2011,
+    "value": 4.856
+  },
+  {
+    "country_code": "NGA",
+    "year": 2012,
+    "value": 5.248
+  },
+  {
+    "country_code": "NGA",
+    "year": 2014,
+    "value": 5.268
+  },
+  {
+    "country_code": "NGA",
+    "year": 2015,
+    "value": 4.875
+  },
+  {
+    "country_code": "NGA",
+    "year": 2016,
+    "value": 5.074
+  },
+  {
+    "country_code": "NGA",
+    "year": 2017,
+    "value": 5.155
+  },
+  {
+    "country_code": "NGA",
+    "year": 2018,
+    "value": 5.265
+  },
+  {
+    "country_code": "NGA",
+    "year": 2019,
+    "value": 4.7241
+  },
+  {
+    "country_code": "NGA",
+    "year": 2020,
+    "value": 4.759
+  },
+  {
+    "country_code": "NGA",
+    "year": 2021,
+    "value": 4.552
+  },
+  {
+    "country_code": "NGA",
+    "year": 2022,
+    "value": 4.981
+  },
+  {
+    "country_code": "NGA",
+    "year": 2023,
+    "value": 4.881
+  },
+  {
+    "country_code": "NGA",
+    "year": 2024,
+    "value": 4.885
+  },
+  {
+    "country_code": "MKD",
+    "year": 2011,
+    "value": 4.369
+  },
+  {
+    "country_code": "MKD",
+    "year": 2012,
+    "value": 4.574
+  },
+  {
+    "country_code": "MKD",
+    "year": 2014,
+    "value": 5.007
+  },
+  {
+    "country_code": "MKD",
+    "year": 2015,
+    "value": 5.121
+  },
+  {
+    "country_code": "MKD",
+    "year": 2016,
+    "value": 5.175
+  },
+  {
+    "country_code": "MKD",
+    "year": 2017,
+    "value": 5.185
+  },
+  {
+    "country_code": "MKD",
+    "year": 2018,
+    "value": 5.274
+  },
+  {
+    "country_code": "MKD",
+    "year": 2019,
+    "value": 5.1598
+  },
+  {
+    "country_code": "MKD",
+    "year": 2020,
+    "value": 5.101
+  },
+  {
+    "country_code": "MKD",
+    "year": 2021,
+    "value": 5.199
+  },
+  {
+    "country_code": "MKD",
+    "year": 2022,
+    "value": 5.254
+  },
+  {
+    "country_code": "MKD",
+    "year": 2023,
+    "value": 5.369
+  },
+  {
+    "country_code": "MKD",
+    "year": 2024,
+    "value": 5.503
+  },
+  {
+    "country_code": "NOR",
+    "year": 2011,
+    "value": 7.524
+  },
+  {
+    "country_code": "NOR",
+    "year": 2012,
+    "value": 7.655
+  },
+  {
+    "country_code": "NOR",
+    "year": 2014,
+    "value": 7.522
+  },
+  {
+    "country_code": "NOR",
+    "year": 2015,
+    "value": 7.498
+  },
+  {
+    "country_code": "NOR",
+    "year": 2016,
+    "value": 7.537
+  },
+  {
+    "country_code": "NOR",
+    "year": 2017,
+    "value": 7.594
+  },
+  {
+    "country_code": "NOR",
+    "year": 2018,
+    "value": 7.554
+  },
+  {
+    "country_code": "NOR",
+    "year": 2019,
+    "value": 7.488
+  },
+  {
+    "country_code": "NOR",
+    "year": 2020,
+    "value": 7.392
+  },
+  {
+    "country_code": "NOR",
+    "year": 2021,
+    "value": 7.365
+  },
+  {
+    "country_code": "NOR",
+    "year": 2022,
+    "value": 7.315
+  },
+  {
+    "country_code": "NOR",
+    "year": 2023,
+    "value": 7.302
+  },
+  {
+    "country_code": "NOR",
+    "year": 2024,
+    "value": 7.262
+  },
+  {
+    "country_code": "OMN",
+    "year": 2012,
+    "value": 6.853
+  },
+  {
+    "country_code": "OMN",
+    "year": 2014,
+    "value": 6.853
+  },
+  {
+    "country_code": "OMN",
+    "year": 2024,
+    "value": 6.197
+  },
+  {
+    "country_code": "PAK",
+    "year": 2011,
+    "value": 5.149
+  },
+  {
+    "country_code": "PAK",
+    "year": 2012,
+    "value": 5.292
+  },
+  {
+    "country_code": "PAK",
+    "year": 2014,
+    "value": 5.194
+  },
+  {
+    "country_code": "PAK",
+    "year": 2015,
+    "value": 5.132
+  },
+  {
+    "country_code": "PAK",
+    "year": 2016,
+    "value": 5.269
+  },
+  {
+    "country_code": "PAK",
+    "year": 2017,
+    "value": 5.472
+  },
+  {
+    "country_code": "PAK",
+    "year": 2018,
+    "value": 5.653
+  },
+  {
+    "country_code": "PAK",
+    "year": 2019,
+    "value": 5.6933
+  },
+  {
+    "country_code": "PAK",
+    "year": 2020,
+    "value": 4.934
+  },
+  {
+    "country_code": "PAK",
+    "year": 2021,
+    "value": 4.516
+  },
+  {
+    "country_code": "PAK",
+    "year": 2022,
+    "value": 4.555
+  },
+  {
+    "country_code": "PAK",
+    "year": 2023,
+    "value": 4.657
+  },
+  {
+    "country_code": "PAK",
+    "year": 2024,
+    "value": 4.768
+  },
+  {
+    "country_code": "PAN",
+    "year": 2011,
+    "value": 6.863
+  },
+  {
+    "country_code": "PAN",
+    "year": 2012,
+    "value": 7.143
+  },
+  {
+    "country_code": "PAN",
+    "year": 2014,
+    "value": 6.786
+  },
+  {
+    "country_code": "PAN",
+    "year": 2015,
+    "value": 6.701
+  },
+  {
+    "country_code": "PAN",
+    "year": 2016,
+    "value": 6.452
+  },
+  {
+    "country_code": "PAN",
+    "year": 2017,
+    "value": 6.43
+  },
+  {
+    "country_code": "PAN",
+    "year": 2018,
+    "value": 6.321
+  },
+  {
+    "country_code": "PAN",
+    "year": 2019,
+    "value": 6.3048
+  },
+  {
+    "country_code": "PAN",
+    "year": 2020,
+    "value": 6.18
+  },
+  {
+    "country_code": "PAN",
+    "year": 2021,
+    "value": 6.309
+  },
+  {
+    "country_code": "PAN",
+    "year": 2022,
+    "value": 6.265
+  },
+  {
+    "country_code": "PAN",
+    "year": 2023,
+    "value": 6.358
+  },
+  {
+    "country_code": "PAN",
+    "year": 2024,
+    "value": 6.407
+  },
+  {
+    "country_code": "PRY",
+    "year": 2011,
+    "value": 5.398
+  },
+  {
+    "country_code": "PRY",
+    "year": 2012,
+    "value": 5.779
+  },
+  {
+    "country_code": "PRY",
+    "year": 2014,
+    "value": 5.878
+  },
+  {
+    "country_code": "PRY",
+    "year": 2015,
+    "value": 5.538
+  },
+  {
+    "country_code": "PRY",
+    "year": 2016,
+    "value": 5.493
+  },
+  {
+    "country_code": "PRY",
+    "year": 2017,
+    "value": 5.681
+  },
+  {
+    "country_code": "PRY",
+    "year": 2018,
+    "value": 5.743
+  },
+  {
+    "country_code": "PRY",
+    "year": 2019,
+    "value": 5.6921
+  },
+  {
+    "country_code": "PRY",
+    "year": 2020,
+    "value": 5.653
+  },
+  {
+    "country_code": "PRY",
+    "year": 2021,
+    "value": 5.578
+  },
+  {
+    "country_code": "PRY",
+    "year": 2022,
+    "value": 5.738
+  },
+  {
+    "country_code": "PRY",
+    "year": 2023,
+    "value": 5.977
+  },
+  {
+    "country_code": "PRY",
+    "year": 2024,
+    "value": 6.172
+  },
+  {
+    "country_code": "PER",
+    "year": 2011,
+    "value": 5.258
+  },
+  {
+    "country_code": "PER",
+    "year": 2012,
+    "value": 5.776
+  },
+  {
+    "country_code": "PER",
+    "year": 2014,
+    "value": 5.824
+  },
+  {
+    "country_code": "PER",
+    "year": 2015,
+    "value": 5.743
+  },
+  {
+    "country_code": "PER",
+    "year": 2016,
+    "value": 5.715
+  },
+  {
+    "country_code": "PER",
+    "year": 2017,
+    "value": 5.663
+  },
+  {
+    "country_code": "PER",
+    "year": 2018,
+    "value": 5.697
+  },
+  {
+    "country_code": "PER",
+    "year": 2019,
+    "value": 5.7968
+  },
+  {
+    "country_code": "PER",
+    "year": 2020,
+    "value": 5.84
+  },
+  {
+    "country_code": "PER",
+    "year": 2021,
+    "value": 5.559
+  },
+  {
+    "country_code": "PER",
+    "year": 2022,
+    "value": 5.526
+  },
+  {
+    "country_code": "PER",
+    "year": 2023,
+    "value": 5.841
+  },
+  {
+    "country_code": "PER",
+    "year": 2024,
+    "value": 5.947
+  },
+  {
+    "country_code": "PHL",
+    "year": 2011,
+    "value": 4.825
+  },
+  {
+    "country_code": "PHL",
+    "year": 2012,
+    "value": 4.985
+  },
+  {
+    "country_code": "PHL",
+    "year": 2014,
+    "value": 5.073
+  },
+  {
+    "country_code": "PHL",
+    "year": 2015,
+    "value": 5.279
+  },
+  {
+    "country_code": "PHL",
+    "year": 2016,
+    "value": 5.43
+  },
+  {
+    "country_code": "PHL",
+    "year": 2017,
+    "value": 5.524
+  },
+  {
+    "country_code": "PHL",
+    "year": 2018,
+    "value": 5.631
+  },
+  {
+    "country_code": "PHL",
+    "year": 2019,
+    "value": 6.006
+  },
+  {
+    "country_code": "PHL",
+    "year": 2020,
+    "value": 5.88
+  },
+  {
+    "country_code": "PHL",
+    "year": 2021,
+    "value": 5.904
+  },
+  {
+    "country_code": "PHL",
+    "year": 2022,
+    "value": 5.523
+  },
+  {
+    "country_code": "PHL",
+    "year": 2023,
+    "value": 6.048
+  },
+  {
+    "country_code": "PHL",
+    "year": 2024,
+    "value": 6.107
+  },
+  {
+    "country_code": "POL",
+    "year": 2011,
+    "value": 5.803
+  },
+  {
+    "country_code": "POL",
+    "year": 2012,
+    "value": 5.822
+  },
+  {
+    "country_code": "POL",
+    "year": 2014,
+    "value": 5.791
+  },
+  {
+    "country_code": "POL",
+    "year": 2015,
+    "value": 5.835
+  },
+  {
+    "country_code": "POL",
+    "year": 2016,
+    "value": 5.973
+  },
+  {
+    "country_code": "POL",
+    "year": 2017,
+    "value": 6.123
+  },
+  {
+    "country_code": "POL",
+    "year": 2018,
+    "value": 6.182
+  },
+  {
+    "country_code": "POL",
+    "year": 2019,
+    "value": 6.1863
+  },
+  {
+    "country_code": "POL",
+    "year": 2020,
+    "value": 6.166
+  },
+  {
+    "country_code": "POL",
+    "year": 2021,
+    "value": 6.123
+  },
+  {
+    "country_code": "POL",
+    "year": 2022,
+    "value": 6.26
+  },
+  {
+    "country_code": "POL",
+    "year": 2023,
+    "value": 6.442
+  },
+  {
+    "country_code": "POL",
+    "year": 2024,
+    "value": 6.673
+  },
+  {
+    "country_code": "PRT",
+    "year": 2011,
+    "value": 5.327
+  },
+  {
+    "country_code": "PRT",
+    "year": 2012,
+    "value": 5.101
+  },
+  {
+    "country_code": "PRT",
+    "year": 2014,
+    "value": 5.102
+  },
+  {
+    "country_code": "PRT",
+    "year": 2015,
+    "value": 5.123
+  },
+  {
+    "country_code": "PRT",
+    "year": 2016,
+    "value": 5.195
+  },
+  {
+    "country_code": "PRT",
+    "year": 2017,
+    "value": 5.41
+  },
+  {
+    "country_code": "PRT",
+    "year": 2018,
+    "value": 5.693
+  },
+  {
+    "country_code": "PRT",
+    "year": 2019,
+    "value": 5.9109
+  },
+  {
+    "country_code": "PRT",
+    "year": 2020,
+    "value": 5.929
+  },
+  {
+    "country_code": "PRT",
+    "year": 2021,
+    "value": 6.016
+  },
+  {
+    "country_code": "PRT",
+    "year": 2022,
+    "value": 5.968
+  },
+  {
+    "country_code": "PRT",
+    "year": 2023,
+    "value": 6.03
+  },
+  {
+    "country_code": "PRT",
+    "year": 2024,
+    "value": 6.013
+  },
+  {
+    "country_code": "QAT",
+    "year": 2011,
+    "value": 6.569
+  },
+  {
+    "country_code": "QAT",
+    "year": 2012,
+    "value": 6.666
+  },
+  {
+    "country_code": "QAT",
+    "year": 2014,
+    "value": 6.611
+  },
+  {
+    "country_code": "QAT",
+    "year": 2015,
+    "value": 6.375
+  },
+  {
+    "country_code": "QAT",
+    "year": 2016,
+    "value": 6.375
+  },
+  {
+    "country_code": "QAT",
+    "year": 2017,
+    "value": 6.374
+  },
+  {
+    "country_code": "QAT",
+    "year": 2018,
+    "value": 6.374
+  },
+  {
+    "country_code": "ROU",
+    "year": 2011,
+    "value": 5.178
+  },
+  {
+    "country_code": "ROU",
+    "year": 2012,
+    "value": 5.033
+  },
+  {
+    "country_code": "ROU",
+    "year": 2014,
+    "value": 5.124
+  },
+  {
+    "country_code": "ROU",
+    "year": 2015,
+    "value": 5.528
+  },
+  {
+    "country_code": "ROU",
+    "year": 2016,
+    "value": 5.825
+  },
+  {
+    "country_code": "ROU",
+    "year": 2017,
+    "value": 5.945
+  },
+  {
+    "country_code": "ROU",
+    "year": 2018,
+    "value": 6.07
+  },
+  {
+    "country_code": "ROU",
+    "year": 2019,
+    "value": 6.1237
+  },
+  {
+    "country_code": "ROU",
+    "year": 2020,
+    "value": 6.14
+  },
+  {
+    "country_code": "ROU",
+    "year": 2021,
+    "value": 6.477
+  },
+  {
+    "country_code": "ROU",
+    "year": 2022,
+    "value": 6.589
+  },
+  {
+    "country_code": "ROU",
+    "year": 2023,
+    "value": 6.491
+  },
+  {
+    "country_code": "ROU",
+    "year": 2024,
+    "value": 6.563
+  },
+  {
+    "country_code": "RUS",
+    "year": 2011,
+    "value": 5.284
+  },
+  {
+    "country_code": "RUS",
+    "year": 2012,
+    "value": 5.464
+  },
+  {
+    "country_code": "RUS",
+    "year": 2014,
+    "value": 5.716
+  },
+  {
+    "country_code": "RUS",
+    "year": 2015,
+    "value": 5.856
+  },
+  {
+    "country_code": "RUS",
+    "year": 2016,
+    "value": 5.963
+  },
+  {
+    "country_code": "RUS",
+    "year": 2017,
+    "value": 5.81
+  },
+  {
+    "country_code": "RUS",
+    "year": 2018,
+    "value": 5.648
+  },
+  {
+    "country_code": "RUS",
+    "year": 2019,
+    "value": 5.546
+  },
+  {
+    "country_code": "RUS",
+    "year": 2020,
+    "value": 5.477
+  },
+  {
+    "country_code": "RUS",
+    "year": 2021,
+    "value": 5.459
+  },
+  {
+    "country_code": "RUS",
+    "year": 2022,
+    "value": 5.661
+  },
+  {
+    "country_code": "RUS",
+    "year": 2023,
+    "value": 5.785
+  },
+  {
+    "country_code": "RUS",
+    "year": 2024,
+    "value": 5.945
+  },
+  {
+    "country_code": "RWA",
+    "year": 2011,
+    "value": 4.204
+  },
+  {
+    "country_code": "RWA",
+    "year": 2012,
+    "value": 3.715
+  },
+  {
+    "country_code": "RWA",
+    "year": 2014,
+    "value": 3.465
+  },
+  {
+    "country_code": "RWA",
+    "year": 2015,
+    "value": 3.515
+  },
+  {
+    "country_code": "RWA",
+    "year": 2016,
+    "value": 3.471
+  },
+  {
+    "country_code": "RWA",
+    "year": 2017,
+    "value": 3.408
+  },
+  {
+    "country_code": "RWA",
+    "year": 2018,
+    "value": 3.334
+  },
+  {
+    "country_code": "RWA",
+    "year": 2019,
+    "value": 3.3123
+  },
+  {
+    "country_code": "RWA",
+    "year": 2020,
+    "value": 3.415
+  },
+  {
+    "country_code": "RWA",
+    "year": 2021,
+    "value": 3.268
+  },
+  {
+    "country_code": "SAU",
+    "year": 2011,
+    "value": 6.597
+  },
+  {
+    "country_code": "SAU",
+    "year": 2012,
+    "value": 6.48
+  },
+  {
+    "country_code": "SAU",
+    "year": 2014,
+    "value": 6.411
+  },
+  {
+    "country_code": "SAU",
+    "year": 2015,
+    "value": 6.379
+  },
+  {
+    "country_code": "SAU",
+    "year": 2016,
+    "value": 6.344
+  },
+  {
+    "country_code": "SAU",
+    "year": 2017,
+    "value": 6.371
+  },
+  {
+    "country_code": "SAU",
+    "year": 2018,
+    "value": 6.375
+  },
+  {
+    "country_code": "SAU",
+    "year": 2019,
+    "value": 6.4065
+  },
+  {
+    "country_code": "SAU",
+    "year": 2020,
+    "value": 6.494
+  },
+  {
+    "country_code": "SAU",
+    "year": 2021,
+    "value": 6.523
+  },
+  {
+    "country_code": "SAU",
+    "year": 2022,
+    "value": 6.463
+  },
+  {
+    "country_code": "SAU",
+    "year": 2023,
+    "value": 6.594
+  },
+  {
+    "country_code": "SAU",
+    "year": 2024,
+    "value": 6.6
+  },
+  {
+    "country_code": "SEN",
+    "year": 2011,
+    "value": 4.414
+  },
+  {
+    "country_code": "SEN",
+    "year": 2012,
+    "value": 3.959
+  },
+  {
+    "country_code": "SEN",
+    "year": 2014,
+    "value": 3.904
+  },
+  {
+    "country_code": "SEN",
+    "year": 2015,
+    "value": 4.219
+  },
+  {
+    "country_code": "SEN",
+    "year": 2016,
+    "value": 4.535
+  },
+  {
+    "country_code": "SEN",
+    "year": 2017,
+    "value": 4.631
+  },
+  {
+    "country_code": "SEN",
+    "year": 2018,
+    "value": 4.681
+  },
+  {
+    "country_code": "SEN",
+    "year": 2019,
+    "value": 4.9808
+  },
+  {
+    "country_code": "SEN",
+    "year": 2020,
+    "value": 5.132
+  },
+  {
+    "country_code": "SEN",
+    "year": 2021,
+    "value": 5.046
+  },
+  {
+    "country_code": "SEN",
+    "year": 2022,
+    "value": 4.855
+  },
+  {
+    "country_code": "SEN",
+    "year": 2023,
+    "value": 4.969
+  },
+  {
+    "country_code": "SEN",
+    "year": 2024,
+    "value": 4.856
+  },
+  {
+    "country_code": "SRB",
+    "year": 2011,
+    "value": 4.564
+  },
+  {
+    "country_code": "SRB",
+    "year": 2012,
+    "value": 4.813
+  },
+  {
+    "country_code": "SRB",
+    "year": 2014,
+    "value": 5.123
+  },
+  {
+    "country_code": "SRB",
+    "year": 2015,
+    "value": 5.177
+  },
+  {
+    "country_code": "SRB",
+    "year": 2016,
+    "value": 5.395
+  },
+  {
+    "country_code": "SRB",
+    "year": 2017,
+    "value": 5.398
+  },
+  {
+    "country_code": "SRB",
+    "year": 2018,
+    "value": 5.603
+  },
+  {
+    "country_code": "SRB",
+    "year": 2019,
+    "value": 5.7782
+  },
+  {
+    "country_code": "SRB",
+    "year": 2020,
+    "value": 6.078
+  },
+  {
+    "country_code": "SRB",
+    "year": 2021,
+    "value": 6.178
+  },
+  {
+    "country_code": "SRB",
+    "year": 2022,
+    "value": 6.144
+  },
+  {
+    "country_code": "SRB",
+    "year": 2023,
+    "value": 6.411
+  },
+  {
+    "country_code": "SRB",
+    "year": 2024,
+    "value": 6.606
+  },
+  {
+    "country_code": "SLE",
+    "year": 2011,
+    "value": 3.586
+  },
+  {
+    "country_code": "SLE",
+    "year": 2012,
+    "value": 4.318
+  },
+  {
+    "country_code": "SLE",
+    "year": 2014,
+    "value": 4.507
+  },
+  {
+    "country_code": "SLE",
+    "year": 2015,
+    "value": 4.635
+  },
+  {
+    "country_code": "SLE",
+    "year": 2016,
+    "value": 4.709
+  },
+  {
+    "country_code": "SLE",
+    "year": 2017,
+    "value": 4.571
+  },
+  {
+    "country_code": "SLE",
+    "year": 2018,
+    "value": 4.374
+  },
+  {
+    "country_code": "SLE",
+    "year": 2019,
+    "value": 3.9264
+  },
+  {
+    "country_code": "SLE",
+    "year": 2020,
+    "value": 3.849
+  },
+  {
+    "country_code": "SLE",
+    "year": 2021,
+    "value": 3.574
+  },
+  {
+    "country_code": "SLE",
+    "year": 2022,
+    "value": 3.138
+  },
+  {
+    "country_code": "SLE",
+    "year": 2023,
+    "value": 3.245
+  },
+  {
+    "country_code": "SLE",
+    "year": 2024,
+    "value": 2.998
+  },
+  {
+    "country_code": "SGP",
+    "year": 2011,
+    "value": 6.549
+  },
+  {
+    "country_code": "SGP",
+    "year": 2012,
+    "value": 6.546
+  },
+  {
+    "country_code": "SGP",
+    "year": 2014,
+    "value": 6.798
+  },
+  {
+    "country_code": "SGP",
+    "year": 2015,
+    "value": 6.739
+  },
+  {
+    "country_code": "SGP",
+    "year": 2016,
+    "value": 6.572
+  },
+  {
+    "country_code": "SGP",
+    "year": 2017,
+    "value": 6.343
+  },
+  {
+    "country_code": "SGP",
+    "year": 2018,
+    "value": 6.262
+  },
+  {
+    "country_code": "SGP",
+    "year": 2019,
+    "value": 6.3771
+  },
+  {
+    "country_code": "SGP",
+    "year": 2020,
+    "value": 6.377
+  },
+  {
+    "country_code": "SGP",
+    "year": 2021,
+    "value": 6.48
+  },
+  {
+    "country_code": "SGP",
+    "year": 2022,
+    "value": 6.587
+  },
+  {
+    "country_code": "SGP",
+    "year": 2023,
+    "value": 6.523
+  },
+  {
+    "country_code": "SGP",
+    "year": 2024,
+    "value": 6.565
+  },
+  {
+    "country_code": "SVK",
+    "year": 2011,
+    "value": 5.657
+  },
+  {
+    "country_code": "SVK",
+    "year": 2012,
+    "value": 5.969
+  },
+  {
+    "country_code": "SVK",
+    "year": 2014,
+    "value": 5.995
+  },
+  {
+    "country_code": "SVK",
+    "year": 2015,
+    "value": 6.078
+  },
+  {
+    "country_code": "SVK",
+    "year": 2016,
+    "value": 6.098
+  },
+  {
+    "country_code": "SVK",
+    "year": 2017,
+    "value": 6.173
+  },
+  {
+    "country_code": "SVK",
+    "year": 2018,
+    "value": 6.198
+  },
+  {
+    "country_code": "SVK",
+    "year": 2019,
+    "value": 6.2806
+  },
+  {
+    "country_code": "SVK",
+    "year": 2020,
+    "value": 6.331
+  },
+  {
+    "country_code": "SVK",
+    "year": 2021,
+    "value": 6.391
+  },
+  {
+    "country_code": "SVK",
+    "year": 2022,
+    "value": 6.469
+  },
+  {
+    "country_code": "SVK",
+    "year": 2023,
+    "value": 6.257
+  },
+  {
+    "country_code": "SVK",
+    "year": 2024,
+    "value": 6.221
+  },
+  {
+    "country_code": "SVN",
+    "year": 2011,
+    "value": 5.922
+  },
+  {
+    "country_code": "SVN",
+    "year": 2012,
+    "value": 6.06
+  },
+  {
+    "country_code": "SVN",
+    "year": 2014,
+    "value": 5.848
+  },
+  {
+    "country_code": "SVN",
+    "year": 2015,
+    "value": 5.768
+  },
+  {
+    "country_code": "SVN",
+    "year": 2016,
+    "value": 5.758
+  },
+  {
+    "country_code": "SVN",
+    "year": 2017,
+    "value": 5.948
+  },
+  {
+    "country_code": "SVN",
+    "year": 2018,
+    "value": 6.118
+  },
+  {
+    "country_code": "SVN",
+    "year": 2019,
+    "value": 6.3634
+  },
+  {
+    "country_code": "SVN",
+    "year": 2020,
+    "value": 6.461
+  },
+  {
+    "country_code": "SVN",
+    "year": 2021,
+    "value": 6.63
+  },
+  {
+    "country_code": "SVN",
+    "year": 2022,
+    "value": 6.65
+  },
+  {
+    "country_code": "SVN",
+    "year": 2023,
+    "value": 6.743
+  },
+  {
+    "country_code": "SVN",
+    "year": 2024,
+    "value": 6.792
+  },
+  {
+    "country_code": "SOM",
+    "year": 2015,
+    "value": 5.44
+  },
+  {
+    "country_code": "SOM",
+    "year": 2016,
+    "value": 5.151
+  },
+  {
+    "country_code": "SOM",
+    "year": 2017,
+    "value": 4.982
+  },
+  {
+    "country_code": "SOM",
+    "year": 2018,
+    "value": 4.668
+  },
+  {
+    "country_code": "SOM",
+    "year": 2024,
+    "value": 4.347
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2011,
+    "value": 5.101
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2012,
+    "value": 4.963
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2014,
+    "value": 4.642
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2015,
+    "value": 4.459
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2016,
+    "value": 4.829
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2017,
+    "value": 4.724
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2018,
+    "value": 4.722
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2019,
+    "value": 4.8141
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2020,
+    "value": 4.956
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2021,
+    "value": 5.194
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2022,
+    "value": 5.275
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2023,
+    "value": 5.422
+  },
+  {
+    "country_code": "ZAF",
+    "year": 2024,
+    "value": 5.213
+  },
+  {
+    "country_code": "KOR",
+    "year": 2011,
+    "value": 5.643
+  },
+  {
+    "country_code": "KOR",
+    "year": 2012,
+    "value": 6.267
+  },
+  {
+    "country_code": "KOR",
+    "year": 2014,
+    "value": 5.984
+  },
+  {
+    "country_code": "KOR",
+    "year": 2015,
+    "value": 5.835
+  },
+  {
+    "country_code": "KOR",
+    "year": 2016,
+    "value": 5.838
+  },
+  {
+    "country_code": "KOR",
+    "year": 2017,
+    "value": 5.875
+  },
+  {
+    "country_code": "KOR",
+    "year": 2018,
+    "value": 5.895
+  },
+  {
+    "country_code": "KOR",
+    "year": 2019,
+    "value": 5.8724
+  },
+  {
+    "country_code": "KOR",
+    "year": 2020,
+    "value": 5.845
+  },
+  {
+    "country_code": "KOR",
+    "year": 2021,
+    "value": 5.935
+  },
+  {
+    "country_code": "KOR",
+    "year": 2022,
+    "value": 5.951
+  },
+  {
+    "country_code": "KOR",
+    "year": 2023,
+    "value": 6.058
+  },
+  {
+    "country_code": "KOR",
+    "year": 2024,
+    "value": 6.038
+  },
+  {
+    "country_code": "SSD",
+    "year": 2015,
+    "value": 3.832
+  },
+  {
+    "country_code": "SSD",
+    "year": 2016,
+    "value": 3.591
+  },
+  {
+    "country_code": "SSD",
+    "year": 2017,
+    "value": 3.254
+  },
+  {
+    "country_code": "SSD",
+    "year": 2018,
+    "value": 2.853
+  },
+  {
+    "country_code": "SSD",
+    "year": 2019,
+    "value": 2.8166
+  },
+  {
+    "country_code": "ESP",
+    "year": 2011,
+    "value": 6.761
+  },
+  {
+    "country_code": "ESP",
+    "year": 2012,
+    "value": 6.322
+  },
+  {
+    "country_code": "ESP",
+    "year": 2014,
+    "value": 6.329
+  },
+  {
+    "country_code": "ESP",
+    "year": 2015,
+    "value": 6.361
+  },
+  {
+    "country_code": "ESP",
+    "year": 2016,
+    "value": 6.403
+  },
+  {
+    "country_code": "ESP",
+    "year": 2017,
+    "value": 6.31
+  },
+  {
+    "country_code": "ESP",
+    "year": 2018,
+    "value": 6.354
+  },
+  {
+    "country_code": "ESP",
+    "year": 2019,
+    "value": 6.4009
+  },
+  {
+    "country_code": "ESP",
+    "year": 2020,
+    "value": 6.491
+  },
+  {
+    "country_code": "ESP",
+    "year": 2021,
+    "value": 6.476
+  },
+  {
+    "country_code": "ESP",
+    "year": 2022,
+    "value": 6.436
+  },
+  {
+    "country_code": "ESP",
+    "year": 2023,
+    "value": 6.421
+  },
+  {
+    "country_code": "ESP",
+    "year": 2024,
+    "value": 6.466
+  },
+  {
+    "country_code": "LKA",
+    "year": 2011,
+    "value": 4.26
+  },
+  {
+    "country_code": "LKA",
+    "year": 2012,
+    "value": 4.151
+  },
+  {
+    "country_code": "LKA",
+    "year": 2014,
+    "value": 4.271
+  },
+  {
+    "country_code": "LKA",
+    "year": 2015,
+    "value": 4.415
+  },
+  {
+    "country_code": "LKA",
+    "year": 2016,
+    "value": 4.44
+  },
+  {
+    "country_code": "LKA",
+    "year": 2017,
+    "value": 4.471
+  },
+  {
+    "country_code": "LKA",
+    "year": 2018,
+    "value": 4.366
+  },
+  {
+    "country_code": "LKA",
+    "year": 2019,
+    "value": 4.327
+  },
+  {
+    "country_code": "LKA",
+    "year": 2020,
+    "value": 4.325
+  },
+  {
+    "country_code": "LKA",
+    "year": 2021,
+    "value": 4.362
+  },
+  {
+    "country_code": "LKA",
+    "year": 2022,
+    "value": 4.442
+  },
+  {
+    "country_code": "LKA",
+    "year": 2023,
+    "value": 3.898
+  },
+  {
+    "country_code": "LKA",
+    "year": 2024,
+    "value": 3.891
+  },
+  {
+    "country_code": "SDN",
+    "year": 2011,
+    "value": 4.424
+  },
+  {
+    "country_code": "SDN",
+    "year": 2012,
+    "value": 4.401
+  },
+  {
+    "country_code": "SDN",
+    "year": 2014,
+    "value": 4.55
+  },
+  {
+    "country_code": "SDN",
+    "year": 2015,
+    "value": 4.139
+  },
+  {
+    "country_code": "SDN",
+    "year": 2016,
+    "value": 4.139
+  },
+  {
+    "country_code": "SDN",
+    "year": 2017,
+    "value": 4.139
+  },
+  {
+    "country_code": "SUR",
+    "year": 2012,
+    "value": 6.269
+  },
+  {
+    "country_code": "SUR",
+    "year": 2014,
+    "value": 6.269
+  },
+  {
+    "country_code": "SUR",
+    "year": 2015,
+    "value": 6.269
+  },
+  {
+    "country_code": "SWE",
+    "year": 2011,
+    "value": 7.379
+  },
+  {
+    "country_code": "SWE",
+    "year": 2012,
+    "value": 7.48
+  },
+  {
+    "country_code": "SWE",
+    "year": 2014,
+    "value": 7.364
+  },
+  {
+    "country_code": "SWE",
+    "year": 2015,
+    "value": 7.291
+  },
+  {
+    "country_code": "SWE",
+    "year": 2016,
+    "value": 7.284
+  },
+  {
+    "country_code": "SWE",
+    "year": 2017,
+    "value": 7.314
+  },
+  {
+    "country_code": "SWE",
+    "year": 2018,
+    "value": 7.343
+  },
+  {
+    "country_code": "SWE",
+    "year": 2019,
+    "value": 7.3535
+  },
+  {
+    "country_code": "SWE",
+    "year": 2020,
+    "value": 7.363
+  },
+  {
+    "country_code": "SWE",
+    "year": 2021,
+    "value": 7.384
+  },
+  {
+    "country_code": "SWE",
+    "year": 2022,
+    "value": 7.395
+  },
+  {
+    "country_code": "SWE",
+    "year": 2023,
+    "value": 7.344
+  },
+  {
+    "country_code": "SWE",
+    "year": 2024,
+    "value": 7.345
+  },
+  {
+    "country_code": "CHE",
+    "year": 2011,
+    "value": 7.499
+  },
+  {
+    "country_code": "CHE",
+    "year": 2012,
+    "value": 7.65
+  },
+  {
+    "country_code": "CHE",
+    "year": 2014,
+    "value": 7.587
+  },
+  {
+    "country_code": "CHE",
+    "year": 2015,
+    "value": 7.509
+  },
+  {
+    "country_code": "CHE",
+    "year": 2016,
+    "value": 7.494
+  },
+  {
+    "country_code": "CHE",
+    "year": 2017,
+    "value": 7.487
+  },
+  {
+    "country_code": "CHE",
+    "year": 2018,
+    "value": 7.48
+  },
+  {
+    "country_code": "CHE",
+    "year": 2019,
+    "value": 7.5599
+  },
+  {
+    "country_code": "CHE",
+    "year": 2020,
+    "value": 7.571
+  },
+  {
+    "country_code": "CHE",
+    "year": 2021,
+    "value": 7.512
+  },
+  {
+    "country_code": "CHE",
+    "year": 2022,
+    "value": 7.24
+  },
+  {
+    "country_code": "CHE",
+    "year": 2023,
+    "value": 7.06
+  },
+  {
+    "country_code": "CHE",
+    "year": 2024,
+    "value": 6.935
+  },
+  {
+    "country_code": "SYR",
+    "year": 2011,
+    "value": 4.735
+  },
+  {
+    "country_code": "SYR",
+    "year": 2012,
+    "value": 3.892
+  },
+  {
+    "country_code": "SYR",
+    "year": 2014,
+    "value": 3.006
+  },
+  {
+    "country_code": "SYR",
+    "year": 2015,
+    "value": 3.069
+  },
+  {
+    "country_code": "SYR",
+    "year": 2016,
+    "value": 3.462
+  },
+  {
+    "country_code": "SYR",
+    "year": 2017,
+    "value": 3.462
+  },
+  {
+    "country_code": "SYR",
+    "year": 2018,
+    "value": 3.462
+  },
+  {
+    "country_code": "TJK",
+    "year": 2011,
+    "value": 4.614
+  },
+  {
+    "country_code": "TJK",
+    "year": 2012,
+    "value": 4.38
+  },
+  {
+    "country_code": "TJK",
+    "year": 2014,
+    "value": 4.786
+  },
+  {
+    "country_code": "TJK",
+    "year": 2015,
+    "value": 4.996
+  },
+  {
+    "country_code": "TJK",
+    "year": 2016,
+    "value": 5.041
+  },
+  {
+    "country_code": "TJK",
+    "year": 2017,
+    "value": 5.352
+  },
+  {
+    "country_code": "TJK",
+    "year": 2018,
+    "value": 5.467
+  },
+  {
+    "country_code": "TJK",
+    "year": 2019,
+    "value": 5.5557
+  },
+  {
+    "country_code": "TJK",
+    "year": 2020,
+    "value": 5.466
+  },
+  {
+    "country_code": "TJK",
+    "year": 2021,
+    "value": 5.377
+  },
+  {
+    "country_code": "TJK",
+    "year": 2022,
+    "value": 5.33
+  },
+  {
+    "country_code": "TJK",
+    "year": 2023,
+    "value": 5.281
+  },
+  {
+    "country_code": "TJK",
+    "year": 2024,
+    "value": 5.411
+  },
+  {
+    "country_code": "TZA",
+    "year": 2011,
+    "value": 3.8
+  },
+  {
+    "country_code": "TZA",
+    "year": 2012,
+    "value": 3.77
+  },
+  {
+    "country_code": "TZA",
+    "year": 2014,
+    "value": 3.781
+  },
+  {
+    "country_code": "TZA",
+    "year": 2015,
+    "value": 3.666
+  },
+  {
+    "country_code": "TZA",
+    "year": 2016,
+    "value": 3.349
+  },
+  {
+    "country_code": "TZA",
+    "year": 2017,
+    "value": 3.303
+  },
+  {
+    "country_code": "TZA",
+    "year": 2018,
+    "value": 3.231
+  },
+  {
+    "country_code": "TZA",
+    "year": 2019,
+    "value": 3.4762
+  },
+  {
+    "country_code": "TZA",
+    "year": 2020,
+    "value": 3.623
+  },
+  {
+    "country_code": "TZA",
+    "year": 2021,
+    "value": 3.702
+  },
+  {
+    "country_code": "TZA",
+    "year": 2022,
+    "value": 3.694
+  },
+  {
+    "country_code": "TZA",
+    "year": 2023,
+    "value": 3.781
+  },
+  {
+    "country_code": "TZA",
+    "year": 2024,
+    "value": 3.8
+  },
+  {
+    "country_code": "THA",
+    "year": 2011,
+    "value": 5.804
+  },
+  {
+    "country_code": "THA",
+    "year": 2012,
+    "value": 6.371
+  },
+  {
+    "country_code": "THA",
+    "year": 2014,
+    "value": 6.455
+  },
+  {
+    "country_code": "THA",
+    "year": 2015,
+    "value": 6.474
+  },
+  {
+    "country_code": "THA",
+    "year": 2016,
+    "value": 6.424
+  },
+  {
+    "country_code": "THA",
+    "year": 2017,
+    "value": 6.072
+  },
+  {
+    "country_code": "THA",
+    "year": 2018,
+    "value": 6.008
+  },
+  {
+    "country_code": "THA",
+    "year": 2019,
+    "value": 5.9988
+  },
+  {
+    "country_code": "THA",
+    "year": 2020,
+    "value": 5.985
+  },
+  {
+    "country_code": "THA",
+    "year": 2021,
+    "value": 5.891
+  },
+  {
+    "country_code": "THA",
+    "year": 2022,
+    "value": 5.843
+  },
+  {
+    "country_code": "THA",
+    "year": 2023,
+    "value": 5.976
+  },
+  {
+    "country_code": "THA",
+    "year": 2024,
+    "value": 6.222
+  },
+  {
+    "country_code": "TGO",
+    "year": 2011,
+    "value": 3.007
+  },
+  {
+    "country_code": "TGO",
+    "year": 2012,
+    "value": 2.936
+  },
+  {
+    "country_code": "TGO",
+    "year": 2014,
+    "value": 2.839
+  },
+  {
+    "country_code": "TGO",
+    "year": 2015,
+    "value": 3.303
+  },
+  {
+    "country_code": "TGO",
+    "year": 2016,
+    "value": 3.495
+  },
+  {
+    "country_code": "TGO",
+    "year": 2017,
+    "value": 3.999
+  },
+  {
+    "country_code": "TGO",
+    "year": 2018,
+    "value": 4.085
+  },
+  {
+    "country_code": "TGO",
+    "year": 2019,
+    "value": 4.1872
+  },
+  {
+    "country_code": "TGO",
+    "year": 2020,
+    "value": 4.107
+  },
+  {
+    "country_code": "TGO",
+    "year": 2021,
+    "value": 4.112
+  },
+  {
+    "country_code": "TGO",
+    "year": 2022,
+    "value": 4.137
+  },
+  {
+    "country_code": "TGO",
+    "year": 2023,
+    "value": 4.214
+  },
+  {
+    "country_code": "TGO",
+    "year": 2024,
+    "value": 4.315
+  },
+  {
+    "country_code": "TTO",
+    "year": 2011,
+    "value": 6.263
+  },
+  {
+    "country_code": "TTO",
+    "year": 2012,
+    "value": 6.519
+  },
+  {
+    "country_code": "TTO",
+    "year": 2014,
+    "value": 6.168
+  },
+  {
+    "country_code": "TTO",
+    "year": 2015,
+    "value": 6.168
+  },
+  {
+    "country_code": "TTO",
+    "year": 2016,
+    "value": 6.168
+  },
+  {
+    "country_code": "TTO",
+    "year": 2017,
+    "value": 6.192
+  },
+  {
+    "country_code": "TTO",
+    "year": 2018,
+    "value": 6.192
+  },
+  {
+    "country_code": "TTO",
+    "year": 2019,
+    "value": 6.1919
+  },
+  {
+    "country_code": "TTO",
+    "year": 2024,
+    "value": 5.905
+  },
+  {
+    "country_code": "TUN",
+    "year": 2011,
+    "value": 5.141
+  },
+  {
+    "country_code": "TUN",
+    "year": 2012,
+    "value": 4.826
+  },
+  {
+    "country_code": "TUN",
+    "year": 2014,
+    "value": 4.739
+  },
+  {
+    "country_code": "TUN",
+    "year": 2015,
+    "value": 5.045
+  },
+  {
+    "country_code": "TUN",
+    "year": 2016,
+    "value": 4.805
+  },
+  {
+    "country_code": "TUN",
+    "year": 2017,
+    "value": 4.592
+  },
+  {
+    "country_code": "TUN",
+    "year": 2018,
+    "value": 4.461
+  },
+  {
+    "country_code": "TUN",
+    "year": 2019,
+    "value": 4.3922
+  },
+  {
+    "country_code": "TUN",
+    "year": 2020,
+    "value": 4.596
+  },
+  {
+    "country_code": "TUN",
+    "year": 2021,
+    "value": 4.516
+  },
+  {
+    "country_code": "TUN",
+    "year": 2022,
+    "value": 4.497
+  },
+  {
+    "country_code": "TUN",
+    "year": 2023,
+    "value": 4.422
+  },
+  {
+    "country_code": "TUN",
+    "year": 2024,
+    "value": 4.552
+  },
+  {
+    "country_code": "TUR",
+    "year": 2011,
+    "value": 5.234
+  },
+  {
+    "country_code": "TUR",
+    "year": 2012,
+    "value": 5.345
+  },
+  {
+    "country_code": "TUR",
+    "year": 2014,
+    "value": 5.332
+  },
+  {
+    "country_code": "TUR",
+    "year": 2015,
+    "value": 5.389
+  },
+  {
+    "country_code": "TUR",
+    "year": 2016,
+    "value": 5.5
+  },
+  {
+    "country_code": "TUR",
+    "year": 2017,
+    "value": 5.483
+  },
+  {
+    "country_code": "TUR",
+    "year": 2018,
+    "value": 5.373
+  },
+  {
+    "country_code": "TUR",
+    "year": 2019,
+    "value": 5.1318
+  },
+  {
+    "country_code": "TUR",
+    "year": 2020,
+    "value": 4.948
+  },
+  {
+    "country_code": "TUR",
+    "year": 2021,
+    "value": 4.744
+  },
+  {
+    "country_code": "TUR",
+    "year": 2022,
+    "value": 4.614
+  },
+  {
+    "country_code": "TUR",
+    "year": 2023,
+    "value": 4.975
+  },
+  {
+    "country_code": "TUR",
+    "year": 2024,
+    "value": 5.262
+  },
+  {
+    "country_code": "TKM",
+    "year": 2011,
+    "value": 6.568
+  },
+  {
+    "country_code": "TKM",
+    "year": 2012,
+    "value": 5.628
+  },
+  {
+    "country_code": "TKM",
+    "year": 2014,
+    "value": 5.548
+  },
+  {
+    "country_code": "TKM",
+    "year": 2015,
+    "value": 5.658
+  },
+  {
+    "country_code": "TKM",
+    "year": 2016,
+    "value": 5.822
+  },
+  {
+    "country_code": "TKM",
+    "year": 2017,
+    "value": 5.636
+  },
+  {
+    "country_code": "TKM",
+    "year": 2018,
+    "value": 5.247
+  },
+  {
+    "country_code": "TKM",
+    "year": 2019,
+    "value": 5.1191
+  },
+  {
+    "country_code": "TKM",
+    "year": 2020,
+    "value": 5.066
+  },
+  {
+    "country_code": "TKM",
+    "year": 2021,
+    "value": 5.474
+  },
+  {
+    "country_code": "UGA",
+    "year": 2011,
+    "value": 4.313
+  },
+  {
+    "country_code": "UGA",
+    "year": 2012,
+    "value": 4.443
+  },
+  {
+    "country_code": "UGA",
+    "year": 2014,
+    "value": 3.931
+  },
+  {
+    "country_code": "UGA",
+    "year": 2015,
+    "value": 3.739
+  },
+  {
+    "country_code": "UGA",
+    "year": 2016,
+    "value": 4.081
+  },
+  {
+    "country_code": "UGA",
+    "year": 2017,
+    "value": 4.161
+  },
+  {
+    "country_code": "UGA",
+    "year": 2018,
+    "value": 4.189
+  },
+  {
+    "country_code": "UGA",
+    "year": 2019,
+    "value": 4.432
+  },
+  {
+    "country_code": "UGA",
+    "year": 2020,
+    "value": 4.636
+  },
+  {
+    "country_code": "UGA",
+    "year": 2021,
+    "value": 4.603
+  },
+  {
+    "country_code": "UGA",
+    "year": 2022,
+    "value": 4.432
+  },
+  {
+    "country_code": "UGA",
+    "year": 2023,
+    "value": 4.372
+  },
+  {
+    "country_code": "UGA",
+    "year": 2024,
+    "value": 4.461
+  },
+  {
+    "country_code": "UKR",
+    "year": 2011,
+    "value": 5.089
+  },
+  {
+    "country_code": "UKR",
+    "year": 2012,
+    "value": 5.057
+  },
+  {
+    "country_code": "UKR",
+    "year": 2014,
+    "value": 4.681
+  },
+  {
+    "country_code": "UKR",
+    "year": 2015,
+    "value": 4.324
+  },
+  {
+    "country_code": "UKR",
+    "year": 2016,
+    "value": 4.096
+  },
+  {
+    "country_code": "UKR",
+    "year": 2017,
+    "value": 4.103
+  },
+  {
+    "country_code": "UKR",
+    "year": 2018,
+    "value": 4.332
+  },
+  {
+    "country_code": "UKR",
+    "year": 2019,
+    "value": 4.5607
+  },
+  {
+    "country_code": "UKR",
+    "year": 2020,
+    "value": 4.875
+  },
+  {
+    "country_code": "UKR",
+    "year": 2021,
+    "value": 5.084
+  },
+  {
+    "country_code": "UKR",
+    "year": 2022,
+    "value": 5.071
+  },
+  {
+    "country_code": "UKR",
+    "year": 2023,
+    "value": 4.873
+  },
+  {
+    "country_code": "UKR",
+    "year": 2024,
+    "value": 4.68
+  },
+  {
+    "country_code": "ARE",
+    "year": 2011,
+    "value": 6.977
+  },
+  {
+    "country_code": "ARE",
+    "year": 2012,
+    "value": 7.144
+  },
+  {
+    "country_code": "ARE",
+    "year": 2014,
+    "value": 6.901
+  },
+  {
+    "country_code": "ARE",
+    "year": 2015,
+    "value": 6.573
+  },
+  {
+    "country_code": "ARE",
+    "year": 2016,
+    "value": 6.648
+  },
+  {
+    "country_code": "ARE",
+    "year": 2017,
+    "value": 6.774
+  },
+  {
+    "country_code": "ARE",
+    "year": 2018,
+    "value": 6.825
+  },
+  {
+    "country_code": "ARE",
+    "year": 2019,
+    "value": 6.7908
+  },
+  {
+    "country_code": "ARE",
+    "year": 2020,
+    "value": 6.561
+  },
+  {
+    "country_code": "ARE",
+    "year": 2021,
+    "value": 6.576
+  },
+  {
+    "country_code": "ARE",
+    "year": 2022,
+    "value": 6.571
+  },
+  {
+    "country_code": "ARE",
+    "year": 2023,
+    "value": 6.733
+  },
+  {
+    "country_code": "ARE",
+    "year": 2024,
+    "value": 6.759
+  },
+  {
+    "country_code": "GBR",
+    "year": 2011,
+    "value": 6.936
+  },
+  {
+    "country_code": "GBR",
+    "year": 2012,
+    "value": 6.883
+  },
+  {
+    "country_code": "GBR",
+    "year": 2014,
+    "value": 6.867
+  },
+  {
+    "country_code": "GBR",
+    "year": 2015,
+    "value": 6.725
+  },
+  {
+    "country_code": "GBR",
+    "year": 2016,
+    "value": 6.714
+  },
+  {
+    "country_code": "GBR",
+    "year": 2017,
+    "value": 6.814
+  },
+  {
+    "country_code": "GBR",
+    "year": 2018,
+    "value": 7.054
+  },
+  {
+    "country_code": "GBR",
+    "year": 2019,
+    "value": 7.1645
+  },
+  {
+    "country_code": "GBR",
+    "year": 2020,
+    "value": 7.064
+  },
+  {
+    "country_code": "GBR",
+    "year": 2021,
+    "value": 6.943
+  },
+  {
+    "country_code": "GBR",
+    "year": 2022,
+    "value": 6.796
+  },
+  {
+    "country_code": "GBR",
+    "year": 2023,
+    "value": 6.749
+  },
+  {
+    "country_code": "GBR",
+    "year": 2024,
+    "value": 6.728
+  },
+  {
+    "country_code": "USA",
+    "year": 2011,
+    "value": 7.27
+  },
+  {
+    "country_code": "USA",
+    "year": 2012,
+    "value": 7.082
+  },
+  {
+    "country_code": "USA",
+    "year": 2014,
+    "value": 7.119
+  },
+  {
+    "country_code": "USA",
+    "year": 2015,
+    "value": 7.104
+  },
+  {
+    "country_code": "USA",
+    "year": 2016,
+    "value": 6.993
+  },
+  {
+    "country_code": "USA",
+    "year": 2017,
+    "value": 6.886
+  },
+  {
+    "country_code": "USA",
+    "year": 2018,
+    "value": 6.892
+  },
+  {
+    "country_code": "USA",
+    "year": 2019,
+    "value": 6.9396
+  },
+  {
+    "country_code": "USA",
+    "year": 2020,
+    "value": 6.951
+  },
+  {
+    "country_code": "USA",
+    "year": 2021,
+    "value": 6.977
+  },
+  {
+    "country_code": "USA",
+    "year": 2022,
+    "value": 6.894
+  },
+  {
+    "country_code": "USA",
+    "year": 2023,
+    "value": 6.725
+  },
+  {
+    "country_code": "USA",
+    "year": 2024,
+    "value": 6.724
+  },
+  {
+    "country_code": "URY",
+    "year": 2011,
+    "value": 5.898
+  },
+  {
+    "country_code": "URY",
+    "year": 2012,
+    "value": 6.355
+  },
+  {
+    "country_code": "URY",
+    "year": 2014,
+    "value": 6.485
+  },
+  {
+    "country_code": "URY",
+    "year": 2015,
+    "value": 6.545
+  },
+  {
+    "country_code": "URY",
+    "year": 2016,
+    "value": 6.454
+  },
+  {
+    "country_code": "URY",
+    "year": 2017,
+    "value": 6.379
+  },
+  {
+    "country_code": "URY",
+    "year": 2018,
+    "value": 6.293
+  },
+  {
+    "country_code": "URY",
+    "year": 2019,
+    "value": 6.4401
+  },
+  {
+    "country_code": "URY",
+    "year": 2020,
+    "value": 6.431
+  },
+  {
+    "country_code": "URY",
+    "year": 2021,
+    "value": 6.474
+  },
+  {
+    "country_code": "URY",
+    "year": 2022,
+    "value": 6.494
+  },
+  {
+    "country_code": "URY",
+    "year": 2023,
+    "value": 6.611
+  },
+  {
+    "country_code": "URY",
+    "year": 2024,
+    "value": 6.661
+  },
+  {
+    "country_code": "UZB",
+    "year": 2011,
+    "value": 5.225
+  },
+  {
+    "country_code": "UZB",
+    "year": 2012,
+    "value": 5.623
+  },
+  {
+    "country_code": "UZB",
+    "year": 2014,
+    "value": 6.003
+  },
+  {
+    "country_code": "UZB",
+    "year": 2015,
+    "value": 5.987
+  },
+  {
+    "country_code": "UZB",
+    "year": 2016,
+    "value": 5.971
+  },
+  {
+    "country_code": "UZB",
+    "year": 2017,
+    "value": 6.096
+  },
+  {
+    "country_code": "UZB",
+    "year": 2018,
+    "value": 6.174
+  },
+  {
+    "country_code": "UZB",
+    "year": 2019,
+    "value": 6.2576
+  },
+  {
+    "country_code": "UZB",
+    "year": 2020,
+    "value": 6.179
+  },
+  {
+    "country_code": "UZB",
+    "year": 2021,
+    "value": 6.063
+  },
+  {
+    "country_code": "UZB",
+    "year": 2022,
+    "value": 6.014
+  },
+  {
+    "country_code": "UZB",
+    "year": 2023,
+    "value": 6.195
+  },
+  {
+    "country_code": "UZB",
+    "year": 2024,
+    "value": 6.193
+  },
+  {
+    "country_code": "VEN",
+    "year": 2011,
+    "value": 6.922
+  },
+  {
+    "country_code": "VEN",
+    "year": 2012,
+    "value": 7.039
+  },
+  {
+    "country_code": "VEN",
+    "year": 2014,
+    "value": 6.81
+  },
+  {
+    "country_code": "VEN",
+    "year": 2015,
+    "value": 6.084
+  },
+  {
+    "country_code": "VEN",
+    "year": 2016,
+    "value": 5.25
+  },
+  {
+    "country_code": "VEN",
+    "year": 2017,
+    "value": 4.806
+  },
+  {
+    "country_code": "VEN",
+    "year": 2018,
+    "value": 4.707
+  },
+  {
+    "country_code": "VEN",
+    "year": 2019,
+    "value": 5.0532
+  },
+  {
+    "country_code": "VEN",
+    "year": 2020,
+    "value": 4.892
+  },
+  {
+    "country_code": "VEN",
+    "year": 2021,
+    "value": 4.925
+  },
+  {
+    "country_code": "VEN",
+    "year": 2022,
+    "value": 5.211
+  },
+  {
+    "country_code": "VEN",
+    "year": 2023,
+    "value": 5.607
+  },
+  {
+    "country_code": "VEN",
+    "year": 2024,
+    "value": 5.683
+  },
+  {
+    "country_code": "VNM",
+    "year": 2011,
+    "value": 5.425
+  },
+  {
+    "country_code": "VNM",
+    "year": 2012,
+    "value": 5.533
+  },
+  {
+    "country_code": "VNM",
+    "year": 2014,
+    "value": 5.36
+  },
+  {
+    "country_code": "VNM",
+    "year": 2015,
+    "value": 5.061
+  },
+  {
+    "country_code": "VNM",
+    "year": 2016,
+    "value": 5.074
+  },
+  {
+    "country_code": "VNM",
+    "year": 2017,
+    "value": 5.103
+  },
+  {
+    "country_code": "VNM",
+    "year": 2018,
+    "value": 5.175
+  },
+  {
+    "country_code": "VNM",
+    "year": 2019,
+    "value": 5.3535
+  },
+  {
+    "country_code": "VNM",
+    "year": 2020,
+    "value": 5.411
+  },
+  {
+    "country_code": "VNM",
+    "year": 2021,
+    "value": 5.485
+  },
+  {
+    "country_code": "VNM",
+    "year": 2022,
+    "value": 5.763
+  },
+  {
+    "country_code": "VNM",
+    "year": 2023,
+    "value": 6.043
+  },
+  {
+    "country_code": "VNM",
+    "year": 2024,
+    "value": 6.352
+  },
+  {
+    "country_code": "YEM",
+    "year": 2011,
+    "value": 4.454
+  },
+  {
+    "country_code": "YEM",
+    "year": 2012,
+    "value": 4.054
+  },
+  {
+    "country_code": "YEM",
+    "year": 2014,
+    "value": 4.077
+  },
+  {
+    "country_code": "YEM",
+    "year": 2015,
+    "value": 3.724
+  },
+  {
+    "country_code": "YEM",
+    "year": 2016,
+    "value": 3.593
+  },
+  {
+    "country_code": "YEM",
+    "year": 2017,
+    "value": 3.355
+  },
+  {
+    "country_code": "YEM",
+    "year": 2018,
+    "value": 3.38
+  },
+  {
+    "country_code": "YEM",
+    "year": 2019,
+    "value": 3.5274
+  },
+  {
+    "country_code": "YEM",
+    "year": 2020,
+    "value": 3.658
+  },
+  {
+    "country_code": "YEM",
+    "year": 2021,
+    "value": 4.197
+  },
+  {
+    "country_code": "YEM",
+    "year": 2023,
+    "value": 3.561
+  },
+  {
+    "country_code": "YEM",
+    "year": 2024,
+    "value": 3.561
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2011,
+    "value": 4.705
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2012,
+    "value": 5.006
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2014,
+    "value": 5.129
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2015,
+    "value": 4.795
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2016,
+    "value": 4.514
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2017,
+    "value": 4.377
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2018,
+    "value": 4.107
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2019,
+    "value": 3.7594
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2020,
+    "value": 4.073
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2021,
+    "value": 3.76
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2022,
+    "value": 3.982
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2023,
+    "value": 3.502
+  },
+  {
+    "country_code": "ZMB",
+    "year": 2024,
+    "value": 3.912
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2011,
+    "value": 3.978
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2012,
+    "value": 4.827
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2014,
+    "value": 4.61
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2015,
+    "value": 4.193
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2016,
+    "value": 3.875
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2017,
+    "value": 3.692
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2018,
+    "value": 3.663
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2019,
+    "value": 3.2992
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2020,
+    "value": 3.145
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2021,
+    "value": 2.995
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2022,
+    "value": 3.204
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2023,
+    "value": 3.341
+  },
+  {
+    "country_code": "ZWE",
+    "year": 2024,
+    "value": 3.396
+  }
+]

@@ -1,0 +1,1160 @@
+[
+  {
+    "country_code": "AFG",
+    "country_name": "Afghanistan",
+    "flag": "🇦🇫",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "ALB",
+    "country_name": "Albania",
+    "flag": "🇦🇱",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "DZA",
+    "country_name": "Algeria",
+    "flag": "🇩🇿",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "AND",
+    "country_name": "Andorra",
+    "flag": "🇦🇩",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "AGO",
+    "country_name": "Angola",
+    "flag": "🇦🇴",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ATG",
+    "country_name": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "continent": "North America"
+  },
+  {
+    "country_code": "ARG",
+    "country_name": "Argentina",
+    "flag": "🇦🇷",
+    "continent": "South America"
+  },
+  {
+    "country_code": "ARM",
+    "country_name": "Armenia",
+    "flag": "🇦🇲",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "AUS",
+    "country_name": "Australia",
+    "flag": "🇦🇺",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "AUT",
+    "country_name": "Austria",
+    "flag": "🇦🇹",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "AZE",
+    "country_name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "BHS",
+    "country_name": "Bahamas",
+    "flag": "🇧🇸",
+    "continent": "North America"
+  },
+  {
+    "country_code": "BHR",
+    "country_name": "Bahrain",
+    "flag": "🇧🇭",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "BGD",
+    "country_name": "Bangladesh",
+    "flag": "🇧🇩",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "BRB",
+    "country_name": "Barbados",
+    "flag": "🇧🇧",
+    "continent": "North America"
+  },
+  {
+    "country_code": "BLR",
+    "country_name": "Belarus",
+    "flag": "🇧🇾",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "BEL",
+    "country_name": "Belgium",
+    "flag": "🇧🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "BLZ",
+    "country_name": "Belize",
+    "flag": "🇧🇿",
+    "continent": "North America"
+  },
+  {
+    "country_code": "BEN",
+    "country_name": "Benin",
+    "flag": "🇧🇯",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "BTN",
+    "country_name": "Bhutan",
+    "flag": "🇧🇹",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "BOL",
+    "country_name": "Bolivia",
+    "flag": "🇧🇴",
+    "continent": "South America"
+  },
+  {
+    "country_code": "BIH",
+    "country_name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "BWA",
+    "country_name": "Botswana",
+    "flag": "🇧🇼",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "BRA",
+    "country_name": "Brazil",
+    "flag": "🇧🇷",
+    "continent": "South America"
+  },
+  {
+    "country_code": "BRN",
+    "country_name": "Brunei",
+    "flag": "🇧🇳",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "BGR",
+    "country_name": "Bulgaria",
+    "flag": "🇧🇬",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "BFA",
+    "country_name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "BDI",
+    "country_name": "Burundi",
+    "flag": "🇧🇮",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "CPV",
+    "country_name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "KHM",
+    "country_name": "Cambodia",
+    "flag": "🇰🇭",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "CMR",
+    "country_name": "Cameroon",
+    "flag": "🇨🇲",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "CAN",
+    "country_name": "Canada",
+    "flag": "🇨🇦",
+    "continent": "North America"
+  },
+  {
+    "country_code": "CAF",
+    "country_name": "Central African Republic",
+    "flag": "🇨🇫",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "TCD",
+    "country_name": "Chad",
+    "flag": "🇹🇩",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "CHL",
+    "country_name": "Chile",
+    "flag": "🇨🇱",
+    "continent": "South America"
+  },
+  {
+    "country_code": "CHN",
+    "country_name": "China",
+    "flag": "🇨🇳",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "COL",
+    "country_name": "Colombia",
+    "flag": "🇨🇴",
+    "continent": "South America"
+  },
+  {
+    "country_code": "COM",
+    "country_name": "Comoros",
+    "flag": "🇰🇲",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "COG",
+    "country_name": "Republic of the Congo",
+    "flag": "🇨🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "COD",
+    "country_name": "DR Congo",
+    "flag": "🇨🇩",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "CRI",
+    "country_name": "Costa Rica",
+    "flag": "🇨🇷",
+    "continent": "North America"
+  },
+  {
+    "country_code": "CIV",
+    "country_name": "Cote d'Ivoire",
+    "flag": "🇨🇮",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "HRV",
+    "country_name": "Croatia",
+    "flag": "🇭🇷",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "CUB",
+    "country_name": "Cuba",
+    "flag": "🇨🇺",
+    "continent": "North America"
+  },
+  {
+    "country_code": "CYP",
+    "country_name": "Cyprus",
+    "flag": "🇨🇾",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "CZE",
+    "country_name": "Czechia",
+    "flag": "🇨🇿",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "DNK",
+    "country_name": "Denmark",
+    "flag": "🇩🇰",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "DJI",
+    "country_name": "Djibouti",
+    "flag": "🇩🇯",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "DMA",
+    "country_name": "Dominica",
+    "flag": "🇩🇲",
+    "continent": "North America"
+  },
+  {
+    "country_code": "DOM",
+    "country_name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "continent": "North America"
+  },
+  {
+    "country_code": "ECU",
+    "country_name": "Ecuador",
+    "flag": "🇪🇨",
+    "continent": "South America"
+  },
+  {
+    "country_code": "EGY",
+    "country_name": "Egypt",
+    "flag": "🇪🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SLV",
+    "country_name": "El Salvador",
+    "flag": "🇸🇻",
+    "continent": "North America"
+  },
+  {
+    "country_code": "GNQ",
+    "country_name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ERI",
+    "country_name": "Eritrea",
+    "flag": "🇪🇷",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "EST",
+    "country_name": "Estonia",
+    "flag": "🇪🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "SWZ",
+    "country_name": "Eswatini",
+    "flag": "🇸🇿",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ETH",
+    "country_name": "Ethiopia",
+    "flag": "🇪🇹",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "FJI",
+    "country_name": "Fiji",
+    "flag": "🇫🇯",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "FIN",
+    "country_name": "Finland",
+    "flag": "🇫🇮",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "FRA",
+    "country_name": "France",
+    "flag": "🇫🇷",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "GAB",
+    "country_name": "Gabon",
+    "flag": "🇬🇦",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "GMB",
+    "country_name": "Gambia",
+    "flag": "🇬🇲",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "GEO",
+    "country_name": "Georgia",
+    "flag": "🇬🇪",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "DEU",
+    "country_name": "Germany",
+    "flag": "🇩🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "GHA",
+    "country_name": "Ghana",
+    "flag": "🇬🇭",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "GRC",
+    "country_name": "Greece",
+    "flag": "🇬🇷",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "GRD",
+    "country_name": "Grenada",
+    "flag": "🇬🇩",
+    "continent": "North America"
+  },
+  {
+    "country_code": "GTM",
+    "country_name": "Guatemala",
+    "flag": "🇬🇹",
+    "continent": "North America"
+  },
+  {
+    "country_code": "GIN",
+    "country_name": "Guinea",
+    "flag": "🇬🇳",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "GNB",
+    "country_name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "GUY",
+    "country_name": "Guyana",
+    "flag": "🇬🇾",
+    "continent": "South America"
+  },
+  {
+    "country_code": "HTI",
+    "country_name": "Haiti",
+    "flag": "🇭🇹",
+    "continent": "North America"
+  },
+  {
+    "country_code": "HND",
+    "country_name": "Honduras",
+    "flag": "🇭🇳",
+    "continent": "North America"
+  },
+  {
+    "country_code": "HUN",
+    "country_name": "Hungary",
+    "flag": "🇭🇺",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "ISL",
+    "country_name": "Iceland",
+    "flag": "🇮🇸",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "IND",
+    "country_name": "India",
+    "flag": "🇮🇳",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "IDN",
+    "country_name": "Indonesia",
+    "flag": "🇮🇩",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "IRN",
+    "country_name": "Iran",
+    "flag": "🇮🇷",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "IRQ",
+    "country_name": "Iraq",
+    "flag": "🇮🇶",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "IRL",
+    "country_name": "Ireland",
+    "flag": "🇮🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "ISR",
+    "country_name": "Israel",
+    "flag": "🇮🇱",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "flag": "🇮🇹",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "JAM",
+    "country_name": "Jamaica",
+    "flag": "🇯🇲",
+    "continent": "North America"
+  },
+  {
+    "country_code": "JPN",
+    "country_name": "Japan",
+    "flag": "🇯🇵",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "JOR",
+    "country_name": "Jordan",
+    "flag": "🇯🇴",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "KAZ",
+    "country_name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "KEN",
+    "country_name": "Kenya",
+    "flag": "🇰🇪",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "KIR",
+    "country_name": "Kiribati",
+    "flag": "🇰🇮",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "PRK",
+    "country_name": "North Korea",
+    "flag": "🇰🇵",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "KOR",
+    "country_name": "South Korea",
+    "flag": "🇰🇷",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "KWT",
+    "country_name": "Kuwait",
+    "flag": "🇰🇼",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "KGZ",
+    "country_name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "LAO",
+    "country_name": "Laos",
+    "flag": "🇱🇦",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "LVA",
+    "country_name": "Latvia",
+    "flag": "🇱🇻",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "LBN",
+    "country_name": "Lebanon",
+    "flag": "🇱🇧",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "LSO",
+    "country_name": "Lesotho",
+    "flag": "🇱🇸",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "LBR",
+    "country_name": "Liberia",
+    "flag": "🇱🇷",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "LBY",
+    "country_name": "Libya",
+    "flag": "🇱🇾",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "LIE",
+    "country_name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "LTU",
+    "country_name": "Lithuania",
+    "flag": "🇱🇹",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "LUX",
+    "country_name": "Luxembourg",
+    "flag": "🇱🇺",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "MDG",
+    "country_name": "Madagascar",
+    "flag": "🇲🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MWI",
+    "country_name": "Malawi",
+    "flag": "🇲🇼",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MYS",
+    "country_name": "Malaysia",
+    "flag": "🇲🇾",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "MDV",
+    "country_name": "Maldives",
+    "flag": "🇲🇻",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "MLI",
+    "country_name": "Mali",
+    "flag": "🇲🇱",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MLT",
+    "country_name": "Malta",
+    "flag": "🇲🇹",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "MHL",
+    "country_name": "Marshall Islands",
+    "flag": "🇲🇭",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "MRT",
+    "country_name": "Mauritania",
+    "flag": "🇲🇷",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MUS",
+    "country_name": "Mauritius",
+    "flag": "🇲🇺",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MEX",
+    "country_name": "Mexico",
+    "flag": "🇲🇽",
+    "continent": "North America"
+  },
+  {
+    "country_code": "FSM",
+    "country_name": "Micronesia",
+    "flag": "🇫🇲",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "MDA",
+    "country_name": "Moldova",
+    "flag": "🇲🇩",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "MCO",
+    "country_name": "Monaco",
+    "flag": "🇲🇨",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "MNG",
+    "country_name": "Mongolia",
+    "flag": "🇲🇳",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "MNE",
+    "country_name": "Montenegro",
+    "flag": "🇲🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "MAR",
+    "country_name": "Morocco",
+    "flag": "🇲🇦",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MOZ",
+    "country_name": "Mozambique",
+    "flag": "🇲🇿",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MMR",
+    "country_name": "Myanmar",
+    "flag": "🇲🇲",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "NAM",
+    "country_name": "Namibia",
+    "flag": "🇳🇦",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "NRU",
+    "country_name": "Nauru",
+    "flag": "🇳🇷",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "NPL",
+    "country_name": "Nepal",
+    "flag": "🇳🇵",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "NLD",
+    "country_name": "Netherlands",
+    "flag": "🇳🇱",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "NZL",
+    "country_name": "New Zealand",
+    "flag": "🇳🇿",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "NIC",
+    "country_name": "Nicaragua",
+    "flag": "🇳🇮",
+    "continent": "North America"
+  },
+  {
+    "country_code": "NER",
+    "country_name": "Niger",
+    "flag": "🇳🇪",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "NGA",
+    "country_name": "Nigeria",
+    "flag": "🇳🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "MKD",
+    "country_name": "North Macedonia",
+    "flag": "🇲🇰",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "NOR",
+    "country_name": "Norway",
+    "flag": "🇳🇴",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "OMN",
+    "country_name": "Oman",
+    "flag": "🇴🇲",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "PAK",
+    "country_name": "Pakistan",
+    "flag": "🇵🇰",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "PLW",
+    "country_name": "Palau",
+    "flag": "🇵🇼",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "PAN",
+    "country_name": "Panama",
+    "flag": "🇵🇦",
+    "continent": "North America"
+  },
+  {
+    "country_code": "PNG",
+    "country_name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "PRY",
+    "country_name": "Paraguay",
+    "flag": "🇵🇾",
+    "continent": "South America"
+  },
+  {
+    "country_code": "PER",
+    "country_name": "Peru",
+    "flag": "🇵🇪",
+    "continent": "South America"
+  },
+  {
+    "country_code": "PHL",
+    "country_name": "Philippines",
+    "flag": "🇵🇭",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "flag": "🇵🇱",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "PRT",
+    "country_name": "Portugal",
+    "flag": "🇵🇹",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "QAT",
+    "country_name": "Qatar",
+    "flag": "🇶🇦",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "ROU",
+    "country_name": "Romania",
+    "flag": "🇷🇴",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "RUS",
+    "country_name": "Russia",
+    "flag": "🇷🇺",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "RWA",
+    "country_name": "Rwanda",
+    "flag": "🇷🇼",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "KNA",
+    "country_name": "St. Kitts and Nevis",
+    "flag": "🇰🇳",
+    "continent": "North America"
+  },
+  {
+    "country_code": "LCA",
+    "country_name": "St. Lucia",
+    "flag": "🇱🇨",
+    "continent": "North America"
+  },
+  {
+    "country_code": "VCT",
+    "country_name": "St. Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "continent": "North America"
+  },
+  {
+    "country_code": "WSM",
+    "country_name": "Samoa",
+    "flag": "🇼🇸",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "SMR",
+    "country_name": "San Marino",
+    "flag": "🇸🇲",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "STP",
+    "country_name": "Sao Tome and Principe",
+    "flag": "🇸🇹",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SAU",
+    "country_name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "SEN",
+    "country_name": "Senegal",
+    "flag": "🇸🇳",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SRB",
+    "country_name": "Serbia",
+    "flag": "🇷🇸",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "SYC",
+    "country_name": "Seychelles",
+    "flag": "🇸🇨",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SLE",
+    "country_name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SGP",
+    "country_name": "Singapore",
+    "flag": "🇸🇬",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "SVK",
+    "country_name": "Slovakia",
+    "flag": "🇸🇰",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "SVN",
+    "country_name": "Slovenia",
+    "flag": "🇸🇮",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "SLB",
+    "country_name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "SOM",
+    "country_name": "Somalia",
+    "flag": "🇸🇴",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ZAF",
+    "country_name": "South Africa",
+    "flag": "🇿🇦",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SSD",
+    "country_name": "South Sudan",
+    "flag": "🇸🇸",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ESP",
+    "country_name": "Spain",
+    "flag": "🇪🇸",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "LKA",
+    "country_name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "SDN",
+    "country_name": "Sudan",
+    "flag": "🇸🇩",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "SUR",
+    "country_name": "Suriname",
+    "flag": "🇸🇷",
+    "continent": "South America"
+  },
+  {
+    "country_code": "SWE",
+    "country_name": "Sweden",
+    "flag": "🇸🇪",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "CHE",
+    "country_name": "Switzerland",
+    "flag": "🇨🇭",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "SYR",
+    "country_name": "Syria",
+    "flag": "🇸🇾",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "TJK",
+    "country_name": "Tajikistan",
+    "flag": "🇹🇯",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "THA",
+    "country_name": "Thailand",
+    "flag": "🇹🇭",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "TLS",
+    "country_name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "TGO",
+    "country_name": "Togo",
+    "flag": "🇹🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "TON",
+    "country_name": "Tonga",
+    "flag": "🇹🇴",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "TTO",
+    "country_name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "continent": "North America"
+  },
+  {
+    "country_code": "TUN",
+    "country_name": "Tunisia",
+    "flag": "🇹🇳",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "TUR",
+    "country_name": "Turkiye",
+    "flag": "🇹🇷",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "TKM",
+    "country_name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "TUV",
+    "country_name": "Tuvalu",
+    "flag": "🇹🇻",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "UGA",
+    "country_name": "Uganda",
+    "flag": "🇺🇬",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "UKR",
+    "country_name": "Ukraine",
+    "flag": "🇺🇦",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "ARE",
+    "country_name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "GBR",
+    "country_name": "United Kingdom",
+    "flag": "🇬🇧",
+    "continent": "Europe"
+  },
+  {
+    "country_code": "TZA",
+    "country_name": "Tanzania",
+    "flag": "🇹🇿",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "USA",
+    "country_name": "United States",
+    "flag": "🇺🇸",
+    "continent": "North America"
+  },
+  {
+    "country_code": "URY",
+    "country_name": "Uruguay",
+    "flag": "🇺🇾",
+    "continent": "South America"
+  },
+  {
+    "country_code": "UZB",
+    "country_name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "VUT",
+    "country_name": "Vanuatu",
+    "flag": "🇻🇺",
+    "continent": "Oceania"
+  },
+  {
+    "country_code": "VEN",
+    "country_name": "Venezuela",
+    "flag": "🇻🇪",
+    "continent": "South America"
+  },
+  {
+    "country_code": "VNM",
+    "country_name": "Vietnam",
+    "flag": "🇻🇳",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "YEM",
+    "country_name": "Yemen",
+    "flag": "🇾🇪",
+    "continent": "Asia"
+  },
+  {
+    "country_code": "ZMB",
+    "country_name": "Zambia",
+    "flag": "🇿🇲",
+    "continent": "Africa"
+  },
+  {
+    "country_code": "ZWE",
+    "country_name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "continent": "Africa"
+  }
+]

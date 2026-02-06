@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: world-statistics-dashboard
+    ports:
+      - "8004:8004"
+    volumes:
+      # Bind to the source data directory so DB changes are picked up without rebuilds
+      - ./src/data:/app/data:ro
+      - ./src/public:/app/public
+      - ./src/server.js:/app/server.js
+      # Persist database query logs on the host
+      - ./logs:/app/logs
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
