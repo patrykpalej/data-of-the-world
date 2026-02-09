@@ -4428,17 +4428,22 @@ footer {
     .filter-grid:not(.map-filter-grid):not(.timeline-filter-grid) .filter-card-year {
         grid-column: 1 / -1;
     }
+
+    /* Raw Data tab: Force vertical stacking on mobile */
+    .raw-data-controls .filter-grid {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .raw-data-controls .filter-grid .filter-card {
+        width: 100% !important;
+    }
 }
 
 @media (max-width: 768px) {
     .raw-data-controls {
         padding: 1.25rem;
         border-radius: 0.75rem;
-    }
-
-    /* Mobile: Raw Data controls go to single column */
-    .raw-data-controls .filter-grid {
-        grid-template-columns: 1fr;
     }
 
     .filter-header {
