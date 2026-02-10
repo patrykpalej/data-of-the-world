@@ -383,7 +383,7 @@ app.get('/api/raw-data/years', (req, res) => {
 
 // API endpoint to get data
 app.get('/api/data', (req, res) => {
-  const { year, xIndex, yIndex, allYears } = req.query;
+  const { year, xIndex, yIndex, sizeIndex, allYears } = req.query;
 
   if (!xIndex || !yIndex) {
     res.status(400).json({ error: 'Missing required parameters: xIndex, yIndex' });
@@ -391,18 +391,20 @@ app.get('/api/data', (req, res) => {
   }
 
   // Build cache key
-  const cacheKey = `data:${xIndex}:${yIndex}:${allYears === 'true' ? 'all' : year}`;
+  const cacheKey = `data:${xIndex}:${yIndex}:${sizeIndex || ''}:${allYears === 'true' ? 'all' : year}`;
   const cached = cache.get(cacheKey);
   if (cached) {
     return res.json(cached);
   }
+
+  const sizeSelect = sizeIndex ? `, ${sizeIndex} as s_value` : '';
 
   let query;
   let params = [];
 
   if (allYears === 'true') {
     query = `
-      SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value
+      SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value${sizeSelect}
       FROM all_data
       WHERE ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL
       ORDER BY year, country_code
@@ -413,7 +415,7 @@ app.get('/api/data', (req, res) => {
       return;
     }
     query = `
-      SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value
+      SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value${sizeSelect}
       FROM all_data
       WHERE year = ? AND ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL
     `;

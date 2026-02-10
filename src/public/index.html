@@ -206,14 +206,6 @@
             <div class="compare-container">
                 <div class="compare-controls-panel">
                 <div class="compare-axis-card">
-                    <label class="filter-label compare-plot-label">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <polyline points="4 18 8 14 12 16 16 10 20 6"></polyline>
-                            <line x1="3" y1="22" x2="3" y2="6"></line>
-                            <line x1="3" y1="22" x2="21" y2="22"></line>
-                        </svg>
-                        Plot 1
-                    </label>
                     <div class="axis-selector-group">
                         <div class="axis-selectors-stack">
                             <div class="axis-selector-row">
@@ -248,6 +240,23 @@
                                         <div class="searchable-select-options" id="yAxis1-options"></div>
                                     </div>
                                     <input type="hidden" id="yAxis1" name="yAxis1">
+                                </div>
+                            </div>
+                            <div class="axis-selector-row">
+                                <label>Size:</label>
+                                <div class="searchable-select" id="sizeAxis1-container" data-select-id="sizeAxis1">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value" id="sizeAxis1-value">Population</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="sizeAxis1-options"></div>
+                                    </div>
+                                    <input type="hidden" id="sizeAxis1" name="sizeAxis1">
                                 </div>
                             </div>
                         </div>
@@ -302,14 +311,6 @@
                 </div>
 
                 <div class="compare-axis-card plot-2-only">
-                    <label class="filter-label compare-plot-label">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <polyline points="4 18 8 14 12 16 16 10 20 6"></polyline>
-                            <line x1="3" y1="22" x2="3" y2="6"></line>
-                            <line x1="3" y1="22" x2="21" y2="22"></line>
-                        </svg>
-                        Plot 2
-                    </label>
                     <div class="axis-selector-group">
                         <div class="axis-selectors-stack">
                             <div class="axis-selector-row">
@@ -344,6 +345,23 @@
                                         <div class="searchable-select-options" id="yAxis2-options"></div>
                                     </div>
                                     <input type="hidden" id="yAxis2" name="yAxis2">
+                                </div>
+                            </div>
+                            <div class="axis-selector-row">
+                                <label>Size:</label>
+                                <div class="searchable-select" id="sizeAxis2-container" data-select-id="sizeAxis2">
+                                    <div class="searchable-select-trigger">
+                                        <span class="searchable-select-value muted" id="sizeAxis2-value">Disable size modality</span>
+                                        <svg class="searchable-select-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                                    </div>
+                                    <div class="searchable-select-dropdown">
+                                        <div class="searchable-select-search-wrapper">
+                                            <svg class="searchable-select-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                                            <input type="text" class="searchable-select-search" placeholder="Search indicator...">
+                                        </div>
+                                        <div class="searchable-select-options" id="sizeAxis2-options"></div>
+                                    </div>
+                                    <input type="hidden" id="sizeAxis2" name="sizeAxis2">
                                 </div>
                             </div>
                         </div>

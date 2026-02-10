@@ -547,13 +547,6 @@ h1 {
 .compare-axis-card {
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
-}
-
-.compare-plot-label {
-    font-size: 0.75rem;
-    margin-bottom: 0;
-    margin-left: calc(16px + 0.4rem);
 }
 
 .axis-selector-group {
@@ -565,7 +558,7 @@ h1 {
 .axis-selectors-stack {
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
+    gap: 0.2rem;
 }
 
 .axis-selector-row {
@@ -578,7 +571,7 @@ h1 {
     font-size: 0.75rem;
     font-weight: 600;
     color: var(--text-secondary);
-    min-width: 16px;
+    min-width: 26px;
     text-align: right;
 }
 
@@ -1929,11 +1922,6 @@ footer {
         grid-template-columns: auto 1fr;
     }
 
-    /* Hide Plot label when only one plot is shown */
-    .compare-plot-label {
-        visibility: hidden;
-    }
-
     /* Show hamburger menu */
     .hamburger-btn {
         display: flex;
@@ -2258,10 +2246,6 @@ footer {
         padding: 0.75rem 1.25rem;
     }
 
-    .compare-axis-card {
-        gap: 0.5rem;
-    }
-
     .compare-year-card {
         align-items: stretch;
     }
@@ -2279,7 +2263,7 @@ footer {
     .axis-selectors-stack {
         flex: 1;
         min-width: 0;
-        gap: 0.5rem;
+        gap: 0.35rem;
     }
 
     .axis-selector-row {
@@ -2288,7 +2272,7 @@ footer {
 
     .axis-selector-row label {
         font-size: 0.875rem;
-        min-width: 20px;
+        min-width: 30px;
         flex-shrink: 0;
     }
 
@@ -3905,6 +3889,10 @@ footer {
     color: var(--text-secondary);
 }
 
+.searchable-select-value.muted {
+    color: var(--text-secondary);
+}
+
 .searchable-select-chevron {
     width: 16px;
     height: 16px;
@@ -4063,6 +4051,26 @@ footer {
 
 .dark-mode .searchable-select-option.selected {
     background-color: rgba(59, 130, 246, 0.25);
+}
+
+.searchable-select-option-none {
+    background-color: rgba(37, 99, 235, 0.08);
+    font-weight: 500;
+    color: var(--text-secondary);
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 0.25rem;
+}
+
+.searchable-select-option-none:hover {
+    background-color: rgba(37, 99, 235, 0.18);
+}
+
+.dark-mode .searchable-select-option-none {
+    background-color: rgba(59, 130, 246, 0.12);
+}
+
+.dark-mode .searchable-select-option-none:hover {
+    background-color: rgba(59, 130, 246, 0.22);
 }
 
 /* Table Wrapper */

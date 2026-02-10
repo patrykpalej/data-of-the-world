@@ -503,7 +503,7 @@ async function loadCountries() {
 
 // Populate axis selectors with indexes grouped by category (searchable dropdown)
 function populateAxisSelectors() {
-    const selectors = ['xAxis1', 'yAxis1', 'xAxis2', 'yAxis2'];
+    const selectors = ['xAxis1', 'yAxis1', 'xAxis2', 'yAxis2', 'sizeAxis1', 'sizeAxis2'];
     const groupedIndexes = getIndexesByCategory();
 
     selectors.forEach((selectorId) => {
@@ -512,6 +512,7 @@ function populateAxisSelectors() {
         const valueDisplay = document.getElementById(`${selectorId}-value`);
         const optionsContainer = document.getElementById(`${selectorId}-options`);
         const searchInput = container?.querySelector('.searchable-select-search');
+        const isSizeSelector = selectorId.startsWith('sizeAxis');
 
         if (!container || !hiddenInput || !optionsContainer) {
             console.error(`Searchable select for ${selectorId} not found`);
@@ -519,6 +520,20 @@ function populateAxisSelectors() {
         }
 
         optionsContainer.innerHTML = '';
+
+        // Add "None" option at the top for size selectors
+        if (isSizeSelector) {
+            const noneOption = document.createElement('div');
+            noneOption.className = 'searchable-select-option searchable-select-option-none';
+            noneOption.dataset.value = '';
+            noneOption.dataset.label = 'Disable size modality';
+            noneOption.textContent = 'Disable size modality';
+            noneOption.addEventListener('click', (e) => {
+                e.stopPropagation();
+                selectSearchableOption(selectorId, '', 'Disable size modality');
+            });
+            optionsContainer.appendChild(noneOption);
+        }
 
         // Create groups for each category
         groupedIndexes.forEach(group => {
@@ -555,12 +570,18 @@ function populateAxisSelectors() {
         if (selectorId === 'yAxis1') defaultValue = 'corruption';
         if (selectorId === 'xAxis2') defaultValue = 'hdi';
         if (selectorId === 'yAxis2') defaultValue = 'fertility';
+        if (selectorId === 'sizeAxis1') defaultValue = 'population';
 
         if (defaultValue) {
             const defaultIndex = state.indexes.find(i => i.id === defaultValue);
             if (defaultIndex) {
                 selectSearchableOption(selectorId, defaultValue, getIndexLabel(defaultIndex), false);
             }
+        }
+
+        // Size selectors default to "None" (unless already set above)
+        if (isSizeSelector && !defaultValue) {
+            selectSearchableOption(selectorId, '', 'Disable size modality', false);
         }
 
         // Setup event handlers
@@ -586,6 +607,7 @@ function selectSearchableOption(selectorId, value, label, triggerChange = true) 
     // Update display
     valueDisplay.textContent = label;
     valueDisplay.classList.remove('placeholder');
+    valueDisplay.classList.toggle('muted', value === '' && label === 'Disable size modality');
 
     // Update selected state in options
     optionsContainer.querySelectorAll('.searchable-select-option').forEach(opt => {
@@ -858,6 +880,7 @@ function initializeCompareYearControls() {
 async function initializePlot(plotNum) {
     const xAxisSelect = document.getElementById(`xAxis${plotNum}`);
     const yAxisSelect = document.getElementById(`yAxis${plotNum}`);
+    const sizeAxisSelect = document.getElementById(`sizeAxis${plotNum}`);
 
     if (plotNum === 2) {
         state.secondPlotInitialized = true;
@@ -908,6 +931,13 @@ async function initializePlot(plotNum) {
         await updatePlotYearRange(plotNum);
     });
 
+    // Update plot when size axis changes
+    if (sizeAxisSelect) {
+        sizeAxisSelect.addEventListener('change', async () => {
+            await updatePlot(plotNum);
+        });
+    }
+
     // Initial year range and plot - await completion
     await updatePlotYearRange(plotNum);
     await updatePlot(plotNum);
@@ -917,6 +947,7 @@ async function initializePlot(plotNum) {
 async function updatePlot(plotNum) {
     const xAxisEl = document.getElementById(`xAxis${plotNum}`);
     const yAxisEl = document.getElementById(`yAxis${plotNum}`);
+    const sizeAxisEl = document.getElementById(`sizeAxis${plotNum}`);
     const yearSliderEl = document.getElementById('compareYearSlider');
 
     // Safety check - don't update if elements don't exist or have no value
@@ -927,6 +958,7 @@ async function updatePlot(plotNum) {
 
     const xAxis = xAxisEl.value;
     const yAxis = yAxisEl.value;
+    const sizeAxis = sizeAxisEl ? sizeAxisEl.value : '';
     const year = yearSliderEl.value;
 
     // Get year mode from radio buttons
@@ -940,10 +972,12 @@ async function updatePlot(plotNum) {
         let url;
         let data;
 
+        const sizeParam = sizeAxis ? `&sizeIndex=${sizeAxis}` : '';
+
         if (allYears || allYearsAveraged) {
-            url = `/api/data?xIndex=${xAxis}&yIndex=${yAxis}&allYears=true`;
+            url = `/api/data?xIndex=${xAxis}&yIndex=${yAxis}${sizeParam}&allYears=true`;
         } else {
-            url = `/api/data?year=${year}&xIndex=${xAxis}&yIndex=${yAxis}`;
+            url = `/api/data?year=${year}&xIndex=${xAxis}&yIndex=${yAxis}${sizeParam}`;
         }
 
         console.log(`Fetching data for plot ${plotNum}:`, url);
@@ -959,7 +993,7 @@ async function updatePlot(plotNum) {
 
         // If averaging, calculate average values per country
         if (allYearsAveraged) {
-            data = calculateAveragedData(data);
+            data = calculateAveragedData(data, !!sizeAxis);
             console.log(`Averaged to ${data.length} data points`);
         }
 
@@ -995,11 +1029,24 @@ async function updatePlot(plotNum) {
             }
         }
 
+        // Fetch size range if size axis is active
+        let sizeRange = null;
+        if (sizeAxis) {
+            try {
+                const sizeRangeResponse = await fetch(`/api/index-range?index=${sizeAxis}`);
+                if (sizeRangeResponse.ok) {
+                    sizeRange = await sizeRangeResponse.json();
+                }
+            } catch (e) {
+                console.error('Error fetching size range:', e);
+            }
+        }
+
         // Check if X and Y axes are the same - render histogram instead of scatter plot
         if (xAxis === yAxis) {
             renderHistogram(plotNum, data, xAxis, allYears ? 'all' : (allYearsAveraged ? 'averaged' : year), fixedRange);
         } else {
-            renderScatterPlot(plotNum, data, xAxis, yAxis, allYears ? 'all' : (allYearsAveraged ? 'averaged' : year), fixedRange);
+            renderScatterPlot(plotNum, data, xAxis, yAxis, allYears ? 'all' : (allYearsAveraged ? 'averaged' : year), fixedRange, sizeAxis || null, sizeRange);
         }
     } catch (error) {
         console.error('Error loading plot data:', error);
@@ -1007,7 +1054,7 @@ async function updatePlot(plotNum) {
 }
 
 // Calculate averaged data across all years for each country
-function calculateAveragedData(data) {
+function calculateAveragedData(data, hasSize = false) {
     const countryData = {};
 
     // Group data by country
@@ -1017,27 +1064,37 @@ function calculateAveragedData(data) {
                 country_code: item.country_code,
                 country_name: item.country_name,
                 x_values: [],
-                y_values: []
+                y_values: [],
+                s_values: []
             };
         }
         countryData[item.country_code].x_values.push(item.x_value);
         countryData[item.country_code].y_values.push(item.y_value);
+        if (hasSize && item.s_value != null) {
+            countryData[item.country_code].s_values.push(item.s_value);
+        }
     });
 
     // Calculate averages
-    const averaged = Object.values(countryData).map(country => ({
-        country_code: country.country_code,
-        country_name: country.country_name,
-        x_value: country.x_values.reduce((sum, val) => sum + val, 0) / country.x_values.length,
-        y_value: country.y_values.reduce((sum, val) => sum + val, 0) / country.y_values.length,
-        year: 'avg' // Special marker for averaged data
-    }));
+    const averaged = Object.values(countryData).map(country => {
+        const result = {
+            country_code: country.country_code,
+            country_name: country.country_name,
+            x_value: country.x_values.reduce((sum, val) => sum + val, 0) / country.x_values.length,
+            y_value: country.y_values.reduce((sum, val) => sum + val, 0) / country.y_values.length,
+            year: 'avg'
+        };
+        if (hasSize && country.s_values.length > 0) {
+            result.s_value = country.s_values.reduce((sum, val) => sum + val, 0) / country.s_values.length;
+        }
+        return result;
+    });
 
     return averaged;
 }
 
 // Render D3 scatter plot
-function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = null) {
+function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = null, sizeAxisId = null, sizeRange = null) {
     const plotDiv = document.getElementById(`plot${plotNum}`);
     plotDiv.innerHTML = ''; // Clear previous plot
 
@@ -1092,7 +1149,14 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
     const xLabel = getIndexLabel(xIndex) || xAxisId;
     const yLabel = getIndexLabel(yIndex) || yAxisId;
 
-    console.log(`Plot ${plotNum} labels: X="${xLabel}", Y="${yLabel}"`);
+    // Size axis label (if active)
+    let sizeLabel = null;
+    if (sizeAxisId) {
+        const sizeIndex = state.indexes.find(i => i.id === sizeAxisId);
+        sizeLabel = getIndexLabel(sizeIndex) || sizeAxisId;
+    }
+
+    console.log(`Plot ${plotNum} labels: X="${xLabel}", Y="${yLabel}"${sizeLabel ? `, Size="${sizeLabel}"` : ''}`);
 
     // Scales with reduced padding on all sides
     // Use fixed range if provided (for locked axis mode), otherwise calculate from data
@@ -1273,9 +1337,24 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
     const baseRadius = year === 'all'
         ? (isSmallScreen ? 2.5 : 3)
         : (isSmallScreen ? 4 : 5);
-    const hoverRadius = year === 'all'
+    const hoverRadiusFixed = year === 'all'
         ? (isSmallScreen ? 5 : 6)
         : (isSmallScreen ? 7 : 8);
+
+    // Size scale for variable point sizing
+    let sizeScale = null;
+    if (sizeAxisId && sizeRange && sizeRange.min_value != null && sizeRange.max_value != null) {
+        const minRadius = year === 'all' ? (isSmallScreen ? 1.5 : 2) : (isSmallScreen ? 2 : 3);
+        const maxRadius = year === 'all' ? (isSmallScreen ? 7 : 9) : (isSmallScreen ? 10 : 14);
+        sizeScale = d3.scaleSqrt()
+            .domain([sizeRange.min_value, sizeRange.max_value])
+            .range([minRadius, maxRadius])
+            .clamp(true);
+    }
+
+    // Helper to get point radius
+    const getPointRadius = (d) => sizeScale && d.s_value != null ? sizeScale(d.s_value) : baseRadius;
+    const getHoverRadius = (d) => sizeScale && d.s_value != null ? sizeScale(d.s_value) * 1.5 : hoverRadiusFixed;
 
     // Track if we're in pan mode (zoomed in)
     const isZoomed = () => !!state.zoomState[plotNum];
@@ -1356,6 +1435,9 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
     const pointsGroup = svg.append('g')
         .attr('clip-path', `url(#clip-${plotNum})`);
 
+    // Helper to check if point should be hidden due to missing size data
+    const isMissingSizeData = (d) => sizeScale && d.s_value == null;
+
     // Points
     const circles = pointsGroup.selectAll('circle')
         .data(data)
@@ -1363,7 +1445,8 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
         .append('circle')
         .attr('cx', d => xScale(d.x_value))
         .attr('cy', d => yScale(d.y_value))
-        .attr('r', baseRadius)
+        .attr('r', d => getPointRadius(d))
+        .style('display', d => isMissingSizeData(d) ? 'none' : null)
         .style('fill', d => {
             if (colorByContinent) {
                 const continent = state.continentMap[d.country_code];
@@ -1382,7 +1465,7 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
             d3.select(this)
                 .transition()
                 .duration(200)
-                .attr('r', hoverRadius)
+                .attr('r', getHoverRadius(d))
                 .style('opacity', 1);
 
             tooltip.transition()
@@ -1408,15 +1491,20 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
                 tooltipContent = `<strong style="color: ${countryColor};">${countryDisplay}</strong><br/>${xLabel}: ${formatTooltipValue(d.x_value)}<br/>${yLabel}: ${formatTooltipValue(d.y_value)}`;
             }
 
+            // Add size info to tooltip if size axis is active
+            if (sizeLabel && d.s_value != null) {
+                tooltipContent += `<br/>${sizeLabel}: ${formatTooltipValue(d.s_value)}`;
+            }
+
             tooltip.html(tooltipContent)
                 .style('left', (event.clientX + 10) + 'px')
                 .style('top', (event.clientY - 28) + 'px');
         })
-        .on('mouseout', function() {
+        .on('mouseout', function(event, d) {
             d3.select(this)
                 .transition()
                 .duration(200)
-                .attr('r', baseRadius)
+                .attr('r', getPointRadius(d))
                 .style('opacity', year === 'all' ? 0.5 : 0.7);
 
             tooltip.transition()
@@ -1524,8 +1612,9 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
         }
         const hiddenContinents = state.hiddenContinents[plotNum];
 
-        // Apply initial visibility based on persisted state
+        // Apply initial visibility based on persisted state and missing size data
         circles.style('display', d => {
+            if (isMissingSizeData(d)) return 'none';
             const pointContinent = state.continentMap[d.country_code];
             return hiddenContinents.has(pointContinent) ? 'none' : null;
         });
@@ -1557,6 +1646,7 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
 
                     // Update circles visibility
                     circles.style('display', d => {
+                        if (isMissingSizeData(d)) return 'none';
                         const pointContinent = state.continentMap[d.country_code];
                         return hiddenContinents.has(pointContinent) ? 'none' : null;
                     });
@@ -1574,10 +1664,11 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
     }
 
     // Add point count badge (bottom-right corner)
+    const visibleCount = sizeScale ? data.filter(d => d.s_value != null).length : data.length;
     d3.select(`#plot${plotNum}`)
         .append('div')
         .attr('class', 'plot-point-count')
-        .text(`Points: ${data.length.toLocaleString('fr-FR')}`);
+        .text(`Points: ${visibleCount.toLocaleString('fr-FR')}`);
 }
 
 // Render histogram for single variable distribution
@@ -4433,6 +4524,7 @@ async function selectMapIndexOption(value, label, triggerChange = true) {
     // Update display
     valueDisplay.textContent = label;
     valueDisplay.classList.remove('placeholder');
+    valueDisplay.classList.toggle('muted', value === '' && label === 'Disable size modality');
 
     // Update selected state in options
     optionsContainer.querySelectorAll('.searchable-select-option').forEach(opt => {
