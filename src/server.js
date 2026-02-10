@@ -177,10 +177,10 @@ setTimeout(prewarmCache, 200);
 
 // API endpoint to get year range
 app.get('/api/years', (req, res) => {
-  const { xIndex, yIndex, index, indexes } = req.query;
+  const { xIndex, yIndex, sizeIndex, index, indexes } = req.query;
 
   // Build cache key from query params
-  const cacheKey = `years:${xIndex || ''}:${yIndex || ''}:${index || ''}:${indexes || ''}`;
+  const cacheKey = `years:${xIndex || ''}:${yIndex || ''}:${sizeIndex || ''}:${index || ''}:${indexes || ''}`;
   const cached = cache.get(cacheKey);
   if (cached) {
     return res.json(cached);
@@ -194,12 +194,13 @@ app.get('/api/years', (req, res) => {
 
   if (xIndex && yIndex) {
     // Both indexes specified (for Compare scatter plots)
+    const sizeFilter = sizeIndex ? `\n        AND ${sizeIndex} IS NOT NULL` : '';
     query = `
       SELECT MIN(year) as min_year, MAX(year) as max_year
       FROM all_data
       WHERE year IS NOT NULL
         AND ${xIndex} IS NOT NULL
-        AND ${yIndex} IS NOT NULL
+        AND ${yIndex} IS NOT NULL${sizeFilter}
     `;
   } else if (index) {
     // Single index specified (for Map tab)
@@ -398,6 +399,7 @@ app.get('/api/data', (req, res) => {
   }
 
   const sizeSelect = sizeIndex ? `, ${sizeIndex} as s_value` : '';
+  const sizeFilter = sizeIndex ? ` AND ${sizeIndex} IS NOT NULL` : '';
 
   let query;
   let params = [];
@@ -406,7 +408,7 @@ app.get('/api/data', (req, res) => {
     query = `
       SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value${sizeSelect}
       FROM all_data
-      WHERE ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL
+      WHERE ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL${sizeFilter}
       ORDER BY year, country_code
     `;
   } else {
@@ -417,7 +419,7 @@ app.get('/api/data', (req, res) => {
     query = `
       SELECT country_code, year, ${xIndex} as x_value, ${yIndex} as y_value${sizeSelect}
       FROM all_data
-      WHERE year = ? AND ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL
+      WHERE year = ? AND ${xIndex} IS NOT NULL AND ${yIndex} IS NOT NULL${sizeFilter}
     `;
     params = [parseInt(year)];
   }

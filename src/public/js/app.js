@@ -431,11 +431,14 @@ function hideAxisLabelTooltip() {
 }
 
 // Load year range from API (optionally filtered by indexes)
-async function loadYearRange(xIndex = null, yIndex = null) {
+async function loadYearRange(xIndex = null, yIndex = null, sizeIndex = null) {
     try {
         let url = '/api/years';
         if (xIndex && yIndex) {
             url += `?xIndex=${xIndex}&yIndex=${yIndex}`;
+            if (sizeIndex) {
+                url += `&sizeIndex=${sizeIndex}`;
+            }
         }
         const response = await fetch(url);
         const yearRange = await response.json();
@@ -451,6 +454,7 @@ async function loadYearRange(xIndex = null, yIndex = null) {
 async function updatePlotYearRange(plotNum) {
     const xAxisEl = document.getElementById(`xAxis${plotNum}`);
     const yAxisEl = document.getElementById(`yAxis${plotNum}`);
+    const sizeAxisEl = document.getElementById(`sizeAxis${plotNum}`);
 
     if (!xAxisEl || !yAxisEl || !xAxisEl.value || !yAxisEl.value) {
         return;
@@ -458,8 +462,9 @@ async function updatePlotYearRange(plotNum) {
 
     const xIndex = xAxisEl.value;
     const yIndex = yAxisEl.value;
+    const sizeIndex = sizeAxisEl ? sizeAxisEl.value : null;
 
-    const yearRange = await loadYearRange(xIndex, yIndex);
+    const yearRange = await loadYearRange(xIndex, yIndex, sizeIndex || null);
 
     if (!yearRange || !yearRange.min_year || !yearRange.max_year) {
         console.warn(`No year range available for plot ${plotNum}`);
@@ -530,7 +535,7 @@ function populateAxisSelectors() {
             noneOption.textContent = 'Disable size modality';
             noneOption.addEventListener('click', (e) => {
                 e.stopPropagation();
-                selectSearchableOption(selectorId, '', 'Disable size modality');
+                selectSearchableOption(selectorId, '', 'Size modality disabled');
             });
             optionsContainer.appendChild(noneOption);
         }
@@ -581,7 +586,7 @@ function populateAxisSelectors() {
 
         // Size selectors default to "None" (unless already set above)
         if (isSizeSelector && !defaultValue) {
-            selectSearchableOption(selectorId, '', 'Disable size modality', false);
+            selectSearchableOption(selectorId, '', 'Size modality disabled', false);
         }
 
         // Setup event handlers
@@ -607,7 +612,7 @@ function selectSearchableOption(selectorId, value, label, triggerChange = true) 
     // Update display
     valueDisplay.textContent = label;
     valueDisplay.classList.remove('placeholder');
-    valueDisplay.classList.toggle('muted', value === '' && label === 'Disable size modality');
+    valueDisplay.classList.toggle('muted', value === '' && label === 'Size modality disabled');
 
     // Update selected state in options
     optionsContainer.querySelectorAll('.searchable-select-option').forEach(opt => {
@@ -934,7 +939,7 @@ async function initializePlot(plotNum) {
     // Update plot when size axis changes
     if (sizeAxisSelect) {
         sizeAxisSelect.addEventListener('change', async () => {
-            await updatePlot(plotNum);
+            await updatePlotYearRange(plotNum);
         });
     }
 
@@ -4524,7 +4529,7 @@ async function selectMapIndexOption(value, label, triggerChange = true) {
     // Update display
     valueDisplay.textContent = label;
     valueDisplay.classList.remove('placeholder');
-    valueDisplay.classList.toggle('muted', value === '' && label === 'Disable size modality');
+    valueDisplay.classList.toggle('muted', value === '' && label === 'Size modality disabled');
 
     // Update selected state in options
     optionsContainer.querySelectorAll('.searchable-select-option').forEach(opt => {

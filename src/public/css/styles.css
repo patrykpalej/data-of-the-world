@@ -567,6 +567,10 @@ h1 {
     gap: 0.4rem;
 }
 
+.axis-selectors-stack .axis-selector-row:last-child {
+    margin-top: 0.3rem;
+}
+
 .axis-selector-row label {
     font-size: 0.75rem;
     font-weight: 600;
@@ -592,7 +596,7 @@ h1 {
     height: 28px;
     min-width: 28px;
     align-self: center;
-    margin-bottom: 0;
+    margin-bottom: 2rem;
 }
 
 .axis-selector-group .axis-swap-btn svg {
@@ -4054,7 +4058,7 @@ footer {
 }
 
 .searchable-select-option-none {
-    background-color: rgba(37, 99, 235, 0.08);
+    background-color: rgba(220, 60, 60, 0.08);
     font-weight: 500;
     color: var(--text-secondary);
     border-bottom: 1px solid var(--border-color);
@@ -4062,15 +4066,15 @@ footer {
 }
 
 .searchable-select-option-none:hover {
-    background-color: rgba(37, 99, 235, 0.18);
+    background-color: rgba(220, 60, 60, 0.16);
 }
 
 .dark-mode .searchable-select-option-none {
-    background-color: rgba(59, 130, 246, 0.12);
+    background-color: rgba(240, 80, 80, 0.1);
 }
 
 .dark-mode .searchable-select-option-none:hover {
-    background-color: rgba(59, 130, 246, 0.22);
+    background-color: rgba(240, 80, 80, 0.2);
 }
 
 /* Table Wrapper */
