@@ -60,6 +60,14 @@ function buildCountryLabel(name, flag) {
     return cleanFlag ? `${cleanFlag} ${cleanName}`.trim() : cleanName;
 }
 
+function emojiToHTML(text) {
+    return String(text || '').replace(/[\u{1F1E6}-\u{1F1FF}]{2}/gu, flag => {
+        const points = [...flag].map(c => c.codePointAt(0));
+        const code = points.map(p => String.fromCodePoint(p - 0x1F1E6 + 0x41)).join('').toLowerCase();
+        return `<img src="https://flagcdn.com/16x12/${code}.png" srcset="https://flagcdn.com/32x24/${code}.png 2x" alt="${flag}" class="country-flag">`;
+    });
+}
+
 function getCountryLabel(countryCode) {
     const entry = state.countryMap[countryCode];
     if (!entry) return countryCode;
@@ -1478,7 +1486,7 @@ function renderScatterPlot(plotNum, data, xAxisId, yAxisId, year, fixedRange = n
                 .style('opacity', 1);
 
             const countryName = getCountryLabel(d.country_code);
-            const countryDisplay = `${countryName} (${d.country_code})`;
+            const countryDisplay = emojiToHTML(`${countryName} (${d.country_code})`);
 
             // Get continent color for the tooltip
             let countryColor = '#2563eb'; // default blue
@@ -1992,7 +2000,7 @@ function renderHistogram(plotNum, data, indexId, year, fixedRange = null) {
         const continent = state.continentMap[item.country_code];
         const color = colorByContinent && continent ? continentColors[continent] : '#2563eb';
         const yearText = year === 'all' ? ` (${item.year})` : (year === 'averaged' ? ' (avg)' : '');
-        return `<div style="color: ${color}; margin: 2px 0;">${countryName}: ${formatTooltipValue(item.value)}${yearText}</div>`;
+        return `<div style="color: ${color}; margin: 2px 0;">${emojiToHTML(countryName)}: ${formatTooltipValue(item.value)}${yearText}</div>`;
     }).join('');
 
             const tooltipContent = `<strong>Range: ${formatTooltipValue(d.x0)} – ${formatTooltipValue(d.x1)}</strong><br/><span style="color: var(--text-secondary); font-size: 0.8125rem;">Count: ${visibleData.length}</span><br/><div style="max-height: 200px; overflow-y: auto; margin-top: 0.5rem;">${countriesHtml}</div>`;
@@ -3334,7 +3342,7 @@ function renderCountryOptions() {
             option.dataset.continent = group.continent;
             option.innerHTML = `
                 <input type="checkbox" class="multiselect-checkbox" ${isSelected ? 'checked' : ''}>
-                <span class="multiselect-option-text">${label}</span>
+                <span class="multiselect-option-text">${emojiToHTML(label)}</span>
             `;
 
             option.addEventListener('click', (e) => {
@@ -3536,7 +3544,7 @@ function renderCountryTags() {
         const name = country ? country.label : countryCode;
         const tag = document.createElement('div');
         tag.className = 'multiselect-tag';
-        tag.innerHTML = `<span class="multiselect-tag-text">${name}</span><button type="button" class="multiselect-tag-remove">&times;</button>`;
+        tag.innerHTML = `<span class="multiselect-tag-text">${emojiToHTML(name)}</span><button type="button" class="multiselect-tag-remove">&times;</button>`;
         return tag;
     };
 
@@ -3560,7 +3568,7 @@ function renderCountryTags() {
         const tag = document.createElement('div');
         tag.className = 'multiselect-tag';
         tag.innerHTML = `
-            <span class="multiselect-tag-text">${name}</span>
+            <span class="multiselect-tag-text">${emojiToHTML(name)}</span>
             <button type="button" class="multiselect-tag-remove" data-value="${countryCode}">&times;</button>
         `;
 
@@ -4161,7 +4169,7 @@ function renderRawDataTable() {
                 break;
             case 'country_name':
                 td.className = 'name-col';
-                td.textContent = row.country_display_name || row.country_name;
+                td.innerHTML = emojiToHTML(row.country_display_name || row.country_name);
                 break;
             case 'continent':
                 td.className = 'continent-col';
@@ -5569,7 +5577,7 @@ function renderTimelineCountryOptions() {
             option.dataset.continent = group.continent;
             option.innerHTML = `
                 <input type="checkbox" class="multiselect-checkbox" ${isSelected ? 'checked' : ''}>
-                <span class="multiselect-option-text">${country.label}</span>
+                <span class="multiselect-option-text">${emojiToHTML(country.label)}</span>
             `;
 
             option.addEventListener('click', (e) => {
@@ -5657,7 +5665,7 @@ function renderTimelineCountryTags() {
         const label = country ? country.label : countryCode;
         const tag = document.createElement('div');
         tag.className = 'multiselect-tag';
-        tag.innerHTML = `<span class="multiselect-tag-text">${label}</span><button type="button" class="multiselect-tag-remove">&times;</button>`;
+        tag.innerHTML = `<span class="multiselect-tag-text">${emojiToHTML(label)}</span><button type="button" class="multiselect-tag-remove">&times;</button>`;
         return tag;
     };
 
@@ -5678,7 +5686,7 @@ function renderTimelineCountryTags() {
         const tag = document.createElement('div');
         tag.className = 'multiselect-tag';
         tag.innerHTML = `
-            <span class="multiselect-tag-text">${label}</span>
+            <span class="multiselect-tag-text">${emojiToHTML(label)}</span>
             <button type="button" class="multiselect-tag-remove" data-value="${countryCode}">&times;</button>
         `;
 
@@ -6509,7 +6517,7 @@ function showTimelineTooltip(event, d, indexInfo, countryCode, lineColor) {
     tooltip.innerHTML = `
         <div class="timeline-tooltip-header">
             <span class="timeline-tooltip-dot" style="background-color: ${color};"></span>
-            <span class="timeline-tooltip-name">${countryName}</span>
+            <span class="timeline-tooltip-name">${emojiToHTML(countryName)}</span>
             <span class="timeline-tooltip-year">(${d.year})</span>
         </div>
         <div>${label}: ${formattedValue}</div>

@@ -5623,3 +5623,11 @@ footer {
         font-size: 0.75rem;
     }
 }
+
+img.country-flag {
+    height: 0.85em;
+    width: auto;
+    vertical-align: -0.05em;
+    margin-right: 0.3em;
+    display: inline;
+}
